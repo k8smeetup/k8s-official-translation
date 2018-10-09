@@ -1,11 +1,11 @@
 
-# 适用于零基础的新人指引教程
+# 适用于零基础的新人指引教程
 
 本篇主要包含如下内容：
 
 - 注册 `Github` 账户
 - 注册 CNCF/CLA 会员
-- 领取翻译任务
+- 领取翻译任务
 - Fork 翻译库并切换分支翻译
 - 向上游指定分支提交 PR
 
@@ -15,12 +15,16 @@
 
 ## Step2. 注册 `CNCF/CLA` 会员
 
-## Step3. 领取翻译任务
+## Step3. 领取翻译任务
 
 ## Step4. `Fork` 翻译库并切换分支翻译
 
 ## Step5. 向上游指定分支提交 `PR`
 
+
+下文待整理
+
+```bash
 任务地址：[翻译任务](https://docs.google.com/spreadsheets/d/1cF5ULp0-_Sw8HqiZXCk6nfBC0nq5NM-QboZ4tV7EopA/edit#gid=196779105)
 
 
@@ -114,3 +118,5 @@ remote:      https://github.com/brucehex/kubernetes-docs-zh/pull/new/release-1.1
 remote:
 To https://github.com/brucehex/kubernetes-docs-zh.git
  * [new branch]      release-1.11-zh -> release-1.11-zh
+
+ ```

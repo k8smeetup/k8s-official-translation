@@ -1,4 +1,4 @@
-# 翻译任务表解读
+# 翻译任务表解读
 
 任务地址：[翻译任务](https://docs.google.com/spreadsheets/d/1cF5ULp0-_Sw8HqiZXCk6nfBC0nq5NM-QboZ4tV7EopA/edit#gid=196779105)
 
@@ -12,7 +12,7 @@
   - v1.12
 - **Docs**
   - Yes Kubernetes 主文档
-  - No Kubernetes 辅助文档 如 Blog+Case 相关文档
+  - No Kubernetes 辅助文档 如 Blog+Case 相关文档
 - **Status** - 参考颜色代码： http://tool.oschina.net/commons?type=3
   - Not Started  - 未翻译(默认白色背景) 可领取任务
   - Translating  - 领取任务状态(默认 Salmon 背景) -  250 128 114	#FA8072
@@ -46,7 +46,7 @@
 - **note** - 隐藏列-记录翻译任务领取时间(领取任务自动设置)
   - 15 天状态不更新，重置翻译状态为未翻译，方便他人领取任务，避免文章长时间无效占用
 
-#### 特别提醒:
+#### 特别提醒:
 
 `Translating Update` 此状态文档在 Master 分支已译过，仍保留原译者，还是希望此文由原译者完成。
 
