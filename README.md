@@ -2,8 +2,6 @@
 
 `K8SMeetup` 翻译社区 [DashBoard](https://k8smeetup.github.io/chart)，附每周的翻译[文章汇总](contribution.md)。
 
-建议翻译之前，了解一下[上游贡献文档](https://docs.google.com/document/d/1qjJGRw3EyV9-RR50LUAOABrFPm4cOotGcXxgz3DA8Uw/edit)。
-
 - 翻译流程
   - 讲解译者如何参与 `Kubernetes` 中文化文档翻译的过程
 - 校稿规范
@@ -12,16 +10,16 @@
 
 注：所有的翻译文件，都要保留原文，一段英文，一段中文，且中英文间隔不要太长，以方便大家 `review`，保证翻译质量。
 
-##Kubernetes 翻译流程
+## Kubernetes 翻译流程
 
 参与贡献的主要流程如下：
 - 领取[翻译任务](https://docs.google.com/spreadsheets/d/1cF5ULp0-_Sw8HqiZXCk6nfBC0nq5NM-QboZ4tV7EopA/edit#gid=196779105)
 - 准备翻译文档 `Fork` 代码到自己的 `github` 账户
 - 克隆代码完成本地翻译并向 `kubernetes-docs-zh` 提交PR
 - 根据 cncf/cla 会员 review 意见完成修改
-- 管理员审核并完成`PR`合并
+- 管理员审核并完成`PR`合并
 
-###参与翻译前必读
+### 参与翻译前必读
 
 - [翻译任务表解读](translation_task.md)
 - [适用于零基础的新人指引教程](Zero_based_trans.md)
