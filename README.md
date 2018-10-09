@@ -12,7 +12,7 @@
 
 注：所有的翻译文件，都要保留原文，一段英文，一段中文，且中英文间隔不要太长，以方便大家 `review`，保证翻译质量。
 
-## Kubernetes 翻译流程
+##Kubernetes 翻译流程
 
 参与贡献的主要流程如下：
 - 领取[翻译任务](https://docs.google.com/spreadsheets/d/1cF5ULp0-_Sw8HqiZXCk6nfBC0nq5NM-QboZ4tV7EopA/edit#gid=196779105)
@@ -21,10 +21,10 @@
 - 根据 cncf/cla 会员 review 意见完成修改
 - 管理员审核并完成`PR`合并
 
-### 参与翻译前必读
+###参与翻译前必读
 
 - [翻译任务表解读](translation_task.md)
-- [适用于零基础的新人指引教程](Zero_based_trans.md)
+- [适用于零基础的新人指引教程](Zero_based_trans.md)
 - [适用于原译者的更新指引教程](Advanced_trans.md)
 
 ## Kubernetes 文档校对
