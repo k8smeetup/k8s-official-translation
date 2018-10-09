@@ -36,13 +36,13 @@
   - cncf/cla 会员
 - **Upstream Pull Request link**
   - PR 的网址链接更新，[例子](https://github.com/kubernetes/kubernetes-docs-zh/pull/574)
-- **Priority** - 目前共有五个级别 P0/P1/P2/P3/P4/P5，建议优先翻译版本文档..
-  - P0 v1.12 版本文档
-  - P1 v1.11 版本文档
-  - P2 v1.10 版本文档
-  - P3 v1.12 blog 文档
-  - P4 v1.11 blog 文档
-  - P5 v1.11 blog 文档
+- **Priority** - 目前共有五个级别 P0/P1/P2/P3/P4/P5，主版本文档优先级最高..
+  - P0 v1.12 主文档
+  - P1 v1.11 主文档
+  - P2 v1.10 主文档
+  - P3 v1.12 辅助文档 如 Blog+Case 相关文档
+  - P4 v1.11 辅助文档 如 Blog+Case 相关文档
+  - P5 v1.10 辅助文档 如 Blog+Case 相关文档
 - **note** - 隐藏列-记录翻译任务领取时间(领取任务自动设置)
   - 15 天状态不更新，重置翻译状态为未翻译，方便他人领取任务，避免文章长时间无效占用
 
