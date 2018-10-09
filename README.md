@@ -21,7 +21,7 @@
 
 ### 参与翻译前必读
 
-- [翻译任务表解读](translation_task.md)
+- [翻译任务表解读](translation_task.md)
 - [适用于零基础的新人指引教程](Zero_based_trans.md)
 - [适用于原译者的更新指引教程](Advanced_trans.md)
 
