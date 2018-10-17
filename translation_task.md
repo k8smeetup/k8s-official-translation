@@ -18,10 +18,11 @@
   - Not Started  - 未翻译(默认白色背景) 可领取任务
   - Translating  - 领取任务状态(默认 Salmon 背景) -  250 128 114	#FA8072
   - **Translating Update** - Master 分支已译过(需要按版本更新) -  205 0 0	#CD0000
-  - Pull Request Sent - 已往 K8SMeetup 提交翻译PR(默认 LightGoldenrod1 背景) - 255 236 139	#FFEC8B
-  - Under Internal Review - 内部 Review 状态(默认 DeepSkyBlue 背景) - 0 191 255	#00BFFF
-  - Pull Request Merged - 已合并 K8SMeetup 代码库(默认 LightGreen 背景) - 144 238 144	#90EE90
+  - Pull Request Sent - 已往 Website 提交翻译PR(默认 LightGoldenrod1 背景) - 255 236 139	#FFEC8B
+  - Under Internal Review - Review 状态(默认 DeepSkyBlue 背景) - 0 191 255	#00BFFF
+  - Pull Request Merged - 已合并 Website 代码库(默认 LightGreen 背景) - 144 238 144	#90EE90
   - Upstream Request Merged - 已合并到上游 (默认 LimeGreen 背景) - 50 205 50	#32CD32
+注：由于目前只有一个上游翻译仓库，故 `Pull Request Merged` 与 `Upstream Request Merged` 状态本质无任何区别
 - **Translator GitHub**
   - 译者 GITHUB 登陆名 如：xiaosuiba
 - **Translator**
