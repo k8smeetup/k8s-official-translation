@@ -9,7 +9,7 @@
 - Fork 翻译库并切换分支翻译
 - 向上游指定分支提交 PR
 
-Kubernetes 文档现在可以自动区分各语种`PR`了，如下图：
+Kubernetes 文档现在可以自动区分各语种`PR`了，如下图：
 
 ![](./image/2018-10-17-21-55-02.png)
 
@@ -20,17 +20,17 @@ Kubernetes 文档现在可以自动区分各语种`PR`了，如下图：
 - `Github` 账户
 - `CNCF/CLA` 会员
 
-### Step2. 领取任务翻译
+### Step2. 领取任务
 
 - 领取翻译任务
 - Fork 代码库
 - 克隆代码翻译
 
-#### 领取翻译任务
+#### 领取任务
 打开[翻译任务](https://docs.google.com/spreadsheets/d/1k49XTmtEkhjeh9M118fwwcXVfHvCe-DCy6sVVRQAxBk/edit#gid=1294143213)，我们先认领一篇翻译任务：
 ![](./image/2018-10-17-19-32-00.png)
 
-#### Fork 翻译库并切换分支翻译
+#### Fork 翻译库切换分支翻译
 
 ![](./image/2018-10-17-16-57-49.png)
 
