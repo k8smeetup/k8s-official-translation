@@ -122,7 +122,57 @@ To https://github.com/brucehex/website.git
 ##### 翻译 `release-1.12` 分支
 
 ```bash
-git checkout release-1.12
+➜  brucehex cd website
+➜  website git:(master) git checkout release-1.12
+Branch release-1.12 set up to track remote branch release-1.12 from origin.
+Switched to a new branch 'release-1.12'
+➜  website git:(release-1.12) vscode .
+➜  website git:(release-1.12) git status
+On branch release-1.12
+Your branch is up-to-date with 'origin/release-1.12'.
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	content/zh/
+
+nothing added to commit but untracked files present (use "git add" to track)
+➜  website git:(release-1.12) ✗ git add .
+➜  website git:(release-1.12) ✗ git commit -m 'zh_trans_index_1.12'
+[release-1.12 767290cfe] zh_trans_index_1.12
+ 1 file changed, 91 insertions(+)
+ create mode 100644 content/zh/_index.html
+
+➜  website git:(release-1.12) ✗ git status
+# On branch release-1.12
+# Your branch is ahead of 'origin/release-1.12' by 1 commit.
+#   (use "git push" to publish your local commits)
+#
+nothing to commit, working directory clean
+[root@251c1fca23f9 files]# git push
+warning: push.default is unset; its implicit value is changing in
+Git 2.0 from 'matching' to 'simple'. To squelch this message
+and maintain the current behavior after the default changes, use:
+
+  git config --global push.default matching
+
+To squelch this message and adopt the new behavior now, use:
+
+  git config --global push.default simple
+
+See 'git help config' and search for 'push.default' for further information.
+(the 'simple' mode was introduced in Git 1.7.11. Use the similar mode
+'current' instead of 'simple' if you sometimes use older versions of Git)
+
+Username for 'https://github.com': brucehex
+Password for 'https://brucehex@github.com':
+Counting objects: 7, done.
+Delta compression using up to 2 threads.
+Compressing objects: 100% (4/4), done.
+Writing objects: 100% (5/5), 2.50 KiB | 0 bytes/s, done.
+Total 5 (delta 2), reused 0 (delta 0)
+remote: Resolving deltas: 100% (2/2), completed with 2 local objects.
+To https://github.com/brucehex/website.git
+   01677e2..767290c  release-1.12 -> release-1.12
 ```
 
 ##### 翻译 `release-1.11` 分支
@@ -155,3 +205,11 @@ git checkout release-1.10
 ![](./image/2018-10-17-21-50-57.png)
 
 ![](./image/2018-10-17-21-52-35.png)
+
+#### 向 release-1.12 分支推送翻译PR
+
+![](./image/2018-10-17-22-35-58.png)
+
+![](./image/2018-10-17-22-37-52.png)
+
+![](./image/2018-10-17-22-38-40.png)
