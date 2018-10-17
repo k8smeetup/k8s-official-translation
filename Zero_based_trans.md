@@ -320,5 +320,3 @@ To https://github.com/brucehex/website.git
 同一篇文章推送到四个不同的版本分支里面，需要提交四个PR，如下图所示：
 
 ![](./image/2018-10-17-23-26-12.png)
-
-
