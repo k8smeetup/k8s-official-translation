@@ -45,7 +45,7 @@
 
 #### 克隆代码翻译
 
-准备本地翻译目录 `brucehex`,进入并 `clone` 代码
+准备本地翻译目录 `brucehex`,进入并 `clone` 代码
 
 ```bash
 ➜  brucehex git clone https://github.com/brucehex/website.git
