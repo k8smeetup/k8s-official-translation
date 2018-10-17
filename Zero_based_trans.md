@@ -74,7 +74,47 @@ git branch -a
 ##### 翻译 `master` 分支
 
 ```bash
-git checkout master
+➜  website git checkout master
+➜  website git:(master) git status
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   content/zh/_index.html
+
+no changes added to commit (use "git add" and/or "git commit -a")
+➜  website git:(master) ✗ git add .
+➜  website git:(master) ✗ git commit -m 'zh_trans_index'
+[master 076468b9a] zh_trans_index
+ 1 file changed, 91 insertions(+), 153 deletions(-)
+ rewrite content/zh/_index.html (96%)
+➜  website git push
+warning: push.default is unset; its implicit value is changing in
+Git 2.0 from 'matching' to 'simple'. To squelch this message
+and maintain the current behavior after the default changes, use:
+
+  git config --global push.default matching
+
+To squelch this message and adopt the new behavior now, use:
+
+  git config --global push.default simple
+
+See 'git help config' and search for 'push.default' for further information.
+(the 'simple' mode was introduced in Git 1.7.11. Use the similar mode
+'current' instead of 'simple' if you sometimes use older versions of Git)
+
+Username for 'https://github.com': brucehex
+Password for 'https://brucehex@github.com':
+Counting objects: 9, done.
+Delta compression using up to 2 threads.
+Compressing objects: 100% (5/5), done.
+Writing objects: 100% (5/5), 2.51 KiB | 0 bytes/s, done.
+Total 5 (delta 3), reused 0 (delta 0)
+remote: Resolving deltas: 100% (3/3), completed with 3 local objects.
+To https://github.com/brucehex/website.git
+   d017332..076468b  master -> master
 ```
 
 ##### 翻译 `release-1.12` 分支
@@ -97,5 +137,19 @@ git checkout release-1.10
 ```
 
 
-### Step5. 向上游指定分支提交 `PR`
+### Step3. 向上游指定分支提交 `PR`
 
+- 向 Master 分支推送翻译PR
+- 向 release-1.12 分支推送翻译PR
+- 向 release-1.11 分支推送翻译PR
+- 向 release-1.10 分支推送翻译PR
+
+#### 向 Master 分支推送翻译PR
+
+![](./image/2018-10-17-21-48-30.png)
+
+![](./image/2018-10-17-21-49-23.png)
+
+![](./image/2018-10-17-21-50-57.png)
+
+![](./image/2018-10-17-21-52-35.png)
