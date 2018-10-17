@@ -20,7 +20,7 @@ Kubernetes 文档现在可以自动区分各语种`PR`了，如下图：
 - `Github` 账户
 - `CNCF/CLA` 会员
 
-### Step2. 领取任务并翻译
+### Step2. 领取任务翻译
 
 - 领取翻译任务
 - Fork 代码库
