@@ -22,7 +22,7 @@
   - Under Internal Review - Review 状态(默认 DeepSkyBlue 背景) - 0 191 255	#00BFFF
   - Pull Request Merged - 已合并 Website 代码库(默认 LightGreen 背景) - 144 238 144	#90EE90
   - Upstream Request Merged - 已合并到上游 (默认 LimeGreen 背景) - 50 205 50	#32CD32
-注：由于目前只有一个上游翻译仓库，故 `Pull Request Merged` 与 `Upstream Request Merged` 状态本质无任何区别
+  **注：由于目前只有一个上游翻译仓库，故 `Pull Request Merged` 与 `Upstream Request Merged` 已无任何区别**
 - **Translator GitHub**
   - 译者 GITHUB 登陆名 如：xiaosuiba
 - **Translator**
