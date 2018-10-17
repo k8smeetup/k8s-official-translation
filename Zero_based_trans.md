@@ -178,14 +178,98 @@ To https://github.com/brucehex/website.git
 ##### 翻译 `release-1.11` 分支
 
 ```bash
-git checkout release-1.11
+➜  website git:(release-1.12) git checkout release-1.11
+Branch release-1.11 set up to track remote branch release-1.11 from origin.
+Switched to a new branch 'release-1.11'
+➜  website git:(release-1.11) vscode .
+➜  website git:(release-1.11) git status
+On branch release-1.11
+Your branch is up-to-date with 'origin/release-1.11'.
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	content/zh/
+
+nothing added to commit but untracked files present (use "git add" to track)
+➜  website git:(release-1.11) ✗ git add .
+➜  website git:(release-1.11) ✗ git commit -m 'zh_trans_index_1.11'
+[release-1.11 7efba831a] zh_trans_index_1.11
+ 1 file changed, 237 insertions(+)
+ create mode 100644 content/zh/_index.html
+➜  website git:(release-1.11) ✗ git push
+warning: push.default is unset; its implicit value is changing in
+Git 2.0 from 'matching' to 'simple'. To squelch this message
+and maintain the current behavior after the default changes, use:
+
+  git config --global push.default matching
+
+To squelch this message and adopt the new behavior now, use:
+
+  git config --global push.default simple
+
+See 'git help config' and search for 'push.default' for further information.
+(the 'simple' mode was introduced in Git 1.7.11. Use the similar mode
+'current' instead of 'simple' if you sometimes use older versions of Git)
+
+Username for 'https://github.com': brucehex
+Password for 'https://brucehex@github.com':
+Counting objects: 7, done.
+Delta compression using up to 2 threads.
+Compressing objects: 100% (4/4), done.
+Writing objects: 100% (5/5), 5.27 KiB | 0 bytes/s, done.
+Total 5 (delta 2), reused 0 (delta 0)
+remote: Resolving deltas: 100% (2/2), completed with 2 local objects.
+To https://github.com/brucehex/website.git
+   712f231..7efba83  release-1.11 -> release-1.11
 ```
 
 ##### 翻译 `release-1.10` 分支
 
 
 ```bash
-git checkout release-1.10
+➜  website git:(release-1.11) git checkout release-1.10
+Branch release-1.10 set up to track remote branch release-1.10 from origin.
+Switched to a new branch 'release-1.10'
+➜  website git:(release-1.10) vscode .
+➜  website git:(release-1.10) git add .
+➜  website git:(release-1.10) ✗ git status
+On branch release-1.10
+Your branch is up-to-date with 'origin/release-1.10'.
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+	new file:   content/zh/_index.html
+
+➜  website git:(release-1.10) ✗ git commit -m 'fix'
+[release-1.10 f685dbc31] fix
+ 1 file changed, 237 insertions(+)
+ create mode 100644 content/zh/_index.html
+
+➜  website git:(release-1.10) ✗  git push
+warning: push.default is unset; its implicit value is changing in
+Git 2.0 from 'matching' to 'simple'. To squelch this message
+and maintain the current behavior after the default changes, use:
+
+  git config --global push.default matching
+
+To squelch this message and adopt the new behavior now, use:
+
+  git config --global push.default simple
+
+See 'git help config' and search for 'push.default' for further information.
+(the 'simple' mode was introduced in Git 1.7.11. Use the similar mode
+'current' instead of 'simple' if you sometimes use older versions of Git)
+
+Username for 'https://github.com': brucehex
+Password for 'https://brucehex@github.com':
+Counting objects: 7, done.
+Delta compression using up to 2 threads.
+Compressing objects: 100% (4/4), done.
+Writing objects: 100% (5/5), 5.25 KiB | 0 bytes/s, done.
+Total 5 (delta 2), reused 0 (delta 0)
+remote: Resolving deltas: 100% (2/2), completed with 2 local objects.
+To https://github.com/brucehex/website.git
+   888d51e..f685dbc  release-1.10 -> release-1.10
 ```
 
 
@@ -213,3 +297,28 @@ git checkout release-1.10
 ![](./image/2018-10-17-22-37-52.png)
 
 ![](./image/2018-10-17-22-38-40.png)
+
+#### 向 release-1.11 分支推送翻译PR
+
+![](./image/2018-10-17-23-03-15.png)
+
+![](./image/2018-10-17-23-04-08.png)
+
+![](./image/2018-10-17-23-04-51.png)
+
+#### 向 release-1.10 分支推送翻译PR
+
+![](./image/2018-10-17-23-23-01.png)
+
+![](./image/2018-10-17-23-24-32.png)
+
+![](./image/2018-10-17-23-25-17.png)
+
+
+### 总结
+
+同一篇文章推送到四个不同的版本分支里面，需要提交四个PR，如下图所示：
+
+![](./image/2018-10-17-23-26-12.png)
+
+
