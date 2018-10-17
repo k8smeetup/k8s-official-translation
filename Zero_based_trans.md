@@ -27,9 +27,7 @@ Kubernetes 文档现在可以自动区分各语种`PR`了，如下图：
 - 克隆代码翻译
 
 #### 领取翻译任务
-打开[翻译任务](https://docs.google.com/spreadsheets/d/1k49XTmtEkhjeh9M118fwwcXVfHvCe-DCy6sVVRQAxBk/edit#gid=1294143213)，领取翻译任务：
-
-并认领一篇翻译任务：
+打开[翻译任务](https://docs.google.com/spreadsheets/d/1k49XTmtEkhjeh9M118fwwcXVfHvCe-DCy6sVVRQAxBk/edit#gid=1294143213)，我们先认领一篇翻译任务：
 ![](./image/2018-10-17-19-32-00.png)
 
 #### Fork 翻译库并切换分支翻译
