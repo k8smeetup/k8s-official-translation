@@ -1,6 +1,6 @@
 # 翻译任务表解读
 
-任务地址：[翻译任务](https://docs.google.com/spreadsheets/d/1cF5ULp0-_Sw8HqiZXCk6nfBC0nq5NM-QboZ4tV7EopA/edit#gid=196779105)
+任务地址：[翻译任务](https://docs.google.com/spreadsheets/d/1k49XTmtEkhjeh9M118fwwcXVfHvCe-DCy6sVVRQAxBk/edit#gid=1294143213)
 
 ## 关健颜色状态与字段说明
 
@@ -10,6 +10,7 @@
   - v1.10
   - v1.11
   - v1.12
+  - master
 - **Docs**
   - Yes Kubernetes 主文档
   - No Kubernetes 辅助文档 如 Blog+Case 相关文档
@@ -35,12 +36,12 @@
 - **PR Reviewer(CNCF member)**
   - cncf/cla 会员
 - **Upstream Pull Request link**
-  - PR 的网址链接更新，[例子](https://github.com/kubernetes/kubernetes-docs-zh/pull/574)
+  - [PR 的网址链接更新](https://github.com/kubernetes/website/issues?utf8=%E2%9C%93&q=is%3Aclose+label%3Alanguage%2Fzh)
 - **Priority** - 目前共有五个级别 P0/P1/P2/P3/P4/P5，主版本文档优先级最高..
-  - P0 v1.12 主文档
+  - P0 v1.12/master 主文档
   - P1 v1.11 主文档
   - P2 v1.10 主文档
-  - P3 v1.12 辅助文档 如 Blog+Case 相关文档
+  - P3 v1.12/master 辅助文档 如 Blog+Case 相关文档
   - P4 v1.11 辅助文档 如 Blog+Case 相关文档
   - P5 v1.10 辅助文档 如 Blog+Case 相关文档
 - **note** - 隐藏列-记录翻译任务领取时间(领取任务自动设置)
@@ -50,6 +51,8 @@
 
 `Translating Update` 此状态文档在 Master 分支已译过，仍保留原译者，还是希望此文由原译者完成。
 
-由于现在是通过三个版本分区去管理各自的译文，需要单独对每个分支进行提交 PR..
+目前支持多版本翻译，译者需要单独对每个分支进行提交 PR..
 
-另外由于 Merge 的工作量，可预见未来会越来越大，如果对 Merge 有兴趣的同学，也欢迎与我们联系，加入我们的微信群，共同参与文章的 merge 工作。
+所有中文的PR，默认系统会打上语言标签 `label:language/zh` 如下图所示：
+
+![](./image/2018-10-17-16-42-23.png)

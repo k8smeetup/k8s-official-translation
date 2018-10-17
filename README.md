@@ -13,11 +13,11 @@
 ## Kubernetes 翻译流程
 
 参与贡献的主要流程如下：
-- 领取[翻译任务](https://docs.google.com/spreadsheets/d/1cF5ULp0-_Sw8HqiZXCk6nfBC0nq5NM-QboZ4tV7EopA/edit#gid=196779105)
+- 领取[翻译任务](https://docs.google.com/spreadsheets/d/1k49XTmtEkhjeh9M118fwwcXVfHvCe-DCy6sVVRQAxBk/edit#gid=1294143213)
 - 准备翻译文档 `Fork` 代码到自己的 `github` 账户
-- 克隆代码完成本地翻译并向 `kubernetes-docs-zh` 提交PR
+- 克隆代码完成本地翻译并向 `website` 提交PR
 - 根据 cncf/cla 会员 review 意见完成修改
-- 管理员审核并完成`PR`合并
+- 管理员审核并完成 `PR` 合并
 
 ### 参与翻译前必读
 
@@ -64,7 +64,7 @@ Kubernetes 文档由若干 `md` 和 `html` 文档构成，翻译即是将原始 
 
 - 校对者只需要具备基本的 kubernetes 知识，能够理解文档中讲述的内容即可
 - 校对作业以 `md/html` 为单位，但对于很大的 `md` 或 `html` 文件，也可以按主题拆分成多份
-- 为了避免不必要的重复翻译或校对，翻译或校对前先在[翻译任务](https://docs.google.com/spreadsheets/d/1cF5ULp0-_Sw8HqiZXCk6nfBC0nq5NM-QboZ4tV7EopA/edit#gid=196779105)中对要翻译或校对的文件进行预定
+- 为了避免不必要的重复翻译或校对，翻译或校对前先在[翻译任务](https://docs.google.com/spreadsheets/d/1k49XTmtEkhjeh9M118fwwcXVfHvCe-DCy6sVVRQAxBk/edit#gid=1294143213)中对要翻译或校对的文件进行预定
 - 预定校对作业时，以文件为单位，不建议一次预定太多，希望量力而行
 - 预定了某个 `md` 或 `html` 文件并不代表别人不会同时修改此文件，所以如果克隆了`git`仓库到本地，仍然要注意及时从远程仓库同步更新
 - 如果某个 `md` 或 `html` 文件的校对工作进展缓慢，或某个已校对的 `md` 或 `html`文件仍有翻译问题，可以对正在校对或已经校对过的文件进行再次校对
@@ -76,7 +76,7 @@ Kubernetes 文档由若干 `md` 和 `html` 文档构成，翻译即是将原始 
 - 登录github
   如果还没有github账号，先注册一个，然后登录。
 - 校对预定
-  点击[任务分配置表](https://docs.google.com/spreadsheets/d/1cF5ULp0-_Sw8HqiZXCk6nfBC0nq5NM-QboZ4tV7EopA/edit#gid=553542413)，预定指定的 `md` 或 `html` 文件, 在后面填上自己的 `github` 的用户名，比如 `校对预定By:@markthink`。 同时把此文件的的状态从`Translating`改成`Under Internal Review`，对于很大的文件，也可以只预定其中的一部门标题，比如：`校对预定By:[起始标题-结束标题]@markthink`
+  点击[任务分配置表](https://docs.google.com/spreadsheets/d/1k49XTmtEkhjeh9M118fwwcXVfHvCe-DCy6sVVRQAxBk/edit#gid=1294143213)，预定指定的 `md` 或 `html` 文件, 在后面填上自己的 `github` 的用户名，比如 `校对预定By:@markthink`。 同时把此文件的的状态从`Translating`改成`Under Internal Review`，对于很大的文件，也可以只预定其中的一部门标题，比如：`校对预定By:[起始标题-结束标题]@markthink`
 - 检查译文
   对照英文原文检查译文,可以点开对应文件的链接，对照 `md` 或 `html` 中被注释的英文原文进行检查(发现问题可以在线修改),或提交 `Comment` 给译者。
 - 问题纠正
