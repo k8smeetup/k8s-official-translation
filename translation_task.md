@@ -47,7 +47,9 @@
 - **note** - 隐藏列-记录翻译任务领取时间(领取任务自动设置)
   - 15 天状态不更新，重置翻译状态为未翻译，方便他人领取任务，避免文章长时间无效占用
 
- **注：由于目前只有一个上游翻译仓库，故 `Pull Request Merged` 与 `Upstream Request Merged` 已无任何区别**
+ **注：由于目前只有一个上游翻译仓库，故以后 `Pull Request Merged` 与 `Upstream Request Merged` 已无任何区别**
+ 
+ 目前 `Pull Request Merged` 状态的文件表示原先已经翻译过，在旧的翻译仓库，可以从[这里](https://github.com/kubernetes-retired/kubernetes-docs-zh)去查看。
  
 #### 特别提醒:
 
