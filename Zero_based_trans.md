@@ -18,7 +18,7 @@ Kubernetes 文档现在可以自动区分各语种`PR`了，如下图：
 注册翻译账户
 
 - `Github` 账户
-- `CNCF/CLA` 会员
+- `CNCF/CLA` [会员](https://github.com/kubernetes/community/blob/master/CLA.md)
 
 ### Step2. 领取任务
 
@@ -27,8 +27,12 @@ Kubernetes 文档现在可以自动区分各语种`PR`了，如下图：
 - 克隆代码翻译
 
 #### 领取任务
+
+打开[译者表](https://docs.google.com/spreadsheets/d/1nHCp-wHf26lqcah9CVQpPaiSFxqVrsdFlCyRyHCjz80/edit#gid=0)更新译者信息
+
 打开[翻译任务](https://docs.google.com/spreadsheets/d/1k49XTmtEkhjeh9M118fwwcXVfHvCe-DCy6sVVRQAxBk/edit#gid=1294143213)，我们先认领一篇翻译任务：
 ![](./image/2018-10-17-19-32-00.png)
+
 
 #### Fork 翻译库切换分支翻译
 
