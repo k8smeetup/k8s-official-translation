@@ -119,6 +119,33 @@ CronJobs 有一些限制和特点。
 查看更多限制，请参考[ CronJobs](/docs/concepts/workloads/controllers/cron-jobs)。
 ```
 
+#### 使用统一文档格式插件 editorconfig:
+[解决markdown文件行尾空格自动删除的问题](https://segmentfault.com/a/1190000007599845)
+[editorconfig 样例参考](https://github.com/markdown-it/markdown-it/blob/master/.editorconfig)       
+
+.editorconfig
+
+```bash
+root = true
+
+[*]
+charset = utf-8
+end_of_line = lf
+trim_trailing_whitespace = true
+insert_final_newline = true
+
+[{.,}*.{js{,*},y{a,}ml}]
+indent_style = space
+indent_size = 2
+
+[*.{md,txt}]
+indent_style = space
+indent_size = 4
+trim_trailing_whitespace = false
+
+[Makefile]
+indent_style = tab
+```
 
 ### 参与规则
 
