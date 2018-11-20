@@ -27,6 +27,49 @@ k8smeetup slack [邀请](https://k8s-zh-slack-invite.herokuapp.com/)
 
 经社区成员讨论一致决定基于目前最新的 release-1.12 分支作为基准翻译分支，大家提交 PR 时,不要选择 Master 分支。
 
+## Website Task 翻译流程
+
+> 为具备领取任务的权限，首先要加入 [k8smeetup 组织](https://github.com/k8smeetup)，才能进行其它后续工作。
+
+### 任务浏览
+
+访问[任务列表](https://github.com/k8smeetup/website-tasks/issues)，会看到如下图所示的 Issue 列表：
+
+![issue-list](image/web-task-issues-list.png)
+
+Issue 标签目前分为几类：
+
+- 任务状态
+    - `welcome`: 未经确认，暂时属于无效任务。
+    - `pending`：待认领任务。
+    - `translating`：已认领任务，正在翻译。
+    - `pushed`：该任务已生成 PR，正在进行 Review。
+    - `merged`：该任务相关 PR 已合并，任务完成。
+- 优先级：`priority/P0`、`priority/P1` 等等。
+- 版本标识：`version/1.12`、`version/1.13` 等等。
+- 文档类型
+    - `doc/accessory`：辅助文档。
+    - `doc/core`：核心文档。
+
+可以简单的通过点击标签来进行过滤。或者也可以参考 [github 查询语法](https://help.github.com/articles/searching-issues-and-pull-requests/)，来完成更复杂的查询，下面举两个例子：
+
+- 搜索所有 1.12 版本的待认领任务：`is:open is:issue label:version/1.12 label:pending`
+- 搜索所有指派给 `fleeto` 的未完成任务：`is:open assignee:fleeto`
+
+### 任务认领
+
+通过浏览和搜索之后，可以找到未经认领的待翻译文档来进行认领。认领方式很简单，在该 Issue 的 Comment 中回复：`/accept` 即可，稍候片刻，会看到 Bot 将该 Issue 分配给你，并把任务状态从 `pending` 修改为 `translating`。如此一来就可以开始翻译了。
+
+> 注意：同一译者，只能保持三个 `translating` 状态的 Issue，超过数量无法继续认领。
+
+### 任务提交
+
+如果已经翻译完成，提交 PR 之后，就可以回到这一 Issue，输入指令 `/pushed`，提示系统该任务的翻译阶段已经完成，进入 Review 环节。Bot 会将这一 Issue 的状态从 `translating` 转换为 `pushed`。
+
+### 任务完成
+
+在任务相关 PR 完成合并之后，可以在 Issue 中输入指令 `/merged`，Bot 会设置 Issue 状态为 `finished`，并关闭 Issue。
+
 ## Kubernetes 翻译流程
 
 参与贡献的主要流程如下：
