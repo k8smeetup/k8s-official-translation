@@ -25,7 +25,7 @@ k8smeetup slack [邀请](https://k8s-zh-slack-invite.herokuapp.com/)
 5. 可以增量的版本迭代(基于 bot 做文档差异化增量迭代，提升翻译效率 - `需开发`)
 6. 优异的多语言适配能力且不需要统计图表 (基于 Github 自有的统计能力)
 
-经社区成员讨论一致决定基于目前最新的 release-1.12 分支作为基准翻译分支，大家提交 PR 时，不要选择默认的 Master 分支。
+经社区成员讨论一致决定基于目前最新的 release-1.12 分支作为基准翻译分支，大家提交 PR 时,不要选择 Master 分支。
 
 ## Kubernetes 翻译流程
 
