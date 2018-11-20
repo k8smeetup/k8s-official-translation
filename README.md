@@ -12,6 +12,21 @@ k8smeetup slack [邀请](https://k8s-zh-slack-invite.herokuapp.com/)
 
 注：所有的翻译文件，都要保留原文，一段英文，一段中文，且中英文间隔不要太长，以方便大家 `review`，保证翻译质量。
 
+## 任务变更预告
+
+新的任务领取流程基于 github 自有功能实现
+
+ [website-tasks](https://github.com/k8smeetup/website-tasks/issues) 任务分发有如下的优点：
+
+1. 良好网络支持，因为不需要 VPN
+2. 易于管理(基于 slack 直观的任务管理)
+3. 简易的任务领取(基于 Github 的 bot 自动化 issue 任务的领取)
+4. 便于译者更新文档(issue 可以对文档的 diff，直观的看到变更效果）
+5. 可以增量的版本迭代(基于 bot 做文档差异化增量迭代，提升翻译效率 - `需开发`)
+6. 优异的多语言适配能力且不需要统计图表 (基于 Github 自有的统计能力)
+
+经社区成员讨论一致决定基于目前最新的 release-1.12 分支作为基准翻译分支，大家提交 PR 时，不要选择默认的 Master 分支。
+
 ## Kubernetes 翻译流程
 
 参与贡献的主要流程如下：
