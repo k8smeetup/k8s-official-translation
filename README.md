@@ -97,7 +97,7 @@ Issue 标签目前分为几类：
 在任务相关 PR 完成合并之后，可以在 Issue 中输入指令 `/merged`，Bot 会设置 Issue 状态为 `finished`，并关闭 Issue。
 
 
-#### 参与翻译前必读 - 注：任务表领取部分已过时，仅做参考
+#### 参与翻译前必读 - 注：任务表领取部分已过时，仅做参考
 
 - [翻译任务表解读](translation_task.md)
 - [适用于零基础的新人指引教程](Zero_based_trans.md)
