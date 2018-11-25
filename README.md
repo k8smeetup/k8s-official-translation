@@ -6,10 +6,10 @@
 
 其次当您完成翻译后，需要向 [website](https://github.com/kubernetes/website) 提交您的 `PR` 也需要您完成 [CNCF/CLA 会员](https://github.com/kubernetes/community/blob/master/CLA.md) 协议的签署。
 
-归纳一下前期需要的参与准备工作：
+归纳一下前期需要的参与准备工作：
 
 - 注册自己的 `Github` 账户
-- 申请加入 [k8smeetup 组织](https://github.com/k8smeetup)/加入微信群
+- 申请加入 [k8smeetup 组织](https://github.com/k8smeetup)/加入微信群
 - 签署 `CNCF/CLA` [会员协议](https://github.com/kubernetes/community/blob/master/CLA.md)
 
 #### K8SMeetup 翻译社区的主要有两个阶段：
@@ -18,15 +18,15 @@
 
 主要的上游工作仓库是 [kubernetes-docs-zh](https://github.com/kubernetes-retired/kubernetes-docs-zh)
 
-时间区间：2017/07/17 - 2018/4/15 
-成果输出：翻译图表 [DashBoard](https://k8smeetup.github.io/chart)，附每周的翻译[文章汇总](contribution.md)。
+时间区间：2017/07/17 - 2018/4/15 
+成果输出：翻译图表 [DashBoard](https://k8smeetup.github.io/chart)，附每周的翻译[文章汇总](contribution.md)。
 任务领取：基于 Google Docs [任务表]((https://docs.google.com/spreadsheets/d/1k49XTmtEkhjeh9M118fwwcXVfHvCe-DCy6sVVRQAxBk/edit#gid=1294143213))协作
 
 ##### 第二阶段：基于 [website](https://github.com/kubernetes/website) 仓库的 relese-1.1x 分支进行翻译
 
 主要的上游工作仓库是 [website](https://github.com/kubernetes/website)
 
-时间区间：2017/11/13 - 至今
+时间区间：2017/11/13 - 至今
 成果输出：[Merged PR 列表](https://github.com/kubernetes/website/pulls?utf8=%E2%9C%93&q=is%3Apr+is%3Amerged+label%3Alanguage%2Fzh+)
 任务领取：全部基于 Github 即有功能实现，通过 [website-tasks](https://github.com/k8smeetup/website-tasks) 仓库实现
 
@@ -42,7 +42,7 @@
 
 > 注意：新的任务领取流程基于 Github issue 实现
 
- 使用 [website-tasks](https://github.com/k8smeetup/website-tasks/issues) 仓库进行任务分发有如下的优点：
+ 使用 [website-tasks](https://github.com/k8smeetup/website-tasks/issues) 仓库进行任务分发有如下的优点：
 
 1. 良好网络支持，不需要自备 VPN
 2. 易于管理(基于 slack 直观的任务管理)
