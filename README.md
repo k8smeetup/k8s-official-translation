@@ -2,7 +2,7 @@
 
 ## Step1. 准备工作
 
-首先您需要有一个 `GitHub` 账户，加入 [Slack ](https://k8s-zh-slack-invite.herokuapp.com/) 或 k8smeetup 微信群之后，再申请加入 [k8smeetup 组织](https://github.com/k8smeetup)，我们会基于您的 Github 账户，向您邮箱里发送组织邀请，需要您配合完成邀请确认，只有加入 `k8smeetup` 组织您才可以领取翻译任务。(可选项:提供微信账户，也会邀请您加入我们的微信群，方便即时沟通，随时响应)。
+首先您需要有一个 `GitHub` 账户，加入 [Slack ](https://k8s-zh-slack-invite.herokuapp.com/) 或 k8smeetup 微信群之后，再申请加入 [k8smeetup 组织](https://github.com/k8smeetup)，我们会基于您的 Github 账户，向您邮箱里发送组织邀请，需要您配合完成邀请确认，只有加入 `k8smeetup` 组织您才可以领取翻译任务。(可选项:提供微信账户，也会邀请您加入我们的微信群，方便即时沟通，随时响应)。
 
 其次当您完成翻译后，需要向 [website](https://github.com/kubernetes/website) 提交您的 `PR` 也需要您完成 [CNCF/CLA 会员](https://github.com/kubernetes/community/blob/master/CLA.md) 协议的签署。
 
@@ -44,12 +44,12 @@
 
  使用 [website-tasks](https://github.com/k8smeetup/website-tasks/issues) 仓库进行任务分发有如下的优点：
 
-1. 良好网络支持，不需要自备 VPN
+1. 良好网络支持，不需要自备 VPN
 2. 易于管理(基于 slack 直观的任务管理)
 3. 简易的任务领取(基于 Github 的 bot 自动化 issue 任务的领取)
 4. 便于译者更新文档(issue 可以对文档的 diff，直观的看到变更效果）
 5. 可以增量的版本迭代(基于 bot 做文档差异化增量迭代，提升翻译效率 - `需开发`)
-6. 多语言适配且不需要绘制统计图表 (基于 Github 自有的统计能力)
+6. 多语言适配且不需要绘制统计图表 (基于 Github 自有的统计能力)
 
 经社区成员讨论一致决定基于目前最新的 release-1.12 分支作为基准翻译分支，大家提交 PR 时,不要选择 Master 分支。
 
