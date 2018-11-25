@@ -50,7 +50,7 @@
 
 > 注意：新的任务领取流程基于 Github issue 实现
 
- 使用 [website-tasks](https://github.com/k8smeetup/website-tasks/issues) 仓库进行任务分发有如下的优点：
+ 使用 [website-tasks](https://github.com/k8smeetup/website-tasks/issues) 进行任务分发有如下的优点：
 
 1. 良好网络支持，不需要自备 VPN
 2. 易于管理(基于 slack 直观的任务管理)
