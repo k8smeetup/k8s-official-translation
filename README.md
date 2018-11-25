@@ -1,6 +1,36 @@
 # K8SMeetup 翻译流程与翻译校稿规范
 
-`K8SMeetup` 翻译社区 [DashBoard](https://k8smeetup.github.io/chart)，附每周的翻译[文章汇总](contribution.md)。
+## Step1. 准备工作
+
+首先您需要有一个 `GitHub` 账户，加入 [Slack ](https://k8s-zh-slack-invite.herokuapp.com/) 或 k8smeetup 微信群之后，再申请加入 [k8smeetup 组织](https://github.com/k8smeetup)，我们会基于您的 Github 账户，向您邮箱里发送组织邀请，需要您配合完成邀请确认，只有加入 `k8smeetup` 组织您才可以领取翻译任务。(可选项:提供微信账户，也会邀请您加入我们的微信群，方便即时沟通，随时响应)。
+
+其次当您完成翻译后，需要向 [website](https://github.com/kubernetes/website) 提交您的 `PR` 也需要您完成 [CNCF/CLA 会员](https://github.com/kubernetes/community/blob/master/CLA.md) 协议的签署。
+
+归纳一下前期需要的参与准备工作：
+
+- 注册自己的 `Github` 账户
+- 申请加入 [k8smeetup 组织](https://github.com/k8smeetup)/加入微信群
+- 签署 `CNCF/CLA` [会员协议](https://github.com/kubernetes/community/blob/master/CLA.md)
+
+#### K8SMeetup 翻译社区的主要有两个阶段：
+
+##### 第一阶段：基于 [website](https://github.com/kubernetes/website) 仓库的 `master` 分支进行翻译
+
+主要的上游工作仓库是 [kubernetes-docs-zh](https://github.com/kubernetes-retired/kubernetes-docs-zh)
+
+时间区间：2017/07/17 - 2018/4/15 
+成果输出：翻译图表 [DashBoard](https://k8smeetup.github.io/chart)，附每周的翻译[文章汇总](contribution.md)。
+任务领取：基于 Google Docs [任务表]((https://docs.google.com/spreadsheets/d/1k49XTmtEkhjeh9M118fwwcXVfHvCe-DCy6sVVRQAxBk/edit#gid=1294143213))协作
+
+##### 第二阶段：基于 [website](https://github.com/kubernetes/website) 仓库的 relese-1.1x 分支进行翻译
+
+主要的上游工作仓库是 [website](https://github.com/kubernetes/website)
+
+时间区间：2017/11/13 - 至今
+成果输出：[Merged PR 列表](https://github.com/kubernetes/website/pulls?utf8=%E2%9C%93&q=is%3Apr+is%3Amerged+label%3Alanguage%2Fzh+)
+任务领取：全部基于 Github 即有功能实现，通过 [website-tasks](https://github.com/k8smeetup/website-tasks) 仓库实现
+
+### 提示信息
 
 - 翻译流程
   - 讲解译者如何参与 `Kubernetes` 中文化文档翻译的过程
@@ -8,28 +38,24 @@
   - 讲解如何预定翻译文档的校验，以提升翻译质量
   - 提供版本控制与翻译文件更新样例，提示如何更新翻译文件
 
-k8smeetup slack [邀请](https://k8s-zh-slack-invite.herokuapp.com/)
+## Step2. 翻译流程
 
-注：所有的翻译文件，都要保留原文，一段英文，一段中文，且中英文间隔不要太长，以方便大家 `review`，保证翻译质量。
+> 注意：新的任务领取流程基于 Github issue 实现
 
-## 任务变更预告
+ 使用 [website-tasks](https://github.com/k8smeetup/website-tasks/issues) 仓库进行任务分发有如下的优点：
 
-新的任务领取流程基于 github 自有功能实现
-
- [website-tasks](https://github.com/k8smeetup/website-tasks/issues)任务分发有如下的优点：
-
-1. 良好网络支持，因为不需要VPN
+1. 良好网络支持，不需要自备 VPN
 2. 易于管理(基于 slack 直观的任务管理)
 3. 简易的任务领取(基于 Github 的 bot 自动化 issue 任务的领取)
 4. 便于译者更新文档(issue 可以对文档的 diff，直观的看到变更效果）
 5. 可以增量的版本迭代(基于 bot 做文档差异化增量迭代，提升翻译效率 - `需开发`)
-6. 优异的多语言适配能力且不需要统计图表 (基于 Github 自有的统计能力)
+6. 多语言适配且不需要绘制统计图表 (基于 Github 自有的统计能力)
 
 经社区成员讨论一致决定基于目前最新的 release-1.12 分支作为基准翻译分支，大家提交 PR 时,不要选择 Master 分支。
 
-## Website Task 翻译流程
+注：所有的翻译文件，都要保留原文，一段英文，一段中文，且中英文间隔不要太长，以方便大家 `review`，保证翻译质量。
 
-> 为具备领取任务的权限，首先要加入 [k8smeetup 组织](https://github.com/k8smeetup)，才能进行其它后续工作。
+> 再次提醒: 为具备领取任务的权限，首先要加入 [k8smeetup 组织](https://github.com/k8smeetup)，才能进行其它后续工作。
 
 ### 任务浏览
 
@@ -70,22 +96,14 @@ Issue 标签目前分为几类：
 
 在任务相关 PR 完成合并之后，可以在 Issue 中输入指令 `/merged`，Bot 会设置 Issue 状态为 `finished`，并关闭 Issue。
 
-## Kubernetes 翻译流程
 
-参与贡献的主要流程如下：
-- 领取[翻译任务](https://docs.google.com/spreadsheets/d/1k49XTmtEkhjeh9M118fwwcXVfHvCe-DCy6sVVRQAxBk/edit#gid=1294143213)
-- 准备翻译文档 `Fork` 代码到自己的 `github` 账户
-- 克隆代码完成本地翻译并向 `website` 提交PR
-- 根据 cncf/cla 会员 review 意见完成修改
-- 管理员审核并完成 `PR` 合并
-
-### 参与翻译前必读
+#### 参与翻译前必读 - 注：任务表领取部分已过时，仅做参考
 
 - [翻译任务表解读](translation_task.md)
 - [适用于零基础的新人指引教程](Zero_based_trans.md)
 - [适用于原译者的更新指引教程](Advanced_trans.md)
 
-## Kubernetes 文档校对
+## Step3. Kubernetes 文档校对
 
 ### 为什么要进行校对
 
@@ -205,11 +223,13 @@ trim_trailing_whitespace = false
 indent_style = tab
 ```
 
+
+
 ### 参与规则
 
 - 校对者只需要具备基本的 kubernetes 知识，能够理解文档中讲述的内容即可
 - 校对作业以 `md/html` 为单位，但对于很大的 `md` 或 `html` 文件，也可以按主题拆分成多份
-- 为了避免不必要的重复翻译或校对，翻译或校对前先在[翻译任务](https://docs.google.com/spreadsheets/d/1k49XTmtEkhjeh9M118fwwcXVfHvCe-DCy6sVVRQAxBk/edit#gid=1294143213)中对要翻译或校对的文件进行预定
+- 为了避免不必要的重复翻译或校对，翻译或校对前先在[任务列表](https://github.com/k8smeetup/website-tasks/issues)中对要翻译或校对的文件进行预定
 - 预定校对作业时，以文件为单位，不建议一次预定太多，希望量力而行
 - 预定了某个 `md` 或 `html` 文件并不代表别人不会同时修改此文件，所以如果克隆了`git`仓库到本地，仍然要注意及时从远程仓库同步更新
 - 如果某个 `md` 或 `html` 文件的校对工作进展缓慢，或某个已校对的 `md` 或 `html`文件仍有翻译问题，可以对正在校对或已经校对过的文件进行再次校对
@@ -220,8 +240,7 @@ indent_style = tab
 
 - 登录github
   如果还没有github账号，先注册一个，然后登录。
-- 校对预定
-  点击[任务分配置表](https://docs.google.com/spreadsheets/d/1k49XTmtEkhjeh9M118fwwcXVfHvCe-DCy6sVVRQAxBk/edit#gid=1294143213)，预定指定的 `md` 或 `html` 文件, 在后面填上自己的 `github` 的用户名，比如 `校对预定By:@markthink`。 同时把此文件的的状态从`Translating`改成`Under Internal Review`，对于很大的文件，也可以只预定其中的一部门标题，比如：`校对预定By:[起始标题-结束标题]@markthink`
+- 校对预定，点击[任务列表](https://github.com/k8smeetup/website-tasks/issues)，预定指定的 `md` 或 `html` 文件, 在后面填上自己的 `github` 的用户名，比如 `校对预定By:@markthink`。 同时把此文件的的状态从`Translating`改成`Under Internal Review`，对于很大的文件，也可以只预定其中的一部门标题，比如：`校对预定By:[起始标题-结束标题]@markthink`
 - 检查译文
   对照英文原文检查译文,可以点开对应文件的链接，对照 `md` 或 `html` 中被注释的英文原文进行检查(发现问题可以在线修改),或提交 `Comment` 给译者。
 - 问题纠正
