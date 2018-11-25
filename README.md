@@ -1,5 +1,31 @@
 # K8SMeetup 翻译流程与翻译校稿规范
 
+## 翻译进程主要有两个阶段：
+
+### 前情概要
+
+翻译项目在 `2017/7/17` 日启动至 `2018/4/15` 日都是基于上游 `Master` 分支去翻译，当时上游的文档是基于 `jekyll` 构建，无法提供多语言的支持。为此从 `2018/4/15` 日开始，为期三/四个月，将文档库由 `jekyll` 切换至 `hugo` 构建，由于同步信息的时效比较差，翻译项目陷于停滞。由于迁移和翻译基于 `master` 分支的副作用，造成很多翻译过的文档无法合入。
+
+基于 `KUBECON` 在上海的契机, 多语言版本提上日程，原有的任务领取方式已经不能满足要求，而且`Google 任务表` 领取也不方便，因此目前新的流程应运而生。
+
+经社区成员讨论一致决定基于目前最新的 `release-1.12` 分支作为基准翻译分支，大家提交 `PR` 时,不要选择 `Master` 分支。
+
+### 第一阶段：基于 [website](https://github.com/kubernetes/website) 仓库的 `master` 分支进行翻译
+
+主要的上游工作仓库是 [kubernetes-docs-zh](https://github.com/kubernetes-retired/kubernetes-docs-zh)
+
+时间区间：2017/07/17 - 2018/4/15 
+成果输出：翻译图表 [DashBoard](https://k8smeetup.github.io/chart)，附每周的翻译[文章汇总](contribution.md)。
+任务领取：基于 Google Docs [任务表]((https://docs.google.com/spreadsheets/d/1k49XTmtEkhjeh9M118fwwcXVfHvCe-DCy6sVVRQAxBk/edit#gid=1294143213))协作
+
+### 第二阶段：基于 [website](https://github.com/kubernetes/website) 仓库的 relese-1.1x 分支进行翻译
+
+主要的上游工作仓库是 [website](https://github.com/kubernetes/website)
+
+时间区间：2017/11/13 - 至今
+成果输出：[Merged PR 列表](https://github.com/kubernetes/website/pulls?utf8=%E2%9C%93&q=is%3Apr+is%3Amerged+label%3Alanguage%2Fzh+)
+任务领取：全部基于 Github 即有功能实现，通过 [website-tasks](https://github.com/k8smeetup/website-tasks) 仓库实现
+
 ## Step1. 准备工作
 
 首先您需要有一个 `GitHub` 账户，加入 [Slack ](https://k8s-zh-slack-invite.herokuapp.com/) 或 k8smeetup 微信群之后，再申请加入 [k8smeetup 组织](https://github.com/k8smeetup)，我们会基于您的 Github 账户，向您邮箱里发送组织邀请，需要您配合完成邀请确认，只有加入 `k8smeetup` 组织您才可以领取翻译任务。(可选项:提供微信账户，也会邀请您加入我们的微信群，方便即时沟通，随时响应)。
@@ -11,24 +37,6 @@
 - 注册自己的 `Github` 账户
 - 申请加入 [k8smeetup 组织](https://github.com/k8smeetup)/加入微信群
 - 签署 `CNCF/CLA` [会员协议](https://github.com/kubernetes/community/blob/master/CLA.md)
-
-#### K8SMeetup 翻译社区的主要有两个阶段：
-
-##### 第一阶段：基于 [website](https://github.com/kubernetes/website) 仓库的 `master` 分支进行翻译
-
-主要的上游工作仓库是 [kubernetes-docs-zh](https://github.com/kubernetes-retired/kubernetes-docs-zh)
-
-时间区间：2017/07/17 - 2018/4/15 
-成果输出：翻译图表 [DashBoard](https://k8smeetup.github.io/chart)，附每周的翻译[文章汇总](contribution.md)。
-任务领取：基于 Google Docs [任务表]((https://docs.google.com/spreadsheets/d/1k49XTmtEkhjeh9M118fwwcXVfHvCe-DCy6sVVRQAxBk/edit#gid=1294143213))协作
-
-##### 第二阶段：基于 [website](https://github.com/kubernetes/website) 仓库的 relese-1.1x 分支进行翻译
-
-主要的上游工作仓库是 [website](https://github.com/kubernetes/website)
-
-时间区间：2017/11/13 - 至今
-成果输出：[Merged PR 列表](https://github.com/kubernetes/website/pulls?utf8=%E2%9C%93&q=is%3Apr+is%3Amerged+label%3Alanguage%2Fzh+)
-任务领取：全部基于 Github 即有功能实现，通过 [website-tasks](https://github.com/k8smeetup/website-tasks) 仓库实现
 
 ### 提示信息
 
@@ -50,8 +58,6 @@
 4. 便于译者更新文档(issue 可以对文档的 diff，直观的看到变更效果）
 5. 可以增量的版本迭代(基于 bot 做文档差异化增量迭代，提升翻译效率 - `需开发`)
 6. 多语言适配且不需要绘制统计图表 (基于 Github 自有的统计能力)
-
-经社区成员讨论一致决定基于目前最新的 release-1.12 分支作为基准翻译分支，大家提交 PR 时,不要选择 Master 分支。
 
 注：所有的翻译文件，都要保留原文，一段英文，一段中文，且中英文间隔不要太长，以方便大家 `review`，保证翻译质量。
 
