@@ -246,14 +246,11 @@ indent_style = tab
 
 - 登录github
   如果还没有github账号，先注册一个，然后登录。
-- 校对预定，点击[任务列表](https://github.com/k8smeetup/website-tasks/issues)，预定指定的 `md` 或 `html` 文件, 在后面填上自己的 `github` 的用户名，比如 `校对预定By:@markthink`。 同时把此文件的的状态从`Translating`改成`Under Internal Review`，对于很大的文件，也可以只预定其中的一部门标题，比如：`校对预定By:[起始标题-结束标题]@markthink`
 - 检查译文
   对照英文原文检查译文,可以点开对应文件的链接，对照 `md` 或 `html` 中被注释的英文原文进行检查(发现问题可以在线修改),或提交 `Comment` 给译者。
 - 问题纠正
   对于译者，如果发现问题，可直接修改 `md` 或 `html`文件，对暂时不太好处理的问题可以发行issues报告。
 - 状态更新
-  校对完成后在[作业分工及进度]中更新校对状态，比如`校对完成By:@markthink`。同时把翻译文件的的状态从`Under Internal Review`改成`Pull Request Sent`。
-
 ## 谢谢您!
 
 Kubernetes 在社区参与中茁壮成长，我们非常感谢您对我们的网站和文档的贡献！
