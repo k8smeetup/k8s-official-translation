@@ -22,7 +22,7 @@
 
 主要的上游工作仓库是 [website](https://github.com/kubernetes/website)
 
-- 时间区间：2017/11/13 - 至今
+- 时间区间：2018/11/13 - 至今
 - 成果输出：[Merged PR 列表](https://github.com/kubernetes/website/pulls?utf8=%E2%9C%93&q=is%3Apr+is%3Amerged+label%3Alanguage%2Fzh+)
 - 任务领取：全部基于 Github 即有功能实现，通过 [website-tasks](https://github.com/k8smeetup/website-tasks) 仓库实现
 
