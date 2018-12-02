@@ -13,6 +13,7 @@ sorted alphabetically
 - certificate, 证书
 - controller manager, 控制器管理器
 - certificate authority, 证书机构
+- claim, 申领
 - cloud provider, 云服务提供商
 - commit hash, 不翻译？
 - control plane, 控制平面
