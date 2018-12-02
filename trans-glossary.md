@@ -11,6 +11,7 @@ sorted alphabetically
 - API Server, API 服务器
 - Bearer Token, 持有者令牌
 - certificate, 证书
+- controller manager, 控制器管理器
 - certificate authority, 证书机构
 - cloud provider, 云服务提供商
 - commit hash, 不翻译？
@@ -21,6 +22,7 @@ sorted alphabetically
 - healthcheck, 健康检查
 - key, 密钥
 - linux capabilities, linux 权能字
+- grace period, 宽限期限
 - load balance, 负载均衡
 - load balancer, 负载均衡器
 - log flush, 清刷日志数据
@@ -32,5 +34,8 @@ sorted alphabetically
 - stdout, 标准输出
 - taint, 污点
 - toleration, 容忍度
+- scheduler, 调度器
 - worker node, 工作节点
 - workloads, 工作负载
+- Federation V1, Federation V1
+- Federation V2, Federation V2
