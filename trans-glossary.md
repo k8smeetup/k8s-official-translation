@@ -6,6 +6,8 @@ term, 翻译1, [根据上下文] 翻译2...
 sorted alphabetically
 -->
 
+>译前术语参考
+
 API Server, API 服务器
 cloud provider, 云服务提供商
 context, 上下文, [根据上下文] 场合
