@@ -15,6 +15,7 @@ control plane, 控制平面
 controller manager, 控制器管理器
 credential, 登录凭据, [根据上下文] 凭据
 flags, 命令行参数, [根据上下文] 参数
+grace period, 宽限期限
 linux capabilities, linux 权能字
 load balance, 负载均衡
 load balancer, 负载均衡器
@@ -26,3 +27,4 @@ worker node, 工作节点
 workloads, 工作负载
 Federation V1, Federation V1
 Federation V2, Federation V2
+
