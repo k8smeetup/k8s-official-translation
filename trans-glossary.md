@@ -13,6 +13,7 @@ sorted alphabetically
 - certificate, 证书
 - controller manager, 控制器管理器
 - certificate authority, 证书机构
+- claim, 申领
 - cloud provider, 云服务提供商
 - commit hash, 不翻译？
 - control plane, 控制平面
@@ -29,6 +30,7 @@ sorted alphabetically
 - master node, 主节点
 - namespace，命名空间
 - runtime, 运行时
+- sidecar, 挂斗
 - stderr, 标准错误输出
 - stdin, 标准输入
 - stdout, 标准输出
