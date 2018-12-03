@@ -25,6 +25,7 @@ sorted alphabetically
 - healthcheck, 健康检查
 - key, 密钥
 - linux capabilities, linux 权能字
+- GA (general availability), 正式发布
 - grace period, 宽限期限
 - hash, hash
 - host, 主机
