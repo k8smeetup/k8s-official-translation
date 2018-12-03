@@ -16,20 +16,28 @@ sorted alphabetically
 - certificate authority, 证书机构
 - claim, 申领
 - cloud provider, 云服务提供商
-- commit hash, 不翻译？
+- commit hash, commit hash
 - control plane, 控制平面
 - credential, 登录凭据, [根据上下文] 凭据
+- distribution, 发行版本
 - drain, 耗尽资源
 - flags, 命令行参数, [根据上下文] 参数
 - healthcheck, 健康检查
 - key, 密钥
 - linux capabilities, linux 权能字
 - grace period, 宽限期限
+- hash, hash
+- host, 主机
+- hosting, 托管
 - load balance, 负载均衡
 - load balancer, 负载均衡器
 - log flush, 清刷日志数据
 - master node, 主节点
 - namespace，命名空间
+- pipeline, 流水线
+- prerequisites, 软件依赖
+- provision, 创建
+- round robin, 轮转
 - runtime, 运行时
 - scale, 扩缩
 - scale in/out, 横向缩容/扩容
