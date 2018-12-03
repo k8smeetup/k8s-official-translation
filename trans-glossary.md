@@ -30,6 +30,7 @@ sorted alphabetically
 - master node, 主节点
 - namespace，命名空间
 - runtime, 运行时
+- sidecar, 挂斗
 - stderr, 标准错误输出
 - stdin, 标准输入
 - stdout, 标准输出
