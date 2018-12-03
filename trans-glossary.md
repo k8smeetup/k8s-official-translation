@@ -8,6 +8,7 @@ sorted alphabetically
 
 >译前术语参考
 
+- autoscale, 自动扩缩容
 - API Server, API 服务器
 - Bearer Token, 持有者令牌
 - certificate, 证书
@@ -30,6 +31,9 @@ sorted alphabetically
 - master node, 主节点
 - namespace，命名空间
 - runtime, 运行时
+- scale, 扩缩
+- scale in/out, 横向缩容/扩容
+- scale up/down, 纵向扩容/缩容
 - sidecar, 挂斗
 - stderr, 标准错误输出
 - stdin, 标准输入
