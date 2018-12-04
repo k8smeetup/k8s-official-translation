@@ -28,6 +28,7 @@ sorted alphabetically
 - load balancer, 负载均衡器
 - log flush, 清刷日志数据
 - master node, 主节点
+- metric, 指标
 - namespace，命名空间
 - runtime, 运行时
 - sidecar, 挂斗
