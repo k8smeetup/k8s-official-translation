@@ -18,8 +18,9 @@ sorted alphabetically
 - commit hash, 不翻译？
 - control plane, 控制平面
 - credential, 登录凭据, [根据上下文] 凭据
-- drain, 耗尽资源
+- drain, 耗尽资源,腾空
 - flags, 命令行参数, [根据上下文] 参数
+- hairpin, 发夹
 - healthcheck, 健康检查
 - key, 密钥
 - linux capabilities, linux 权能字
