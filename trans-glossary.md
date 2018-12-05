@@ -37,6 +37,9 @@ sorted alphabetically
 - stdout, 标准输出
 - taint, 污点
 - toleration, 容忍度
+- threshold, 门限
+- high threshold, 上限
+- low threshold, 下限
 - scheduler, 调度器
 - worker node, 工作节点
 - workloads, 工作负载
