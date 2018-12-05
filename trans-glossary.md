@@ -19,6 +19,8 @@ sorted alphabetically
 - control plane, 控制平面
 - credential, 登录凭据, [根据上下文] 凭据
 - drain, 耗尽资源
+- evict, 驱逐
+- eviction, 驱逐回收
 - flags, 命令行参数, [根据上下文] 参数
 - healthcheck, 健康检查
 - key, 密钥
