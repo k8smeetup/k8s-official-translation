@@ -9,6 +9,7 @@ sorted alphabetically
 >译前术语参考
 
 - annotation, 注解
+- autoscale, 自动扩缩容
 - API Server, API 服务器
 - Bearer Token, 持有者令牌
 - certificate, 证书
@@ -16,9 +17,10 @@ sorted alphabetically
 - certificate authority, 证书机构
 - claim, 申领
 - cloud provider, 云服务提供商
-- commit hash, 不翻译？
+- commit hash, commit hash
 - control plane, 控制平面
 - credential, 登录凭据, [根据上下文] 凭据
+- distribution, 发行版本
 - drain, 耗尽资源
 - evict, 驱逐
 - eviction, 驱逐回收
@@ -26,13 +28,24 @@ sorted alphabetically
 - healthcheck, 健康检查
 - key, 密钥
 - linux capabilities, linux 权能字
+- GA (general availability), 正式发布
 - grace period, 宽限期限
+- hash, 哈希
+- host, 主机
+- hosting, 托管
 - load balance, 负载均衡
 - load balancer, 负载均衡器
 - log flush, 清刷日志数据
 - master node, 主节点
 - namespace，命名空间
+- pipeline, 流水线
+- prerequisites, 依赖，前提条件
+- provision, 供应
+- round robin, 轮转
 - runtime, 运行时
+- scale, 扩缩
+- scale in/out, 横向缩容/扩容
+- scale up/down, 纵向扩容/缩容
 - sidecar, 挂斗
 - stderr, 标准错误输出
 - stdin, 标准输入
