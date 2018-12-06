@@ -8,6 +8,7 @@ sorted alphabetically
 
 >译前术语参考
 
+- annotation, 注解
 - API Server, API 服务器
 - Bearer Token, 持有者令牌
 - certificate, 证书
