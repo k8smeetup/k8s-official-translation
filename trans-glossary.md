@@ -20,3 +20,4 @@ namespace，命名空间
 runtime, 运行时
 worker node, 工作节点
 workloads, 工作负载
+Headless Service, Headless Service
