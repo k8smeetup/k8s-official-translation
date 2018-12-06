@@ -43,5 +43,6 @@ sorted alphabetically
 - scheduler, 调度器
 - worker node, 工作节点
 - workloads, 工作负载
+- volume, 卷
 - Federation V1, Federation V1
 - Federation V2, Federation V2
