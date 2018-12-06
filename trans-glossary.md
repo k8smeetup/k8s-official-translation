@@ -38,8 +38,8 @@ sorted alphabetically
 - taint, 污点
 - toleration, 容忍度
 - threshold, 阀值
-- high threshold, 上限阀值
-- low threshold, 下限阀值
+- high threshold, 高阀值
+- low threshold, 低阀值
 - scheduler, 调度器
 - worker node, 工作节点
 - workloads, 工作负载
