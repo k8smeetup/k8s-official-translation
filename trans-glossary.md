@@ -27,7 +27,7 @@ sorted alphabetically
 - linux capabilities, linux 权能字
 - GA (general availability), 正式发布
 - grace period, 宽限期限
-- hash, hash
+- hash, 哈希
 - host, 主机
 - hosting, 托管
 - load balance, 负载均衡
@@ -36,8 +36,8 @@ sorted alphabetically
 - master node, 主节点
 - namespace，命名空间
 - pipeline, 流水线
-- prerequisites, 软件依赖
-- provision, 创建
+- prerequisites, 依赖，前提条件
+- provision, 供应
 - round robin, 轮转
 - runtime, 运行时
 - scale, 扩缩
