@@ -8,6 +8,7 @@ sorted alphabetically
 
 >译前术语参考
 
+- annotation, 注解
 - autoscale, 自动扩缩容
 - API Server, API 服务器
 - Bearer Token, 持有者令牌
@@ -21,6 +22,8 @@ sorted alphabetically
 - credential, 登录凭据, [根据上下文] 凭据
 - distribution, 发行版本
 - drain, 耗尽资源
+- evict, 驱逐
+- eviction, 驱逐回收
 - flags, 命令行参数, [根据上下文] 参数
 - healthcheck, 健康检查
 - key, 密钥
