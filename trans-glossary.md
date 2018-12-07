@@ -66,3 +66,4 @@ sorted alphabetically
 - volume, 卷
 - Federation V1, Federation V1
 - Federation V2, Federation V2
+- Headless Service, Headless Service
