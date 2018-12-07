@@ -22,8 +22,10 @@ sorted alphabetically
 - credential, 登录凭据, [根据上下文] 凭据
 - distribution, 发行版本
 - drain, 耗尽资源,腾空
+- endpoint, 端点
 - evict, 驱逐
 - eviction, 驱逐回收
+- federation, 联邦
 - flags, 命令行参数, [根据上下文] 参数
 - hairpin, 发夹
 - healthcheck, 健康检查
@@ -48,6 +50,7 @@ sorted alphabetically
 - scale, 扩缩
 - scale in/out, 横向缩容/扩容
 - scale up/down, 纵向扩容/缩容
+- service, 服务
 - sidecar, 挂斗
 - stderr, 标准错误输出
 - stdin, 标准输入
