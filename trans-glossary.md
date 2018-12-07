@@ -38,6 +38,7 @@ sorted alphabetically
 - load balancer, 负载均衡器
 - log flush, 清刷日志数据
 - master node, 主节点
+- metric, 指标
 - namespace，命名空间
 - pipeline, 流水线
 - prerequisites, 依赖，前提条件
@@ -53,8 +54,12 @@ sorted alphabetically
 - stdout, 标准输出
 - taint, 污点
 - toleration, 容忍度
+- threshold, 阀值
+- high threshold, 高阀值
+- low threshold, 低阀值
 - scheduler, 调度器
 - worker node, 工作节点
 - workloads, 工作负载
+- volume, 卷
 - Federation V1, Federation V1
 - Federation V2, Federation V2
