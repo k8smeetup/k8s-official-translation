@@ -67,3 +67,6 @@ sorted alphabetically
 - Federation V1, Federation V1
 - Federation V2, Federation V2
 - Headless Service, Headless Service
+- feature gate, 特性开关
+- affinity, 亲和度
+- anti-affinity, 互斥性
