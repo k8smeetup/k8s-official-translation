@@ -42,6 +42,7 @@ sorted alphabetically
 - master node, 主节点
 - metric, 指标
 - namespace，命名空间
+- override, 覆写
 - pipeline, 流水线
 - prerequisites, 依赖，前提条件
 - provision, 供应
