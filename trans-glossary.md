@@ -51,6 +51,8 @@ sorted alphabetically
 - pipeline, 流水线
 - prerequisites, 依赖，前提条件
 - provision, 供应
+- repo, 仓库
+- repository, 仓库
 - round robin, 轮转
 - runtime, 运行时
 - scale in/out, 横向缩容/扩容
