@@ -66,7 +66,6 @@ sorted alphabetically
 - stdin, 标准输入
 - stdout, 标准输出
 - taint, 污点
-- toleration, 容忍度
 - threshold, 阈值
 - high threshold, 高阈值
 - low threshold, 低阈值
@@ -74,4 +73,5 @@ sorted alphabetically
 - volume, 卷
 - worker node, 工作节点
 - workloads, 工作负载
-- Headless Service, Headless Service
+
+
