@@ -8,12 +8,16 @@ sorted alphabetically
 
 >译前术语参考
 
-- affinity, 亲和度
-- annotation, 注解
-- anti-affinity, 互斥性
 - API Server, API 服务器
-- autoscale, 自动扩缩容
 - Bearer Token, 持有者令牌
+- Federation V1, Federation V1
+- Federation V2, Federation V2
+- GA (general availability), 正式发布
+- Headless Service, Headless Service
+- affinity, 亲和力
+- annotation, 注解
+- anti-affinity, 反亲和力
+- autoscale, 自动扩缩容
 - certificate authority, 证书机构
 - certificate, 证书
 - claim, 申领
@@ -28,17 +32,14 @@ sorted alphabetically
 - evict, 驱逐
 - eviction, 驱逐回收
 - feature gate, 特性开关
-- Federation V1, Federation V1
-- Federation V2, Federation V2
 - federation, 联邦
 - flags, 命令行参数, [根据上下文] 参数
-- GA (general availability), 正式发布
 - grace period, 宽限期限
 - hairpin, 发夹
 - hash, 哈希
-- Headless Service, Headless Service
 - healthcheck, 健康检查
 - high threshold, 高阀值
+- high threshold, 高阈值
 - host, 主机
 - hosting, 托管
 - key, 密钥
@@ -47,6 +48,7 @@ sorted alphabetically
 - load balancer, 负载均衡器
 - log flush, 清刷日志数据
 - low threshold, 低阀值
+- low threshold, 低阈值
 - master node, 主节点
 - metric, 指标
 - namespace，命名空间
@@ -67,8 +69,6 @@ sorted alphabetically
 - stdout, 标准输出
 - taint, 污点
 - threshold, 阈值
-- high threshold, 高阈值
-- low threshold, 低阈值
 - toleration, 容忍度
 - volume, 卷
 - worker node, 工作节点
