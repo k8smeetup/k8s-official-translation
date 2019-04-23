@@ -1,6 +1,6 @@
 # K8SMeetup 中文翻译社区每周文章贡献汇编
 
-本文档只包含新增更新，[更新参考](contribution-update.md)。
+本文档只包含新增更新，[更新参考](contribution-stage1-update.md)。
 
 
 ### 第 62 周：2018-09-24 ~ 2018-09-30 - 有效合并 5 篇
