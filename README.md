@@ -15,7 +15,7 @@
 主要的上游工作仓库是 [kubernetes-docs-zh](https://github.com/kubernetes-retired/kubernetes-docs-zh)
 
 - 时间区间：2017/07/17 - 2018/4/15 
-- 成果输出：翻译图表 [DashBoard](https://k8smeetup.github.io/chart)，附每周的翻译[文章汇总](contribution.md)。
+- 成果输出：翻译图表 [DashBoard](https://k8smeetup.github.io/chart)，附每周的翻译[文章汇总](report/contribution-stage1.md)。
 - 任务领取：基于 Google Docs [任务表]((https://docs.google.com/spreadsheets/d/1k49XTmtEkhjeh9M118fwwcXVfHvCe-DCy6sVVRQAxBk/edit#gid=1294143213))协作
 
 ### 第二阶段：基于 [website](https://github.com/kubernetes/website) 仓库的 relese-1.1x 分支进行翻译
@@ -23,7 +23,11 @@
 主要的上游工作仓库是 [website](https://github.com/kubernetes/website)
 
 - 时间区间：2018/11/13 - 至今
-- 成果输出：[Merged PR 列表](https://github.com/kubernetes/website/pulls?utf8=%E2%9C%93&q=is%3Apr+is%3Amerged+label%3Alanguage%2Fzh+)
+- 成果输出：
+    - [Merged PR 列表](https://github.com/kubernetes/website/pulls?utf8=%E2%9C%93&q=is%3Apr+is%3Amerged+label%3Alanguage%2Fzh+)
+    - 进度展示图 [DashBoard](https://k8smeetup.github.io/newchart)
+    - 每周的[翻译文章汇总](report/contribution-stage2.md)
+    - 每周的[更新文章汇总](report/contribution-stage2-update.md)
 - 任务领取：全部基于 Github 即有功能实现，通过 [website-tasks](https://github.com/k8smeetup/website-tasks) 仓库实现
 
 ## Step1. 准备工作
