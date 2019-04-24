@@ -2,7 +2,7 @@
 
 本文档只包含新增更新，[更新参考](contribution-stage2-update.md)
 
-### 第 23 周：2019-04-08 ~ 2019-04-14 - 有效合并 8 篇
+### 第 23 周：2019-04-08 ~ 2019-04-14 - 有效合并 7 篇
 
 - [content/zh/docs/concepts/architecture/nodes.md](https://github.com/kubernetes/website/blob/release-1.12/content/zh/docs/concepts/architecture/nodes.md) **version:release-1.12** by [SataQiu](https://github.com/SataQiu)
 
@@ -18,13 +18,13 @@
 
 - [content/zh/docs/admin/ovs-networking.md](https://github.com/kubernetes/website/blob/release-1.12/content/zh/docs/admin/ovs-networking.md) **version:release-1.12** by [SataQiu](https://github.com/SataQiu)
 
-### 第 22 周：2019-04-01 ~ 2019-04-07 - 有效合并 15 篇
+### 第 22 周：2019-04-01 ~ 2019-04-07 - 有效合并 2 篇
 
 - [content/zh/docs/contribute/start.md](https://github.com/kubernetes/website/blob/release-1.12/content/zh/docs/contribute/start.md) **version:release-1.12** by [zhangqx2010](https://github.com/zhangqx2010)
 
 - [content/zh/docs/tasks/configure-pod-container/share-process-namespace.md](https://github.com/kubernetes/website/blob/release-1.12/content/zh/docs/tasks/configure-pod-container/share-process-namespace.md) **version:release-1.12** by [SataQiu](https://github.com/SataQiu)
 
-### 第 21 周：2019-03-25 ~ 2019-03-31 - 有效合并 36 篇
+### 第 21 周：2019-03-25 ~ 2019-03-31 - 有效合并 8 篇
 
 - [content/zh/docs/concepts/cluster-administration/logging.md](https://github.com/kubernetes/website/blob/release-1.12/content/zh/docs/concepts/cluster-administration/logging.md) **version:release-1.12** by [zhangqx2010](https://github.com/zhangqx2010)
 
@@ -42,7 +42,7 @@
 
 - [content/zh/blog/_posts/2017-11-00-Autoscaling-In-Kubernetes.md](https://github.com/kubernetes/website/blob/release-1.12/content/zh/blog/_posts/2017-11-00-Autoscaling-In-Kubernetes.md) **version:release-1.12** by [xichengliudui](https://github.com/xichengliudui)
 
-### 第 20 周：2019-03-18 ~ 2019-03-24 - 有效合并 22 篇
+### 第 20 周：2019-03-18 ~ 2019-03-24 - 有效合并 17 篇
 
 - [content/zh/docs/concepts/configuration/secret.md](https://github.com/kubernetes/website/blob/release-1.12/content/zh/docs/concepts/configuration/secret.md) **version:release-1.12** by [chenrui333](https://github.com/chenrui333)
 
@@ -78,7 +78,7 @@
 
 - [content/zh/blog/_posts/2016-02-00-Kubecon-Eu-2016-Kubernetes-Community-In.md](https://github.com/kubernetes/website/blob/release-1.12/content/zh/blog/_posts/2016-02-00-Kubecon-Eu-2016-Kubernetes-Community-In.md) **version:release-1.12** by [xichengliudui](https://github.com/xichengliudui)
 
-### 第 19 周：2019-03-11 ~ 2019-03-17 - 有效合并 20 篇
+### 第 19 周：2019-03-11 ~ 2019-03-17 - 有效合并 18 篇
 
 - [content/zh/blog/_posts/2018-10-15-steering-election-results.md](https://github.com/kubernetes/website/blob/release-1.12/content/zh/blog/_posts/2018-10-15-steering-election-results.md) **version:release-1.12** by [SataQiu](https://github.com/SataQiu)
 
@@ -128,7 +128,7 @@
 
 - [content/zh/docs/setup/on-premises-vm/cloudstack.md](https://github.com/kubernetes/website/blob/release-1.12/content/zh/docs/setup/on-premises-vm/cloudstack.md) **version:release-1.12** by [xichengliudui](https://github.com/xichengliudui)
 
-### 第 17 周：2019-02-25 ~ 2019-03-03 - 有效合并 12 篇
+### 第 17 周：2019-02-25 ~ 2019-03-03 - 有效合并 9 篇
 
 - [content/zh/docs/tutorials/stateless-application/expose-external-ip-address.md](https://github.com/kubernetes/website/blob/release-1.12/content/zh/docs/tutorials/stateless-application/expose-external-ip-address.md) **version:release-1.12** by [xichengliudui](https://github.com/xichengliudui)
 
@@ -152,7 +152,7 @@
 
 - [content/zh/docs/contribute/style/write-new-topic.md](https://github.com/kubernetes/website/blob/release-1.12/content/zh/docs/contribute/style/write-new-topic.md) **version:release-1.12** by [liyuan198251](https://github.com/liyuan198251)
 
-### 第 13 周：2019-01-28 ~ 2019-02-03 - 有效合并 7 篇
+### 第 13 周：2019-01-28 ~ 2019-02-03 - 有效合并 6 篇
 
 - [content/zh/docs/tasks/administer-federation/hpa.md](https://github.com/kubernetes/website/blob/release-1.12/content/zh/docs/tasks/administer-federation/hpa.md) **version:release-1.12** by [MJ-CJM](https://github.com/MJ-CJM)
 
@@ -166,7 +166,7 @@
 
 - [content/zh/docs/setup/turnkey/azure.md](https://github.com/kubernetes/website/blob/release-1.12/content/zh/docs/setup/turnkey/azure.md) **version:release-1.12** by [zgfh](https://github.com/zgfh)
 
-### 第 12 周：2019-01-21 ~ 2019-01-27 - 有效合并 7 篇
+### 第 12 周：2019-01-21 ~ 2019-01-27 - 有效合并 5 篇
 
 - [content/zh/docs/setup/node-conformance.md](https://github.com/kubernetes/website/blob/release-1.12/content/zh/docs/setup/node-conformance.md) **version:release-1.12** by [zgfh](https://github.com/zgfh)
 
@@ -178,7 +178,7 @@
 
 - [content/zh/docs/contribute/localization.md](https://github.com/kubernetes/website/blob/release-1.12/content/zh/docs/contribute/localization.md) **version:release-1.12** by [liyuan198251](https://github.com/liyuan198251)
 
-### 第 11 周：2019-01-14 ~ 2019-01-20 - 有效合并 26 篇
+### 第 11 周：2019-01-14 ~ 2019-01-20 - 有效合并 10 篇
 
 - [content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_alpha_phase_selfhosting_convert-from-staticpods.md](https://github.com/kubernetes/website/blob/release-1.12/content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_alpha_phase_selfhosting_convert-from-staticpods.md) **version:release-1.12** by [xichengliudui](https://github.com/xichengliudui)
 
@@ -200,7 +200,7 @@
 
 - [content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_alpha_phase_certs_renew_apiserver.md](https://github.com/kubernetes/website/blob/release-1.12/content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_alpha_phase_certs_renew_apiserver.md) **version:release-1.12** by [xichengliudui](https://github.com/xichengliudui)
 
-### 第 10 周：2019-01-07 ~ 2019-01-13 - 有效合并 12 篇
+### 第 10 周：2019-01-07 ~ 2019-01-13 - 有效合并 10 篇
 
 - [content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_alpha_phase_kubeconfig_all.md](https://github.com/kubernetes/website/blob/release-1.12/content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_alpha_phase_kubeconfig_all.md) **version:release-1.12** by [AdamDang](https://github.com/AdamDang)
 
@@ -222,7 +222,7 @@
 
 - [content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_alpha_phase_certs_apiserver.md](https://github.com/kubernetes/website/blob/release-1.12/content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_alpha_phase_certs_apiserver.md) **version:release-1.12** by [AdamDang](https://github.com/AdamDang)
 
-### 第 9 周：2018-12-31 ~ 2019-01-06 - 有效合并 40 篇
+### 第 9 周：2018-12-31 ~ 2019-01-06 - 有效合并 36 篇
 
 - [content/zh/docs/concepts/configuration/organize-cluster-access-kubeconfig.md](https://github.com/kubernetes/website/blob/release-1.12/content/zh/docs/concepts/configuration/organize-cluster-access-kubeconfig.md) **version:release-1.12** by [mysunshine92](https://github.com/mysunshine92)
 
@@ -396,7 +396,7 @@
 
 - [content/zh/docs/tasks/job/fine-parallel-processing-work-queue.md](https://github.com/kubernetes/website/blob/release-1.12/content/zh/docs/tasks/job/fine-parallel-processing-work-queue.md) **version:release-1.12** by [xichengliudui](https://github.com/xichengliudui)
 
-### 第 8 周：2018-12-17 ~ 2018-12-23 - 有效合并 26 篇
+### 第 8 周：2018-12-17 ~ 2018-12-23 - 有效合并 21 篇
 
 - [content/zh/docs/tasks/administer-cluster/network-policy-provider/calico-network-policy.md](https://github.com/kubernetes/website/blob/release-1.12/content/zh/docs/tasks/administer-cluster/network-policy-provider/calico-network-policy.md) **version:release-1.12** by [xichengliudui](https://github.com/xichengliudui)
 
@@ -440,7 +440,7 @@
 
 - [content/zh/docs/concepts/storage/storage-classes.md](https://github.com/kubernetes/website/blob/release-1.12/content/zh/docs/concepts/storage/storage-classes.md) **version:release-1.12** by [zhangqx2010](https://github.com/zhangqx2010)
 
-### 第 7 周：2018-12-10 ~ 2018-12-16 - 有效合并 52 篇
+### 第 7 周：2018-12-10 ~ 2018-12-16 - 有效合并 40 篇
 
 - [content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_reset.md](https://github.com/kubernetes/website/blob/release-1.12/content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_reset.md) **version:release-1.12** by [AdamDang](https://github.com/AdamDang)
 
@@ -522,7 +522,7 @@
 
 - [content/zh/docs/tasks/administer-federation/secret.md](https://github.com/kubernetes/website/blob/release-1.12/content/zh/docs/tasks/administer-federation/secret.md) **version:release-1.12** by [AdamDang](https://github.com/AdamDang)
 
-### 第 6 周：2018-12-03 ~ 2018-12-09 - 有效合并 222 篇
+### 第 6 周：2018-12-03 ~ 2018-12-09 - 有效合并 38 篇
 
 - [content/zh/docs/getting-started-guides/ubuntu/rancher.md](https://github.com/kubernetes/website/blob/release-1.12/content/zh/docs/getting-started-guides/ubuntu/rancher.md) **version:release-1.12** by [chenrui333](https://github.com/chenrui333)
 
@@ -600,7 +600,7 @@
 
 - [content/zh/includes/default-storage-class-prereqs.md](https://github.com/kubernetes/website/blob/release-1.12/content/zh/includes/default-storage-class-prereqs.md) **version:release-1.12** by [xichengliudui](https://github.com/xichengliudui)
 
-### 第 5 周：2018-11-26 ~ 2018-12-02 - 有效合并 153 篇
+### 第 5 周：2018-11-26 ~ 2018-12-02 - 有效合并 59 篇
 
 - [content/zh/docs/concepts/workloads/controllers/replicaset.md](https://github.com/kubernetes/website/blob/release-1.12/content/zh/docs/concepts/workloads/controllers/replicaset.md) **version:release-1.12** by [AdamDang](https://github.com/AdamDang)
 
@@ -720,7 +720,7 @@
 
 - [content/zh/docs/reference/glossary/pod.md](https://github.com/kubernetes/website/blob/release-1.12/content/zh/docs/reference/glossary/pod.md) **version:release-1.12** by [Mr-Linus](https://github.com/Mr-Linus)
 
-### 第 4 周：2018-11-19 ~ 2018-11-25 - 有效合并 185 篇
+### 第 4 周：2018-11-19 ~ 2018-11-25 - 有效合并 98 篇
 
 - [content/zh/case-studies/_index.html](https://github.com/kubernetes/website/blob/release-1.12/content/zh/case-studies/_index.html) **version:release-1.12** by [chenrui333](https://github.com/chenrui333)
 
@@ -918,7 +918,7 @@
 
 - [content/zh/docs/concepts/workloads/_index.md](https://github.com/kubernetes/website/blob/release-1.12/content/zh/docs/concepts/workloads/_index.md) **version:release-1.12** by [AdamDang](https://github.com/AdamDang)
 
-### 第 0 周：2018-10-22 ~ 2018-10-28 - 有效合并 4 篇
+### 第 0 周：2018-10-22 ~ 2018-10-28 - 有效合并 1 篇
 
 - [content/zh/docs/concepts/_index.md](https://github.com/kubernetes/website/blob/release-1.12/content/zh/docs/concepts/_index.md) **version:release-1.12** by [wzqnls](https://github.com/wzqnls)
 
