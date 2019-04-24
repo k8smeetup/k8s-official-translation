@@ -1,6 +1,6 @@
 # K8SMeetup 中文翻译社区每周文章更新汇编
 
-### 第 23 周：2019-04-08 ~ 2019-04-14 - 有效合并 21 篇
+### 第 23 周：2019-04-08 ~ 2019-04-14 - 有效合并 13 篇
 
 - [content/zh/docs/concepts/architecture/master-node-communication.md](https://github.com/kubernetes/website/blob/release-1.12/content/zh/docs/concepts/architecture/master-node-communication.md) **version:release-1.12** by [SataQiu](https://github.com/SataQiu)
 
@@ -28,13 +28,13 @@
 
 - [content/zh/docs/reference/setup-tools/kubefed/kubefed.md](https://github.com/kubernetes/website/blob/release-1.12/content/zh/docs/reference/setup-tools/kubefed/kubefed.md) **version:release-1.12** by [SataQiu](https://github.com/SataQiu)
 
-### 第 22 周：2019-04-01 ~ 2019-04-07 - 有效合并 5 篇
+### 第 22 周：2019-04-01 ~ 2019-04-07 - 有效合并 2 篇
 
 - [content/zh/docs/contribute/advanced.md](https://github.com/kubernetes/website/blob/release-1.12/content/zh/docs/contribute/advanced.md) **version:release-1.12** by [SataQiu](https://github.com/SataQiu)
 
 - [content/zh/docs/user-guide/docker-cli-to-kubectl.md](https://github.com/kubernetes/website/blob/release-1.12/content/zh/docs/user-guide/docker-cli-to-kubectl.md) **version:release-1.12** by [SataQiu](https://github.com/SataQiu)
 
-### 第 20 周：2019-03-18 ~ 2019-03-24 - 有效合并 55 篇
+### 第 20 周：2019-03-18 ~ 2019-03-24 - 有效合并 29 篇
 
 - [content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_token.md](https://github.com/kubernetes/website/blob/release-1.12/content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_token.md) **version:release-1.12** by [chenrui333](https://github.com/chenrui333)
 
@@ -94,7 +94,7 @@
 
 - [content/zh/docs/getting-started-guides/ubuntu/rancher.md](https://github.com/kubernetes/website/blob/release-1.12/content/zh/docs/getting-started-guides/ubuntu/rancher.md) **version:release-1.12** by [chenrui333](https://github.com/chenrui333)
 
-### 第 19 周：2019-03-11 ~ 2019-03-17 - 有效合并 24 篇
+### 第 19 周：2019-03-11 ~ 2019-03-17 - 有效合并 8 篇
 
 - [content/zh/blog/_posts/2018-11-08-kubernetes-docs-update-i18n.md](https://github.com/kubernetes/website/blob/release-1.12/content/zh/blog/_posts/2018-11-08-kubernetes-docs-update-i18n.md) **version:release-1.12** by [SataQiu](https://github.com/SataQiu)
 
@@ -112,7 +112,7 @@
 
 - [content/zh/docs/tasks/dns-horizontal-autoscaling.md](https://github.com/kubernetes/website/blob/release-1.12/content/zh/docs/tasks/dns-horizontal-autoscaling.md) **version:release-1.12** by [xichengliudui](https://github.com/xichengliudui)
 
-### 第 17 周：2019-02-25 ~ 2019-03-03 - 有效合并 127 篇
+### 第 17 周：2019-02-25 ~ 2019-03-03 - 有效合并 3 篇
 
 - [content/zh/docs/tasks/example-task-template.md](https://github.com/kubernetes/website/blob/release-1.12/content/zh/docs/tasks/example-task-template.md) **version:release-1.12** by [xichengliudui](https://github.com/xichengliudui)
 
@@ -120,11 +120,11 @@
 
 - [content/zh/blog/_posts/2018-05-01-developing-on-kubernetes.md](https://github.com/kubernetes/website/blob/release-1.12/content/zh/blog/_posts/2018-05-01-developing-on-kubernetes.md) **version:release-1.12** by [xichengliudui](https://github.com/xichengliudui)
 
-### 第 16 周：2019-02-18 ~ 2019-02-24 - 有效合并 52 篇
+### 第 16 周：2019-02-18 ~ 2019-02-24 - 有效合并 1 篇
 
 - [content/zh/blog/_posts/2018-12-05-new-contributor-shanghai.md](https://github.com/kubernetes/website/blob/release-1.12/content/zh/blog/_posts/2018-12-05-new-contributor-shanghai.md) **version:release-1.12** by [jiaoht](https://github.com/jiaoht)
 
-### 第 15 周：2019-02-11 ~ 2019-02-17 - 有效合并 12 篇
+### 第 15 周：2019-02-11 ~ 2019-02-17 - 有效合并 4 篇
 
 - [content/zh/docs/setup/independent/create-cluster-kubeadm.md](https://github.com/kubernetes/website/blob/release-1.12/content/zh/docs/setup/independent/create-cluster-kubeadm.md) **version:release-1.12** by [ping035627](https://github.com/ping035627)
 
@@ -134,7 +134,7 @@
 
 - [content/zh/docs/setup/certificates.md](https://github.com/kubernetes/website/blob/release-1.12/content/zh/docs/setup/certificates.md) **version:release-1.12** by [SataQiu](https://github.com/SataQiu)
 
-### 第 12 周：2019-01-21 ~ 2019-01-27 - 有效合并 23 篇
+### 第 12 周：2019-01-21 ~ 2019-01-27 - 有效合并 8 篇
 
 - [content/zh/docs/concepts/_index.md](https://github.com/kubernetes/website/blob/release-1.12/content/zh/docs/concepts/_index.md) **version:release-1.12** by [ethan-daocloud](https://github.com/ethan-daocloud)
 
@@ -152,7 +152,7 @@
 
 - [content/zh/docs/reference/access-authn-authz/bootstrap-tokens.md](https://github.com/kubernetes/website/blob/release-1.12/content/zh/docs/reference/access-authn-authz/bootstrap-tokens.md) **version:release-1.12** by [zgfh](https://github.com/zgfh)
 
-### 第 11 周：2019-01-14 ~ 2019-01-20 - 有效合并 9 篇
+### 第 11 周：2019-01-14 ~ 2019-01-20 - 有效合并 6 篇
 
 - [content/zh/docs/reference/kubectl/docker-cli-to-kubectl.md](https://github.com/kubernetes/website/blob/release-1.12/content/zh/docs/reference/kubectl/docker-cli-to-kubectl.md) **version:release-1.12** by [xichengliudui](https://github.com/xichengliudui)
 
@@ -166,7 +166,7 @@
 
 - [content/zh/docs/reference/glossary/rbac.md](https://github.com/kubernetes/website/blob/release-1.12/content/zh/docs/reference/glossary/rbac.md) **version:release-1.12** by [xichengliudui](https://github.com/xichengliudui)
 
-### 第 10 周：2019-01-07 ~ 2019-01-13 - 有效合并 12 篇
+### 第 10 周：2019-01-07 ~ 2019-01-13 - 有效合并 5 篇
 
 - [content/zh/docs/contribute/generate-ref-docs/kubectl.md](https://github.com/kubernetes/website/blob/release-1.12/content/zh/docs/contribute/generate-ref-docs/kubectl.md) **version:release-1.12** by [liyuan198251](https://github.com/liyuan198251)
 
@@ -178,7 +178,7 @@
 
 - [content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_alpha_phase_upload-config.md](https://github.com/kubernetes/website/blob/release-1.12/content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_alpha_phase_upload-config.md) **version:release-1.12** by [xichengliudui](https://github.com/xichengliudui)
 
-### 第 9 周：2018-12-31 ~ 2019-01-06 - 有效合并 8 篇
+### 第 9 周：2018-12-31 ~ 2019-01-06 - 有效合并 7 篇
 
 - [content/zh/docs/tasks/administer-federation/_index.md](https://github.com/kubernetes/website/blob/release-1.12/content/zh/docs/tasks/administer-federation/_index.md) **version:release-1.12** by [xichengliudui](https://github.com/xichengliudui)
 
@@ -222,7 +222,7 @@
 
 - [content/zh/docs/tasks/job/coarse-parallel-processing-work-queue.md](https://github.com/kubernetes/website/blob/release-1.12/content/zh/docs/tasks/job/coarse-parallel-processing-work-queue.md) **version:release-1.12** by [xichengliudui](https://github.com/xichengliudui)
 
-### 第 8 周：2018-12-17 ~ 2018-12-23 - 有效合并 23 篇
+### 第 8 周：2018-12-17 ~ 2018-12-23 - 有效合并 11 篇
 
 - [content/zh/docs/tasks/administer-cluster/manage-resources/quota-pod-namespace.md](https://github.com/kubernetes/website/blob/release-1.12/content/zh/docs/tasks/administer-cluster/manage-resources/quota-pod-namespace.md) **version:release-1.12** by [xichengliudui](https://github.com/xichengliudui)
 
@@ -246,7 +246,7 @@
 
 - [content/zh/docs/getting-started-guides/ubuntu/troubleshooting.md](https://github.com/kubernetes/website/blob/release-1.12/content/zh/docs/getting-started-guides/ubuntu/troubleshooting.md) **version:release-1.12** by [chenrui333](https://github.com/chenrui333)
 
-### 第 7 周：2018-12-10 ~ 2018-12-16 - 有效合并 29 篇
+### 第 7 周：2018-12-10 ~ 2018-12-16 - 有效合并 20 篇
 
 - [content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_version.md](https://github.com/kubernetes/website/blob/release-1.12/content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_version.md) **version:release-1.12** by [AdamDang](https://github.com/AdamDang)
 
@@ -288,7 +288,7 @@
 
 - [content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_config_print-default.md](https://github.com/kubernetes/website/blob/release-1.12/content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_config_print-default.md) **version:release-1.12** by [xichengliudui](https://github.com/xichengliudui)
 
-### 第 6 周：2018-12-03 ~ 2018-12-09 - 有效合并 66 篇
+### 第 6 周：2018-12-03 ~ 2018-12-09 - 有效合并 7 篇
 
 - [content/zh/docs/doc-contributor-tools/README.md](https://github.com/kubernetes/website/blob/release-1.12/content/zh/docs/doc-contributor-tools/README.md) **version:release-1.12** by [Mr-Linus](https://github.com/Mr-Linus)
 
@@ -304,7 +304,7 @@
 
 - [content/zh/docs/contribute/style/_index.md](https://github.com/kubernetes/website/blob/release-1.12/content/zh/docs/contribute/style/_index.md) **version:release-1.12** by [liyuan198251](https://github.com/liyuan198251)
 
-### 第 5 周：2018-11-26 ~ 2018-12-02 - 有效合并 107 篇
+### 第 5 周：2018-11-26 ~ 2018-12-02 - 有效合并 62 篇
 
 - [content/zh/docs/reference/glossary/platform-developer.md](https://github.com/kubernetes/website/blob/release-1.12/content/zh/docs/reference/glossary/platform-developer.md) **version:release-1.12** by [AdamDang](https://github.com/AdamDang)
 
@@ -430,7 +430,7 @@
 
 - [content/zh/docs/reference/glossary/label.md](https://github.com/kubernetes/website/blob/release-1.12/content/zh/docs/reference/glossary/label.md) **version:release-1.12** by [tengqm](https://github.com/tengqm)
 
-### 第 4 周：2018-11-19 ~ 2018-11-25 - 有效合并 97 篇
+### 第 4 周：2018-11-19 ~ 2018-11-25 - 有效合并 51 篇
 
 - [content/zh/docs/concepts/overview/working-with-objects/_index.md](https://github.com/kubernetes/website/blob/release-1.12/content/zh/docs/concepts/overview/working-with-objects/_index.md) **version:release-1.12** by [chenrui333](https://github.com/chenrui333)
 
@@ -534,7 +534,7 @@
 
 - [content/zh/docs/setup/turnkey/_index.md](https://github.com/kubernetes/website/blob/release-1.12/content/zh/docs/setup/turnkey/_index.md) **version:release-1.12** by [idealhack](https://github.com/idealhack)
 
-### 第 3 周：2018-11-12 ~ 2018-11-18 - 有效合并 54 篇
+### 第 3 周：2018-11-12 ~ 2018-11-18 - 有效合并 2 篇
 
 - [content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_init.md](https://github.com/kubernetes/website/blob/release-1.12/content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_init.md) **version:release-1.12** by [YouthLab](https://github.com/YouthLab)
 
