@@ -3,8 +3,8 @@
 <head>
     <meta charset="utf-8">
     <title>K8SMettup DashBoard</title>
-    <script src="/js/echarts.min.js"></script>
-    <script src="/js/jquery-2.2.0.min.js"></script>
+    <script src="./js/echarts.min.js"></script>
+    <script src="./js/jquery-2.2.0.min.js"></script>
 </head>
 <body>
 <div style="width:1000px;margin:auto;">
@@ -303,7 +303,7 @@
         series : []
     };
     // 异步加载数据
-    $.get('/data.json').done(function (data) {
+    $.get('./data.json').done(function (data) {
 
         // Chart.setOption({
         //     legend: {
