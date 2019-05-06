@@ -73,6 +73,11 @@
 
 访问[任务列表](https://github.com/k8smeetup/website-tasks/issues)，会看到如下图所示的 Issue 列表：
 
+当前有 1.12、1.14 两个版本的 issue，文档包含标准帮助和博客文档..
+
+- 搜索 1.14 版本标准文档: `is:open is:issue label:priority/P0 label:version/1.14`  - 建议优先翻译此文档
+- 搜索 1.14 版本博客文档: `is:open is:issue label:priority/P1 label:version/1.14`
+
 ![issue-list](image/web-task-issues-list.png)
 
 Issue 标签目前分为几类：
