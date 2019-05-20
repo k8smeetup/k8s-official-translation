@@ -32,6 +32,8 @@
 
 - [content/zh/docs/reference/glossary/index.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/reference/glossary/index.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
+- [content/zh/docs/tutorials/kubernetes-basics/update/update-intro.html](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/tutorials/kubernetes-basics/update/update-intro.html) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
+
 - [content/zh/partners/_index.html](https://github.com/kubernetes/website/blob/release-1.14/content/zh/partners/_index.html) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
 - [content/zh/includes/federation-current-state.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/includes/federation-current-state.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
@@ -52,7 +54,7 @@
 
 - [content/zh/docs/tutorials/object-management-kubectl/object-management.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/tutorials/object-management-kubectl/object-management.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
-- [content/zh/docs/tutorials/kubernetes-basics/update/update-intro.html](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/tutorials/kubernetes-basics/update/update-intro.html) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
+- [content/zh/docs/tasks/debug-application-cluster/events-stackdriver.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/tasks/debug-application-cluster/events-stackdriver.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
 - [content/zh/docs/tasks/debug-application-cluster/determine-reason-pod-failure.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/tasks/debug-application-cluster/determine-reason-pod-failure.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
@@ -107,8 +109,6 @@
 - [content/zh/docs/tasks/debug-application-cluster/logging-elasticsearch-kibana.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/tasks/debug-application-cluster/logging-elasticsearch-kibana.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
 - [content/zh/docs/tasks/debug-application-cluster/local-debugging.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/tasks/debug-application-cluster/local-debugging.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
-
-- [content/zh/docs/tasks/debug-application-cluster/events-stackdriver.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/tasks/debug-application-cluster/events-stackdriver.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
 - [content/zh/docs/tasks/debug-application-cluster/crictl.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/tasks/debug-application-cluster/crictl.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
@@ -178,6 +178,8 @@
 
 - [content/zh/docs/tasks/administer-cluster/kubeadm/kubeadm-upgrade-1-12.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/tasks/administer-cluster/kubeadm/kubeadm-upgrade-1-12.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
+- [content/zh/docs/reference/setup-tools/kubefed/kubefed_version.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/reference/setup-tools/kubefed/kubefed_version.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
+
 - [content/zh/docs/reference/setup-tools/kubefed/kubefed_unjoin.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/reference/setup-tools/kubefed/kubefed_unjoin.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
 - [content/zh/docs/tasks/administer-cluster/dns-debugging-resolution.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/tasks/administer-cluster/dns-debugging-resolution.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
@@ -228,7 +230,7 @@
 
 - [content/zh/docs/reference/using-api/client-libraries.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/reference/using-api/client-libraries.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
-- [content/zh/docs/reference/setup-tools/kubefed/kubefed_version.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/reference/setup-tools/kubefed/kubefed_version.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
+- [content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_alpha_phase_selfhosting.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_alpha_phase_selfhosting.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
 - [content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_alpha_phase_preflight_node.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_alpha_phase_preflight_node.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
@@ -300,7 +302,7 @@
 
 - [content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_alpha_phase_selfhosting_convert-from-staticpods.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_alpha_phase_selfhosting_convert-from-staticpods.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
-- [content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_alpha_phase_selfhosting.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_alpha_phase_selfhosting.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
+- [content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_alpha_phase_certs_etcd-server.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_alpha_phase_certs_etcd-server.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
 - [content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_alpha_phase_certs_etcd-peer.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_alpha_phase_certs_etcd-peer.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
@@ -375,8 +377,6 @@
 - [content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_alpha_phase_certs_front-proxy-client.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_alpha_phase_certs_front-proxy-client.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
 - [content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_alpha_phase_certs_front-proxy-ca.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_alpha_phase_certs_front-proxy-ca.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
-
-- [content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_alpha_phase_certs_etcd-server.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_alpha_phase_certs_etcd-server.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
 - [content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_alpha_phase_certs_etcd-ca.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_alpha_phase_certs_etcd-ca.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
