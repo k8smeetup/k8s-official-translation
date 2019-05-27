@@ -2,7 +2,7 @@
 
 ### 第 26 周：2019-04-29 ~ 2019-05-05 - 有效合并 214 篇
 
-- [content/zh/docs/reference/tools.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/reference/tools.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
+- [content/zh/docs/search.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/search.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
 - [content/zh/docs/reference/glossary/service.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/reference/glossary/service.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
@@ -80,12 +80,6 @@
 
 - [content/zh/docs/concepts/architecture/_index.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/concepts/architecture/_index.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
-- [content/zh/blog/_posts/2015-03-00-Weekly-Kubernetes-Community-Hangout.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/blog/_posts/2015-03-00-Weekly-Kubernetes-Community-Hangout.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
-
-- [content/zh/blog/_posts/2015-03-00-Welcome-To-Kubernetes-Blog.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/blog/_posts/2015-03-00-Welcome-To-Kubernetes-Blog.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
-
-- [content/zh/blog/_posts/2015-04-00-Kubernetes-Release-0150.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/blog/_posts/2015-04-00-Kubernetes-Release-0150.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
-
 - [content/zh/blog/_posts/2015-04-00-Weekly-Kubernetes-Community-Hangout_17.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/blog/_posts/2015-04-00-Weekly-Kubernetes-Community-Hangout_17.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
 - [content/zh/blog/_posts/2015-04-00-Weekly-Kubernetes-Community-Hangout_29.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/blog/_posts/2015-04-00-Weekly-Kubernetes-Community-Hangout_29.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
@@ -118,9 +112,17 @@
 
 - [content/zh/blog/_posts/2015-03-00-Kubernetes-Gathering-Videos.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/blog/_posts/2015-03-00-Kubernetes-Gathering-Videos.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
+- [content/zh/blog/_posts/2015-03-00-Weekly-Kubernetes-Community-Hangout.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/blog/_posts/2015-03-00-Weekly-Kubernetes-Community-Hangout.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
+
+- [content/zh/blog/_posts/2015-03-00-Welcome-To-Kubernetes-Blog.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/blog/_posts/2015-03-00-Welcome-To-Kubernetes-Blog.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
+
+- [content/zh/blog/_posts/2015-04-00-Kubernetes-Release-0150.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/blog/_posts/2015-04-00-Kubernetes-Release-0150.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
+
 - [content/zh/community/static/README.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/community/static/README.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
 - [content/zh/docs/_index.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/_index.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
+
+- [content/zh/docs/tutorials/online-training/_index.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/tutorials/online-training/_index.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
 - [content/zh/docs/tutorials/kubernetes-basics/update/_index.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/tutorials/kubernetes-basics/update/_index.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
@@ -137,8 +139,6 @@
 - [content/zh/docs/tutorials/stateless-application/_index.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/tutorials/stateless-application/_index.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
 - [content/zh/docs/tutorials/stateful-application/_index.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/tutorials/stateful-application/_index.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
-
-- [content/zh/docs/tutorials/online-training/_index.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/tutorials/online-training/_index.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
 - [content/zh/docs/tutorials/kubernetes-basics/scale/_index.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/tutorials/kubernetes-basics/scale/_index.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
@@ -176,6 +176,8 @@
 
 - [content/zh/docs/tasks/debug-application-cluster/troubleshooting.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/tasks/debug-application-cluster/troubleshooting.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
+- [content/zh/docs/tasks/administer-cluster/kubeadm/_index.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/tasks/administer-cluster/kubeadm/_index.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
+
 - [content/zh/docs/tasks/administer-cluster/guaranteed-scheduling-critical-addon-pods.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/tasks/administer-cluster/guaranteed-scheduling-critical-addon-pods.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
 - [content/zh/docs/tasks/administer-cluster/extended-resource-node.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/tasks/administer-cluster/extended-resource-node.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
@@ -196,7 +198,9 @@
 
 - [content/zh/docs/tasks/administer-cluster/kubelet-config-file.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/tasks/administer-cluster/kubelet-config-file.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
-- [content/zh/docs/tasks/administer-cluster/kubeadm/_index.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/tasks/administer-cluster/kubeadm/_index.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
+- [content/zh/docs/reference/using-api/_index.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/reference/using-api/_index.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
+
+- [content/zh/docs/reference/tools.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/reference/tools.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
 - [content/zh/docs/tasks/administer-cluster/change-default-storage-class.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/tasks/administer-cluster/change-default-storage-class.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
@@ -238,10 +242,6 @@
 
 - [content/zh/docs/setup/_index.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/setup/_index.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
-- [content/zh/docs/search.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/search.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
-
-- [content/zh/docs/reference/using-api/_index.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/reference/using-api/_index.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
-
 - [content/zh/docs/concepts/_index.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/concepts/_index.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
 - [content/zh/docs/reference/setup-tools/kubeadm/kubeadm-version.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/reference/setup-tools/kubeadm/kubeadm-version.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
@@ -253,6 +253,10 @@
 - [content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_upgrade.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_upgrade.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
 - [content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_completion.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_completion.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
+
+- [content/zh/docs/reference/glossary/uid.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/reference/glossary/uid.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
+
+- [content/zh/docs/reference/glossary/storage-class.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/reference/glossary/storage-class.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
 - [content/zh/docs/reference/glossary/statefulset.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/reference/glossary/statefulset.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
@@ -282,9 +286,9 @@
 
 - [content/zh/docs/reference/glossary/upstream.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/reference/glossary/upstream.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
-- [content/zh/docs/reference/glossary/uid.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/reference/glossary/uid.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
+- [content/zh/docs/reference/glossary/docker.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/reference/glossary/docker.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
-- [content/zh/docs/reference/glossary/storage-class.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/reference/glossary/storage-class.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
+- [content/zh/docs/reference/glossary/developer.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/reference/glossary/developer.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
 - [content/zh/docs/reference/glossary/deployment.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/reference/glossary/deployment.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
@@ -372,9 +376,7 @@
 
 - [content/zh/docs/reference/glossary/downstream.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/reference/glossary/downstream.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
-- [content/zh/docs/reference/glossary/docker.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/reference/glossary/docker.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
-
-- [content/zh/docs/reference/glossary/developer.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/reference/glossary/developer.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
+- [content/zh/docs/getting-started-guides/ubuntu/glossary.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/getting-started-guides/ubuntu/glossary.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
 - [content/zh/docs/getting-started-guides/ubuntu/decommissioning.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/getting-started-guides/ubuntu/decommissioning.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
@@ -425,8 +427,6 @@
 - [content/zh/docs/getting-started-guides/ubuntu/monitoring.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/getting-started-guides/ubuntu/monitoring.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
 - [content/zh/docs/getting-started-guides/ubuntu/logging.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/getting-started-guides/ubuntu/logging.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
-
-- [content/zh/docs/getting-started-guides/ubuntu/glossary.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/getting-started-guides/ubuntu/glossary.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
 - [content/zh/docs/concepts/overview/working-with-objects/_index.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/concepts/overview/working-with-objects/_index.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
