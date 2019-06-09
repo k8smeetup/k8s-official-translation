@@ -96,7 +96,7 @@ Issue 标签目前分为几类：
 
 可以简单的通过点击标签来进行过滤。或者也可以参考 [github 查询语法](https://help.github.com/articles/searching-issues-and-pull-requests/)，来完成更复杂的查询，下面举两个例子：
 
-- 搜索所有 1.12 版本的待认领任务：`is:open is:issue label:version/1.12 label:pending`
+- 搜索所有 1.14 版本的待认领任务：`is:open is:issue label:priority/P0 label:version/1.14 label:pending`
 - 搜索所有指派给 `fleeto` 的未完成任务：`is:open assignee:fleeto`
 
 ### 任务认领
