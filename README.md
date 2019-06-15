@@ -124,6 +124,18 @@ Issue 标签目前分为几类：
 
 ### 为什么要进行校对
 
+典型的例子：https://github.com/kubernetes/website/pull/14897
+
+首先要在线预览一下，自检一下格式显示是否正确：
+
+拿此例来说, 对应的预览地址：https://deploy-preview-14897--k8s-v1-14.netlify.com/zh/docs/tasks/manage-gpus/scheduling-gpus/
+
+![](./image/2019-06-15-09-59-59.png)
+
+对比参考需要 merge 分支的原始文档：https://v1-14.docs.kubernetes.io/docs/tasks/manage-gpus/scheduling-gpus/ 
+
+显然预览就不正确，就需要解决一下相应的问题，自检还是非常重要的一个环节..
+
 文档初稿翻译难免会有不太理想的地方，所以我们希望能有更多人志愿参与校对工作，进一步完善 Kubernetes 中文文档。
 
 ### Kubernetes 文档的构成
