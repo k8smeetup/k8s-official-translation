@@ -132,7 +132,7 @@ Issue 标签目前分为几类：
 
 ![](./image/2019-06-15-09-59-59.png)
 
-对比参考需要 merge 分支的原始文档：https://v1-14.docs.kubernetes.io/docs/tasks/manage-gpus/scheduling-gpus/ 
+对比参考需要 merge 分支的原始文档：https://v1-14.docs.kubernetes.io/docs/tasks/manage-gpus/scheduling-gpus/ 
 
 显然预览就不正确，就需要解决一下相应的问题，自检还是非常重要的一个环节..
 
