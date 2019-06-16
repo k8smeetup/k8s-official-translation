@@ -254,7 +254,6 @@ indent_style = tab
 ```
 
 
-
 ### 参与规则
 
 - 校对者只需要具备基本的 kubernetes 知识，能够理解文档中讲述的内容即可
@@ -275,6 +274,21 @@ indent_style = tab
 - 问题纠正
   对于译者，如果发现问题，可直接修改 `md` 或 `html`文件，对暂时不太好处理的问题可以发行issues报告。
 - 状态更新
+
+### 若干问题
+
+- CLA 已经签署，但是提高的`PR`仍然显示未签署
+
+需要在本地分支更新一下`git`状态
+
+```bash
+git commit --amend --reset-author 
+git push --force
+```
+
+![](./image/2019-06-16-10-48-48.png)
+
+
 ## 谢谢您!
 
 Kubernetes 在社区参与中茁壮成长，我们非常感谢您对我们的网站和文档的贡献！
