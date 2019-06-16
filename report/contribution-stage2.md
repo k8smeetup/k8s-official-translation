@@ -114,6 +114,8 @@
 
 - [content/zh/docs/tasks/dns-horizontal-autoscaling.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/tasks/dns-horizontal-autoscaling.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
+- [content/zh/docs/tasks/administer-cluster/manage-resources/quota-memory-cpu-namespace.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/tasks/administer-cluster/manage-resources/quota-memory-cpu-namespace.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
+
 - [content/zh/docs/tasks/administer-cluster/manage-resources/cpu-constraint-namespace.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/tasks/administer-cluster/manage-resources/cpu-constraint-namespace.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
 - [content/zh/docs/tasks/administer-cluster/kubeadm/kubeadm-upgrade-1-12.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/tasks/administer-cluster/kubeadm/kubeadm-upgrade-1-12.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
@@ -171,8 +173,6 @@
 - [content/zh/docs/tasks/administer-cluster/out-of-resource.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/tasks/administer-cluster/out-of-resource.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
 - [content/zh/docs/tasks/administer-cluster/manage-resources/quota-pod-namespace.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/tasks/administer-cluster/manage-resources/quota-pod-namespace.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
-
-- [content/zh/docs/tasks/administer-cluster/manage-resources/quota-memory-cpu-namespace.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/tasks/administer-cluster/manage-resources/quota-memory-cpu-namespace.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
 - [content/zh/docs/tasks/administer-cluster/manage-resources/memory-default-namespace.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/tasks/administer-cluster/manage-resources/memory-default-namespace.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
@@ -233,6 +233,8 @@
 - [content/zh/docs/setup/cri.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/setup/cri.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
 - [content/zh/docs/setup/certificates.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/setup/certificates.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
+
+- [content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_config_images.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_config_images.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
 - [content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_config.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_config.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
@@ -304,7 +306,7 @@
 
 - [content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_config_images_list.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_config_images_list.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
-- [content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_config_images.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_config_images.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
+- [content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_alpha_phase_certs_renew_apiserver-etcd-client.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_alpha_phase_certs_renew_apiserver-etcd-client.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
 - [content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_alpha_phase_certs_renew_all.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_alpha_phase_certs_renew_all.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
@@ -379,8 +381,6 @@
 - [content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_alpha_phase_certs_renew_apiserver.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_alpha_phase_certs_renew_apiserver.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
 - [content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_alpha_phase_certs_renew_apiserver-kubelet-client.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_alpha_phase_certs_renew_apiserver-kubelet-client.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
-
-- [content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_alpha_phase_certs_renew_apiserver-etcd-client.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_alpha_phase_certs_renew_apiserver-etcd-client.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
 - [content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_alpha_phase_certs_etcd-ca.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_alpha_phase_certs_etcd-ca.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
@@ -490,6 +490,8 @@
 
 - [content/zh/docs/getting-started-guides/ubuntu/networking.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/getting-started-guides/ubuntu/networking.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
+- [content/zh/docs/concepts/overview/working-with-objects/namespaces.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/concepts/overview/working-with-objects/namespaces.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
+
 - [content/zh/docs/concepts/overview/working-with-objects/labels.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/concepts/overview/working-with-objects/labels.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
 - [content/zh/docs/concepts/overview/working-with-objects/field-selectors.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/concepts/overview/working-with-objects/field-selectors.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
@@ -535,8 +537,6 @@
 - [content/zh/docs/concepts/services-networking/service.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/concepts/services-networking/service.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
 - [content/zh/docs/concepts/services-networking/ingress.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/concepts/services-networking/ingress.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
-
-- [content/zh/docs/concepts/overview/working-with-objects/namespaces.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/concepts/overview/working-with-objects/namespaces.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
 - [content/zh/community/code-of-conduct.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/community/code-of-conduct.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
