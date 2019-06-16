@@ -41,6 +41,7 @@
 - 注册自己的 `Github` 账户
 - 申请加入 [k8smeetup 组织](https://github.com/k8smeetup)/加入微信群(群主K8S小助手微信联系方式：K8sMeetup中国- ID：kubernetes-china)
 - 签署 `CNCF/CLA` [会员协议](https://github.com/kubernetes/community/blob/master/CLA.md)
+  - [k8s-bot命令参考](https://prow.k8s.io/command-help)
 
 ### 提示信息
 
