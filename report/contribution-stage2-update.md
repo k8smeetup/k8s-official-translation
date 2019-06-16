@@ -1,5 +1,11 @@
 # K8SMeetup 中文翻译社区每周文章更新汇编
 
+### 第 32 周：2019-06-10 ~ 2019-06-16 - 有效合并 2 篇
+
+- [content/zh/docs/tasks/administer-cluster/static-pod.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/tasks/administer-cluster/static-pod.md) **version:release-1.14** by [mysunshine92](https://github.com/mysunshine92)
+
+- [content/zh/docs/tutorials/_index.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/tutorials/_index.md) **version:release-1.14** by [RainbowMango](https://github.com/RainbowMango)
+
 ### 第 31 周：2019-06-03 ~ 2019-06-09 - 有效合并 2 篇
 
 - [content/zh/docs/concepts/workloads/controllers/daemonset.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/concepts/workloads/controllers/daemonset.md) **version:release-1.14** by [mysunshine92](https://github.com/mysunshine92)
@@ -14,9 +20,13 @@
 
 - [content/zh/blog/_posts/2015-04-00-Weekly-Kubernetes-Community-Hangout_29.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/blog/_posts/2015-04-00-Weekly-Kubernetes-Community-Hangout_29.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
-- [content/zh/docs/tutorials/_index.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/tutorials/_index.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
-
 - [content/zh/blog/_posts/2015-04-00-Weekly-Kubernetes-Community-Hangout_17.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/blog/_posts/2015-04-00-Weekly-Kubernetes-Community-Hangout_17.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
+
+- [content/zh/docs/tutorials/configuration/_index.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/tutorials/configuration/_index.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
+
+- [content/zh/docs/tutorials/clusters/_index.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/tutorials/clusters/_index.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
+
+- [content/zh/docs/tutorials/_index.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/tutorials/_index.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
 - [content/zh/blog/_posts/2015-04-00-Kubernetes-Release-0150.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/blog/_posts/2015-04-00-Kubernetes-Release-0150.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
@@ -24,21 +34,7 @@
 
 - [content/zh/blog/_posts/2015-03-00-Weekly-Kubernetes-Community-Hangout.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/blog/_posts/2015-03-00-Weekly-Kubernetes-Community-Hangout.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
-- [content/zh/docs/templates/index.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/templates/index.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
-
-- [content/zh/docs/tasks/tools/_index.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/tasks/tools/_index.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
-
-- [content/zh/docs/tasks/service-catalog/_index.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/tasks/service-catalog/_index.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
-
 - [content/zh/blog/_posts/2015-03-00-Kubernetes-Gathering-Videos.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/blog/_posts/2015-03-00-Kubernetes-Gathering-Videos.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
-
-- [content/zh/blog/_posts/2018-10-16-kubernetes-2018-north-american-contributor-summit.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/blog/_posts/2018-10-16-kubernetes-2018-north-american-contributor-summit.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
-
-- [content/zh/blog/_posts/2018-10-15-steering-election-results.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/blog/_posts/2018-10-15-steering-election-results.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
-
-- [content/zh/blog/_posts/2018-10-03-kubedirector.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/blog/_posts/2018-10-03-kubedirector.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
-
-- [content/zh/blog/_posts/2015-05-00-Kubernetes-On-Openstack.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/blog/_posts/2015-05-00-Kubernetes-On-Openstack.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
 - [content/zh/blog/_posts/2015-05-00-Weekly-Kubernetes-Community-Hangout.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/blog/_posts/2015-05-00-Weekly-Kubernetes-Community-Hangout.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
@@ -58,6 +54,18 @@
 
 - [content/zh/blog/_posts/2018-06-07-dynamic-ingress-kubernetes.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/blog/_posts/2018-06-07-dynamic-ingress-kubernetes.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
+- [content/zh/blog/_posts/2018-10-03-kubedirector.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/blog/_posts/2018-10-03-kubedirector.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
+
+- [content/zh/blog/_posts/2018-10-15-steering-election-results.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/blog/_posts/2018-10-15-steering-election-results.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
+
+- [content/zh/blog/_posts/2018-10-16-kubernetes-2018-north-american-contributor-summit.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/blog/_posts/2018-10-16-kubernetes-2018-north-american-contributor-summit.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
+
+- [content/zh/docs/templates/index.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/templates/index.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
+
+- [content/zh/docs/tasks/tools/_index.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/tasks/tools/_index.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
+
+- [content/zh/docs/tasks/service-catalog/_index.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/tasks/service-catalog/_index.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
+
 - [content/zh/docs/tasks/run-application/force-delete-stateful-set-pod.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/tasks/run-application/force-delete-stateful-set-pod.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
 - [content/zh/docs/tasks/run-application/_index.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/tasks/run-application/_index.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
@@ -69,8 +77,6 @@
 - [content/zh/docs/tasks/inject-data-application/_index.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/tasks/inject-data-application/_index.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
 - [content/zh/docs/tasks/example-task-template.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/tasks/example-task-template.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
-
-- [content/zh/docs/tasks/debug-application-cluster/troubleshooting.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/tasks/debug-application-cluster/troubleshooting.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
 - [content/zh/docs/tasks/administer-cluster/limit-storage-consumption.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/tasks/administer-cluster/limit-storage-consumption.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
@@ -90,9 +96,11 @@
 
 - [content/zh/docs/tasks/administer-cluster/network-policy-provider/calico-network-policy.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/tasks/administer-cluster/network-policy-provider/calico-network-policy.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
+- [content/zh/docs/tasks/administer-cluster/manage-resources/_index.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/tasks/administer-cluster/manage-resources/_index.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
+
 - [content/zh/docs/tasks/administer-cluster/kubelet-config-file.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/tasks/administer-cluster/kubelet-config-file.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
-- [content/zh/docs/tasks/administer-cluster/manage-resources/_index.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/tasks/administer-cluster/manage-resources/_index.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
+- [content/zh/docs/setup/_index.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/setup/_index.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
 - [content/zh/docs/search.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/search.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
@@ -138,8 +146,6 @@
 
 - [content/zh/docs/setup/custom-cloud/_index.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/setup/custom-cloud/_index.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
-- [content/zh/docs/setup/_index.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/setup/_index.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
-
 - [content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_completion.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_completion.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
 - [content/zh/docs/reference/setup-tools/kubeadm/kubeadm-version.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/reference/setup-tools/kubeadm/kubeadm-version.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
@@ -149,6 +155,8 @@
 - [content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_upgrade_node.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_upgrade_node.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
 - [content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_upgrade.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_upgrade.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
+
+- [content/zh/docs/reference/glossary/volume.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/reference/glossary/volume.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
 - [content/zh/docs/reference/glossary/volume-plugin.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/reference/glossary/volume-plugin.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
@@ -180,7 +188,7 @@
 
 - [content/zh/docs/reference/glossary/wg.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/reference/glossary/wg.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
-- [content/zh/docs/reference/glossary/volume.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/reference/glossary/volume.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
+- [content/zh/docs/reference/glossary/etcd.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/reference/glossary/etcd.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
 - [content/zh/docs/reference/glossary/dynamic-volume-provisioning.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/reference/glossary/dynamic-volume-provisioning.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
@@ -270,7 +278,7 @@
 
 - [content/zh/docs/reference/glossary/helm-chart.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/reference/glossary/helm-chart.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
-- [content/zh/docs/reference/glossary/etcd.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/reference/glossary/etcd.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
+- [content/zh/docs/getting-started-guides/ubuntu/monitoring.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/getting-started-guides/ubuntu/monitoring.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
 - [content/zh/docs/getting-started-guides/ubuntu/logging.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/getting-started-guides/ubuntu/logging.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
@@ -322,8 +330,6 @@
 
 - [content/zh/docs/getting-started-guides/ubuntu/storage.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/getting-started-guides/ubuntu/storage.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
-- [content/zh/docs/getting-started-guides/ubuntu/monitoring.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/getting-started-guides/ubuntu/monitoring.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
-
 - [content/zh/docs/concepts/overview/working-with-objects/names.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/concepts/overview/working-with-objects/names.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
 - [content/zh/docs/concepts/overview/working-with-objects/_index.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/concepts/overview/working-with-objects/_index.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
@@ -372,27 +378,29 @@
 
 - [content/zh/docs/concepts/policy/_index.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/concepts/policy/_index.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
-- [content/zh/docs/concepts/overview/_index.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/concepts/overview/_index.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
+- [content/zh/community/static/README.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/community/static/README.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
-- [content/zh/docs/concepts/extend-kubernetes/compute-storage-net/_index.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/concepts/extend-kubernetes/compute-storage-net/_index.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
+- [content/zh/docs/concepts/architecture/_index.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/concepts/architecture/_index.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
-- [content/zh/docs/concepts/extend-kubernetes/api-extension/apiserver-aggregation.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/concepts/extend-kubernetes/api-extension/apiserver-aggregation.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
+- [content/zh/docs/tutorials/kubernetes-basics/create-cluster/_index.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/tutorials/kubernetes-basics/create-cluster/_index.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
 - [content/zh/docs/concepts/_index.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/concepts/_index.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
-- [content/zh/community/static/README.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/community/static/README.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
+- [content/zh/docs/_index.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/_index.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
-- [content/zh/docs/tutorials/clusters/_index.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/tutorials/clusters/_index.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
+- [content/zh/blog/_posts/2015-05-00-Kubernetes-On-Openstack.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/blog/_posts/2015-05-00-Kubernetes-On-Openstack.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
+
+- [content/zh/docs/tutorials/kubernetes-basics/scale/_index.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/tutorials/kubernetes-basics/scale/_index.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
 - [content/zh/docs/tutorials/kubernetes-basics/expose/_index.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/tutorials/kubernetes-basics/expose/_index.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
 - [content/zh/docs/tutorials/kubernetes-basics/explore/_index.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/tutorials/kubernetes-basics/explore/_index.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
-- [content/zh/docs/tutorials/kubernetes-basics/deploy-app/_index.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/tutorials/kubernetes-basics/deploy-app/_index.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
+- [content/zh/docs/concepts/overview/_index.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/concepts/overview/_index.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
-- [content/zh/docs/tutorials/kubernetes-basics/create-cluster/_index.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/tutorials/kubernetes-basics/create-cluster/_index.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
+- [content/zh/docs/concepts/extend-kubernetes/compute-storage-net/_index.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/concepts/extend-kubernetes/compute-storage-net/_index.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
-- [content/zh/docs/tutorials/configuration/_index.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/tutorials/configuration/_index.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
+- [content/zh/docs/concepts/extend-kubernetes/api-extension/apiserver-aggregation.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/concepts/extend-kubernetes/api-extension/apiserver-aggregation.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
 - [content/zh/docs/concepts/extend-kubernetes/api-extension/_index.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/concepts/extend-kubernetes/api-extension/_index.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
@@ -410,15 +418,15 @@
 
 - [content/zh/docs/concepts/cluster-administration/_index.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/concepts/cluster-administration/_index.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
-- [content/zh/docs/concepts/architecture/_index.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/concepts/architecture/_index.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
-
-- [content/zh/docs/_index.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/_index.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
+- [content/zh/docs/tutorials/kubernetes-basics/deploy-app/_index.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/tutorials/kubernetes-basics/deploy-app/_index.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
 - [content/zh/docs/reference/glossary/service.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/reference/glossary/service.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
 - [content/zh/docs/reference/glossary/customresourcedefinition.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/reference/glossary/customresourcedefinition.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
 - [content/zh/docs/concepts/overview/object-management-kubectl/_index.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/concepts/overview/object-management-kubectl/_index.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
+
+- [content/zh/docs/tutorials/stateful-application/_index.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/tutorials/stateful-application/_index.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
 - [content/zh/docs/tutorials/online-training/_index.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/tutorials/online-training/_index.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
@@ -436,33 +444,31 @@
 
 - [content/zh/docs/tutorials/stateless-application/_index.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/tutorials/stateless-application/_index.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
-- [content/zh/docs/tutorials/stateful-application/_index.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/tutorials/stateful-application/_index.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
-
-- [content/zh/docs/tutorials/kubernetes-basics/scale/_index.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/tutorials/kubernetes-basics/scale/_index.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
+- [content/zh/docs/tasks/debug-application-cluster/troubleshooting.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/tasks/debug-application-cluster/troubleshooting.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
 ### 第 23 周：2019-04-08 ~ 2019-04-14 - 有效合并 13 篇
 
 - [content/zh/docs/concepts/architecture/master-node-communication.md](https://github.com/kubernetes/website/blob/release-1.12/content/zh/docs/concepts/architecture/master-node-communication.md) **version:release-1.12** by [SataQiu](https://github.com/SataQiu)
 
-- [content/zh/docs/admin/cluster-large.md](https://github.com/kubernetes/website/blob/release-1.12/content/zh/docs/admin/cluster-large.md) **version:release-1.12** by [SataQiu](https://github.com/SataQiu)
-
-- [content/zh/docs/admin/kube-apiserver.md](https://github.com/kubernetes/website/blob/release-1.12/content/zh/docs/admin/kube-apiserver.md) **version:release-1.12** by [SataQiu](https://github.com/SataQiu)
+- [content/zh/docs/admin/multiple-zones.md](https://github.com/kubernetes/website/blob/release-1.12/content/zh/docs/admin/multiple-zones.md) **version:release-1.12** by [SataQiu](https://github.com/SataQiu)
 
 - [content/zh/docs/admin/bootstrap-tokens.md](https://github.com/kubernetes/website/blob/release-1.12/content/zh/docs/admin/bootstrap-tokens.md) **version:release-1.12** by [SataQiu](https://github.com/SataQiu)
 
+- [content/zh/docs/admin/kube-apiserver.md](https://github.com/kubernetes/website/blob/release-1.12/content/zh/docs/admin/kube-apiserver.md) **version:release-1.12** by [SataQiu](https://github.com/SataQiu)
+
 - [content/zh/docs/admin/authorization/_index.md](https://github.com/kubernetes/website/blob/release-1.12/content/zh/docs/admin/authorization/_index.md) **version:release-1.12** by [SataQiu](https://github.com/SataQiu)
 
-- [content/zh/docs/admin/multiple-zones.md](https://github.com/kubernetes/website/blob/release-1.12/content/zh/docs/admin/multiple-zones.md) **version:release-1.12** by [SataQiu](https://github.com/SataQiu)
+- [content/zh/docs/admin/cluster-large.md](https://github.com/kubernetes/website/blob/release-1.12/content/zh/docs/admin/cluster-large.md) **version:release-1.12** by [SataQiu](https://github.com/SataQiu)
 
 - [content/zh/docs/admin/accessing-the-api.md](https://github.com/kubernetes/website/blob/release-1.12/content/zh/docs/admin/accessing-the-api.md) **version:release-1.12** by [SataQiu](https://github.com/SataQiu)
 
-- [content/zh/docs/reference/setup-tools/kubefed/kubefed_init.md](https://github.com/kubernetes/website/blob/release-1.12/content/zh/docs/reference/setup-tools/kubefed/kubefed_init.md) **version:release-1.12** by [SataQiu](https://github.com/SataQiu)
+- [content/zh/docs/reference/setup-tools/kubefed/kubefed.md](https://github.com/kubernetes/website/blob/release-1.12/content/zh/docs/reference/setup-tools/kubefed/kubefed.md) **version:release-1.12** by [SataQiu](https://github.com/SataQiu)
 
 - [content/zh/docs/reference/setup-tools/kubefed/kubefed_unjoin.md](https://github.com/kubernetes/website/blob/release-1.12/content/zh/docs/reference/setup-tools/kubefed/kubefed_unjoin.md) **version:release-1.12** by [SataQiu](https://github.com/SataQiu)
 
-- [content/zh/docs/reference/setup-tools/kubefed/kubefed-options.md](https://github.com/kubernetes/website/blob/release-1.12/content/zh/docs/reference/setup-tools/kubefed/kubefed-options.md) **version:release-1.12** by [SataQiu](https://github.com/SataQiu)
+- [content/zh/docs/reference/setup-tools/kubefed/kubefed_init.md](https://github.com/kubernetes/website/blob/release-1.12/content/zh/docs/reference/setup-tools/kubefed/kubefed_init.md) **version:release-1.12** by [SataQiu](https://github.com/SataQiu)
 
-- [content/zh/docs/reference/setup-tools/kubefed/kubefed.md](https://github.com/kubernetes/website/blob/release-1.12/content/zh/docs/reference/setup-tools/kubefed/kubefed.md) **version:release-1.12** by [SataQiu](https://github.com/SataQiu)
+- [content/zh/docs/reference/setup-tools/kubefed/kubefed-options.md](https://github.com/kubernetes/website/blob/release-1.12/content/zh/docs/reference/setup-tools/kubefed/kubefed-options.md) **version:release-1.12** by [SataQiu](https://github.com/SataQiu)
 
 - [content/zh/docs/reference/setup-tools/kubefed/kubefed_options.md](https://github.com/kubernetes/website/blob/release-1.12/content/zh/docs/reference/setup-tools/kubefed/kubefed_options.md) **version:release-1.12** by [SataQiu](https://github.com/SataQiu)
 
@@ -476,7 +482,7 @@
 
 ### 第 20 周：2019-03-18 ~ 2019-03-24 - 有效合并 29 篇
 
-- [content/zh/docs/contribute/generate-ref-docs/kubernetes-components.md](https://github.com/kubernetes/website/blob/release-1.12/content/zh/docs/contribute/generate-ref-docs/kubernetes-components.md) **version:release-1.12** by [chenrui333](https://github.com/chenrui333)
+- [content/zh/docs/tasks/administer-cluster/out-of-resource.md](https://github.com/kubernetes/website/blob/release-1.12/content/zh/docs/tasks/administer-cluster/out-of-resource.md) **version:release-1.12** by [chenrui333](https://github.com/chenrui333)
 
 - [content/zh/docs/reference/glossary/replica-set.md](https://github.com/kubernetes/website/blob/release-1.12/content/zh/docs/reference/glossary/replica-set.md) **version:release-1.12** by [chenrui333](https://github.com/chenrui333)
 
@@ -522,7 +528,7 @@
 
 - [content/zh/docs/tasks/debug-application-cluster/core-metrics-pipeline.md](https://github.com/kubernetes/website/blob/release-1.12/content/zh/docs/tasks/debug-application-cluster/core-metrics-pipeline.md) **version:release-1.12** by [chenrui333](https://github.com/chenrui333)
 
-- [content/zh/docs/tasks/administer-cluster/out-of-resource.md](https://github.com/kubernetes/website/blob/release-1.12/content/zh/docs/tasks/administer-cluster/out-of-resource.md) **version:release-1.12** by [chenrui333](https://github.com/chenrui333)
+- [content/zh/docs/contribute/generate-ref-docs/kubernetes-components.md](https://github.com/kubernetes/website/blob/release-1.12/content/zh/docs/contribute/generate-ref-docs/kubernetes-components.md) **version:release-1.12** by [chenrui333](https://github.com/chenrui333)
 
 - [content/zh/docs/concepts/containers/runtime-class.md](https://github.com/kubernetes/website/blob/release-1.12/content/zh/docs/concepts/containers/runtime-class.md) **version:release-1.12** by [chenrui333](https://github.com/chenrui333)
 
@@ -940,7 +946,7 @@
 
 - [content/zh/docs/tutorials/kubernetes-basics/update/_index.md](https://github.com/kubernetes/website/blob/release-1.12/content/zh/docs/tutorials/kubernetes-basics/update/_index.md) **version:release-1.12** by [idealhack](https://github.com/idealhack)
 
-- [content/zh/docs/reference/kubectl/_index.md](https://github.com/kubernetes/website/blob/release-1.12/content/zh/docs/reference/kubectl/_index.md) **version:release-1.12** by [idealhack](https://github.com/idealhack)
+- [content/zh/docs/tasks/network-policy-provider/_index.md](https://github.com/kubernetes/website/blob/release-1.12/content/zh/docs/tasks/network-policy-provider/_index.md) **version:release-1.12** by [idealhack](https://github.com/idealhack)
 
 - [content/zh/docs/tasks/job/_index.md](https://github.com/kubernetes/website/blob/release-1.12/content/zh/docs/tasks/job/_index.md) **version:release-1.12** by [idealhack](https://github.com/idealhack)
 
@@ -954,29 +960,29 @@
 
 - [content/zh/docs/tasks/run-application/_index.md](https://github.com/kubernetes/website/blob/release-1.12/content/zh/docs/tasks/run-application/_index.md) **version:release-1.12** by [idealhack](https://github.com/idealhack)
 
-- [content/zh/docs/tasks/administer-cluster/kubeadm/_index.md](https://github.com/kubernetes/website/blob/release-1.12/content/zh/docs/tasks/administer-cluster/kubeadm/_index.md) **version:release-1.12** by [idealhack](https://github.com/idealhack)
-
-- [content/zh/docs/tutorials/clusters/_index.md](https://github.com/kubernetes/website/blob/release-1.12/content/zh/docs/tutorials/clusters/_index.md) **version:release-1.12** by [idealhack](https://github.com/idealhack)
-
 - [content/zh/docs/tutorials/kubernetes-basics/deploy-app/_index.md](https://github.com/kubernetes/website/blob/release-1.12/content/zh/docs/tutorials/kubernetes-basics/deploy-app/_index.md) **version:release-1.12** by [idealhack](https://github.com/idealhack)
 
 - [content/zh/docs/tasks/manage-daemon/_index.md](https://github.com/kubernetes/website/blob/release-1.12/content/zh/docs/tasks/manage-daemon/_index.md) **version:release-1.12** by [idealhack](https://github.com/idealhack)
+
+- [content/zh/docs/tasks/administer-cluster/kubeadm/_index.md](https://github.com/kubernetes/website/blob/release-1.12/content/zh/docs/tasks/administer-cluster/kubeadm/_index.md) **version:release-1.12** by [idealhack](https://github.com/idealhack)
+
+- [content/zh/docs/tutorials/clusters/_index.md](https://github.com/kubernetes/website/blob/release-1.12/content/zh/docs/tutorials/clusters/_index.md) **version:release-1.12** by [idealhack](https://github.com/idealhack)
 
 - [content/zh/docs/tutorials/kubernetes-basics/create-cluster/_index.md](https://github.com/kubernetes/website/blob/release-1.12/content/zh/docs/tutorials/kubernetes-basics/create-cluster/_index.md) **version:release-1.12** by [idealhack](https://github.com/idealhack)
 
 - [content/zh/docs/setup/turnkey/_index.md](https://github.com/kubernetes/website/blob/release-1.12/content/zh/docs/setup/turnkey/_index.md) **version:release-1.12** by [idealhack](https://github.com/idealhack)
 
-- [content/zh/docs/reference/kubernetes-api/_index.md](https://github.com/kubernetes/website/blob/release-1.12/content/zh/docs/reference/kubernetes-api/_index.md) **version:release-1.12** by [idealhack](https://github.com/idealhack)
-
-- [content/zh/docs/tasks/network-policy-provider/_index.md](https://github.com/kubernetes/website/blob/release-1.12/content/zh/docs/tasks/network-policy-provider/_index.md) **version:release-1.12** by [idealhack](https://github.com/idealhack)
-
 - [content/zh/docs/tutorials/kubernetes-basics/expose/_index.md](https://github.com/kubernetes/website/blob/release-1.12/content/zh/docs/tutorials/kubernetes-basics/expose/_index.md) **version:release-1.12** by [idealhack](https://github.com/idealhack)
 
 - [content/zh/docs/tutorials/stateful-application/_index.md](https://github.com/kubernetes/website/blob/release-1.12/content/zh/docs/tutorials/stateful-application/_index.md) **version:release-1.12** by [idealhack](https://github.com/idealhack)
 
+- [content/zh/docs/reference/kubectl/_index.md](https://github.com/kubernetes/website/blob/release-1.12/content/zh/docs/reference/kubectl/_index.md) **version:release-1.12** by [idealhack](https://github.com/idealhack)
+
+- [content/zh/docs/reference/kubernetes-api/_index.md](https://github.com/kubernetes/website/blob/release-1.12/content/zh/docs/reference/kubernetes-api/_index.md) **version:release-1.12** by [idealhack](https://github.com/idealhack)
+
 ### 第 3 周：2018-11-12 ~ 2018-11-18 - 有效合并 2 篇
 
-- [content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_init.md](https://github.com/kubernetes/website/blob/release-1.12/content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_init.md) **version:release-1.12** by [YouthLab](https://github.com/YouthLab)
-
 - [content/zh/docs/reference/setup-tools/kubeadm/kubeadm.md](https://github.com/kubernetes/website/blob/release-1.12/content/zh/docs/reference/setup-tools/kubeadm/kubeadm.md) **version:release-1.12** by [YouthLab](https://github.com/YouthLab)
+
+- [content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_init.md](https://github.com/kubernetes/website/blob/release-1.12/content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_init.md) **version:release-1.12** by [YouthLab](https://github.com/YouthLab)
 
