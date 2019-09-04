@@ -18,7 +18,7 @@
 - 成果输出：翻译图表 [DashBoard](https://k8smeetup.github.io/chart)，附每周的翻译[文章汇总](report/contribution-stage1.md)。
 - 任务领取：基于 Google Docs [任务表]((https://docs.google.com/spreadsheets/d/1k49XTmtEkhjeh9M118fwwcXVfHvCe-DCy6sVVRQAxBk/edit#gid=1294143213))协作
 
-### 第二阶段：基于 [website](https://github.com/kubernetes/website) 仓库的 relese-1.1x 分支进行翻译
+### 第二阶段：基于 [website](https://github.com/kubernetes/website) 仓库的 release-1.1x 分支进行翻译
 
 主要的上游工作仓库是 [website](https://github.com/kubernetes/website)
 
