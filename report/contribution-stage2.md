@@ -8,13 +8,13 @@
 
 ### 第 45 周：2019-09-09 ~ 2019-09-15 - 有效合并 8 篇
 
-- [content/zh/blog/_posts/2015-12-00-Managing-Kubernetes-Pods-Services-And-Replication-Controllers-With-Puppet.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/blog/_posts/2015-12-00-Managing-Kubernetes-Pods-Services-And-Replication-Controllers-With-Puppet.md) **version:release-1.14** by [ahanabi](https://github.com/ahanabi)
-
-- [content/zh/case-studies/ibm/index.html](https://github.com/kubernetes/website/blob/release-1.14/content/zh/case-studies/ibm/index.html) **version:release-1.14** by [ten2ton](https://github.com/ten2ton)
-
 - [content/zh/case-studies/netease/index.html](https://github.com/kubernetes/website/blob/release-1.14/content/zh/case-studies/netease/index.html) **version:release-1.14** by [ten2ton](https://github.com/ten2ton)
 
+- [content/zh/blog/_posts/2015-12-00-Managing-Kubernetes-Pods-Services-And-Replication-Controllers-With-Puppet.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/blog/_posts/2015-12-00-Managing-Kubernetes-Pods-Services-And-Replication-Controllers-With-Puppet.md) **version:release-1.14** by [ahanabi](https://github.com/ahanabi)
+
 - [content/zh/case-studies/wikimedia/index.html](https://github.com/kubernetes/website/blob/release-1.14/content/zh/case-studies/wikimedia/index.html) **version:release-1.14** by [ten2ton](https://github.com/ten2ton)
+
+- [content/zh/case-studies/ibm/index.html](https://github.com/kubernetes/website/blob/release-1.14/content/zh/case-studies/ibm/index.html) **version:release-1.14** by [ten2ton](https://github.com/ten2ton)
 
 - [content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_init_phase_upload-config_kubelet.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_init_phase_upload-config_kubelet.md) **version:release-1.14** by [jiaj12](https://github.com/jiaj12)
 
@@ -28,31 +28,31 @@
 
 - [content/zh/blog/_posts/2018-08-29-kubernetes-testing-ci-automating-contributor-experience.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/blog/_posts/2018-08-29-kubernetes-testing-ci-automating-contributor-experience.md) **version:release-1.14** by [ahanabi](https://github.com/ahanabi)
 
-- [content/zh/docs/concepts/extend-kubernetes/service-catalog.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/concepts/extend-kubernetes/service-catalog.md) **version:release-1.14** by [MJ-CJM](https://github.com/MJ-CJM)
-
 - [content/zh/blog/_posts/2016-01-00-Why-Kubernetes-Doesnt-Use-Libnetwork.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/blog/_posts/2016-01-00-Why-Kubernetes-Doesnt-Use-Libnetwork.md) **version:release-1.14** by [hwdef](https://github.com/hwdef)
+
+- [content/zh/docs/concepts/extend-kubernetes/service-catalog.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/concepts/extend-kubernetes/service-catalog.md) **version:release-1.14** by [MJ-CJM](https://github.com/MJ-CJM)
 
 - [content/zh/docs/tasks/run-application/horizontal-pod-autoscale.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/tasks/run-application/horizontal-pod-autoscale.md) **version:release-1.14** by [RainbowMango](https://github.com/RainbowMango)
 
 - [content/zh/docs/tasks/run-application/horizontal-pod-autoscale-walkthrough.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/tasks/run-application/horizontal-pod-autoscale-walkthrough.md) **version:release-1.14** by [RainbowMango](https://github.com/RainbowMango)
 
-- [content/zh/docs/tutorials/kubernetes-basics/scale/scale-interactive.html](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/tutorials/kubernetes-basics/scale/scale-interactive.html) **version:release-1.14** by [RainbowMango](https://github.com/RainbowMango)
+- [content/zh/docs/tasks/debug-application-cluster/resource-metrics-pipeline.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/tasks/debug-application-cluster/resource-metrics-pipeline.md) **version:release-1.14** by [RainbowMango](https://github.com/RainbowMango)
 
 - [content/zh/docs/reference/glossary/device-plugin.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/reference/glossary/device-plugin.md) **version:release-1.14** by [xichengliudui](https://github.com/xichengliudui)
 
-- [content/zh/docs/tasks/debug-application-cluster/resource-metrics-pipeline.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/tasks/debug-application-cluster/resource-metrics-pipeline.md) **version:release-1.14** by [RainbowMango](https://github.com/RainbowMango)
+- [content/zh/docs/tutorials/kubernetes-basics/scale/scale-interactive.html](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/tutorials/kubernetes-basics/scale/scale-interactive.html) **version:release-1.14** by [RainbowMango](https://github.com/RainbowMango)
 
 ### 第 43 周：2019-08-26 ~ 2019-09-01 - 有效合并 9 篇
 
-- [content/zh/case-studies/workiva/index.html](https://github.com/kubernetes/website/blob/release-1.14/content/zh/case-studies/workiva/index.html) **version:release-1.14** by [ten2ton](https://github.com/ten2ton)
-
-- [content/zh/includes/task-tutorial-prereqs.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/includes/task-tutorial-prereqs.md) **version:release-1.14** by [chendotjs](https://github.com/chendotjs)
+- [content/zh/case-studies/ygrene/index.html](https://github.com/kubernetes/website/blob/release-1.14/content/zh/case-studies/ygrene/index.html) **version:release-1.14** by [ten2ton](https://github.com/ten2ton)
 
 - [content/zh/docs/tasks/configure-pod-container/assign-pods-nodes.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/tasks/configure-pod-container/assign-pods-nodes.md) **version:release-1.14** by [chendotjs](https://github.com/chendotjs)
 
+- [content/zh/includes/task-tutorial-prereqs.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/includes/task-tutorial-prereqs.md) **version:release-1.14** by [chendotjs](https://github.com/chendotjs)
+
 - [content/zh/case-studies/wink/index.html](https://github.com/kubernetes/website/blob/release-1.14/content/zh/case-studies/wink/index.html) **version:release-1.14** by [ten2ton](https://github.com/ten2ton)
 
-- [content/zh/case-studies/ygrene/index.html](https://github.com/kubernetes/website/blob/release-1.14/content/zh/case-studies/ygrene/index.html) **version:release-1.14** by [ten2ton](https://github.com/ten2ton)
+- [content/zh/case-studies/workiva/index.html](https://github.com/kubernetes/website/blob/release-1.14/content/zh/case-studies/workiva/index.html) **version:release-1.14** by [ten2ton](https://github.com/ten2ton)
 
 - [content/zh/docs/setup/production-environment/tools/kubeadm/setup-ha-etcd-with-kubeadm.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/setup/production-environment/tools/kubeadm/setup-ha-etcd-with-kubeadm.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
@@ -76,17 +76,17 @@
 
 ### 第 41 周：2019-08-12 ~ 2019-08-18 - 有效合并 9 篇
 
-- [content/zh/docs/user-journeys/users/cluster-operator/intermediate.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/user-journeys/users/cluster-operator/intermediate.md) **version:release-1.14** by [zhangx501](https://github.com/zhangx501)
-
 - [content/zh/docs/concepts/overview/components.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/concepts/overview/components.md) **version:release-1.14** by [MakDon](https://github.com/MakDon)
 
-- [content/zh/docs/tasks/administer-cluster/reserve-compute-resources.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/tasks/administer-cluster/reserve-compute-resources.md) **version:release-1.14** by [MJ-CJM](https://github.com/MJ-CJM)
+- [content/zh/docs/user-journeys/users/cluster-operator/intermediate.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/user-journeys/users/cluster-operator/intermediate.md) **version:release-1.14** by [zhangx501](https://github.com/zhangx501)
 
 - [content/zh/docs/tasks/federation/set-up-coredns-provider-federation.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/tasks/federation/set-up-coredns-provider-federation.md) **version:release-1.14** by [xichengliudui](https://github.com/xichengliudui)
 
 - [content/zh/docs/tasks/federation/administer-federation/secret.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/tasks/federation/administer-federation/secret.md) **version:release-1.14** by [xichengliudui](https://github.com/xichengliudui)
 
 - [content/zh/case-studies/nordstrom/index.html](https://github.com/kubernetes/website/blob/release-1.14/content/zh/case-studies/nordstrom/index.html) **version:release-1.14** by [ten2ton](https://github.com/ten2ton)
+
+- [content/zh/docs/tasks/administer-cluster/reserve-compute-resources.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/tasks/administer-cluster/reserve-compute-resources.md) **version:release-1.14** by [MJ-CJM](https://github.com/MJ-CJM)
 
 - [content/zh/docs/tutorials/kubernetes-basics/update/update-interactive.html](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/tutorials/kubernetes-basics/update/update-interactive.html) **version:release-1.14** by [zhangx501](https://github.com/zhangx501)
 
@@ -98,29 +98,29 @@
 
 - [content/zh/docs/setup/best-practices/node-conformance.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/setup/best-practices/node-conformance.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
-- [content/zh/docs/setup/production-environment/tools/kubeadm/control-plane-flags.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/setup/production-environment/tools/kubeadm/control-plane-flags.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
-
 - [content/zh/docs/getting-started-guides/ubuntu.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/getting-started-guides/ubuntu.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
-- [content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_init_phase_certs_all.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_init_phase_certs_all.md) **version:release-1.14** by [xichengliudui](https://github.com/xichengliudui)
-
-- [content/zh/docs/tasks/federation/administer-federation/events.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/tasks/federation/administer-federation/events.md) **version:release-1.14** by [xichengliudui](https://github.com/xichengliudui)
-
-- [content/zh/docs/tasks/federation/administer-federation/job.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/tasks/federation/administer-federation/job.md) **version:release-1.14** by [xichengliudui](https://github.com/xichengliudui)
+- [content/zh/docs/setup/production-environment/tools/kubeadm/control-plane-flags.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/setup/production-environment/tools/kubeadm/control-plane-flags.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
 - [content/zh/docs/setup/production-environment/tools/kubeadm/ha-topology.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/setup/production-environment/tools/kubeadm/ha-topology.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
-- [content/zh/docs/tasks/federation/administer-federation/configmap.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/tasks/federation/administer-federation/configmap.md) **version:release-1.14** by [xichengliudui](https://github.com/xichengliudui)
-
 - [content/zh/docs/tasks/federation/administer-federation/_index.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/tasks/federation/administer-federation/_index.md) **version:release-1.14** by [xichengliudui](https://github.com/xichengliudui)
 
-- [content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_init_phase_certs_front-proxy-client.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_init_phase_certs_front-proxy-client.md) **version:release-1.14** by [xichengliudui](https://github.com/xichengliudui)
+- [content/zh/docs/tasks/federation/administer-federation/job.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/tasks/federation/administer-federation/job.md) **version:release-1.14** by [xichengliudui](https://github.com/xichengliudui)
+
+- [content/zh/docs/tasks/federation/administer-federation/events.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/tasks/federation/administer-federation/events.md) **version:release-1.14** by [xichengliudui](https://github.com/xichengliudui)
 
 - [content/zh/docs/reference/access-authn-authz/abac.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/reference/access-authn-authz/abac.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
 
-- [content/zh/docs/tasks/federation/administer-federation/namespaces.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/tasks/federation/administer-federation/namespaces.md) **version:release-1.14** by [xichengliudui](https://github.com/xichengliudui)
-
 - [content/zh/docs/concepts/workloads/controllers/ttlafterfinished.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/concepts/workloads/controllers/ttlafterfinished.md) **version:release-1.14** by [SataQiu](https://github.com/SataQiu)
+
+- [content/zh/docs/tasks/federation/administer-federation/configmap.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/tasks/federation/administer-federation/configmap.md) **version:release-1.14** by [xichengliudui](https://github.com/xichengliudui)
+
+- [content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_init_phase_certs_front-proxy-client.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_init_phase_certs_front-proxy-client.md) **version:release-1.14** by [xichengliudui](https://github.com/xichengliudui)
+
+- [content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_init_phase_certs_all.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_init_phase_certs_all.md) **version:release-1.14** by [xichengliudui](https://github.com/xichengliudui)
+
+- [content/zh/docs/tasks/federation/administer-federation/namespaces.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/tasks/federation/administer-federation/namespaces.md) **version:release-1.14** by [xichengliudui](https://github.com/xichengliudui)
 
 - [content/zh/blog/_posts/2016-02-00-Kubernetes-Community-Meeting-Notes.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/blog/_posts/2016-02-00-Kubernetes-Community-Meeting-Notes.md) **version:release-1.14** by [zhangx501](https://github.com/zhangx501)
 
@@ -146,9 +146,9 @@
 
 - [content/zh/docs/tasks/administer-cluster/running-cloud-controller.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/tasks/administer-cluster/running-cloud-controller.md) **version:release-1.14** by [MJ-CJM](https://github.com/MJ-CJM)
 
-- [content/zh/docs/tutorials/kubernetes-basics/_index.html](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/tutorials/kubernetes-basics/_index.html) **version:release-1.14** by [donhui](https://github.com/donhui)
-
 - [content/zh/docs/concepts/architecture/nodes.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/concepts/architecture/nodes.md) **version:release-1.14** by [copileft](https://github.com/copileft)
+
+- [content/zh/docs/tutorials/kubernetes-basics/_index.html](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/tutorials/kubernetes-basics/_index.html) **version:release-1.14** by [donhui](https://github.com/donhui)
 
 - [content/zh/docs/tasks/tls/managing-tls-in-a-cluster.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/tasks/tls/managing-tls-in-a-cluster.md) **version:release-1.14** by [MJ-CJM](https://github.com/MJ-CJM)
 
@@ -158,9 +158,9 @@
 
 ### 第 34 周：2019-06-24 ~ 2019-06-30 - 有效合并 4 篇
 
-- [content/zh/docs/reference/kubectl/cheatsheet.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/reference/kubectl/cheatsheet.md) **version:release-1.14** by [pigletfly](https://github.com/pigletfly)
-
 - [content/zh/docs/concepts/overview/working-with-objects/common-labels.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/concepts/overview/working-with-objects/common-labels.md) **version:release-1.14** by [pigletfly](https://github.com/pigletfly)
+
+- [content/zh/docs/reference/kubectl/cheatsheet.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/reference/kubectl/cheatsheet.md) **version:release-1.14** by [pigletfly](https://github.com/pigletfly)
 
 - [content/zh/docs/setup/minikube.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/setup/minikube.md) **version:release-1.14** by [pigletfly](https://github.com/pigletfly)
 
@@ -172,11 +172,11 @@
 
 - [content/zh/docs/tasks/administer-cluster/kms-provider.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/tasks/administer-cluster/kms-provider.md) **version:release-1.14** by [yyqqing](https://github.com/yyqqing)
 
-- [content/zh/docs/tasks/manage-gpus/scheduling-gpus.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/tasks/manage-gpus/scheduling-gpus.md) **version:release-1.14** by [mysunshine92](https://github.com/mysunshine92)
-
 - [content/zh/docs/tasks/administer-cluster/namespaces.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/tasks/administer-cluster/namespaces.md) **version:release-1.14** by [yyqqing](https://github.com/yyqqing)
 
 - [content/zh/docs/tasks/administer-cluster/namespaces-walkthrough.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/tasks/administer-cluster/namespaces-walkthrough.md) **version:release-1.14** by [yyqqing](https://github.com/yyqqing)
+
+- [content/zh/docs/tasks/manage-gpus/scheduling-gpus.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/tasks/manage-gpus/scheduling-gpus.md) **version:release-1.14** by [mysunshine92](https://github.com/mysunshine92)
 
 ### 第 32 周：2019-06-10 ~ 2019-06-16 - 有效合并 5 篇
 
@@ -192,9 +192,9 @@
 
 ### 第 31 周：2019-06-03 ~ 2019-06-09 - 有效合并 5 篇
 
-- [content/zh/docs/concepts/workloads/controllers/daemonset.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/concepts/workloads/controllers/daemonset.md) **version:release-1.14** by [mysunshine92](https://github.com/mysunshine92)
-
 - [content/zh/docs/tutorials/hello-minikube.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/tutorials/hello-minikube.md) **version:release-1.14** by [MJ-CJM](https://github.com/MJ-CJM)
+
+- [content/zh/docs/concepts/workloads/controllers/daemonset.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/concepts/workloads/controllers/daemonset.md) **version:release-1.14** by [mysunshine92](https://github.com/mysunshine92)
 
 - [content/zh/docs/tutorials/kubernetes-basics/deploy-app/deploy-interactive.html](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/tutorials/kubernetes-basics/deploy-app/deploy-interactive.html) **version:release-1.14** by [ChongmingDu](https://github.com/ChongmingDu)
 
@@ -208,15 +208,15 @@
 
 - [content/zh/includes/federation-deprecation-warning-note.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/includes/federation-deprecation-warning-note.md) **version:release-1.14** by [MJ-CJM](https://github.com/MJ-CJM)
 
-- [content/zh/docs/_index.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/_index.md) **version:release-1.14** by [FlyingOnion](https://github.com/FlyingOnion)
-
 - [content/zh/docs/home/_index.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/home/_index.md) **version:release-1.14** by [FlyingOnion](https://github.com/FlyingOnion)
+
+- [content/zh/docs/_index.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/_index.md) **version:release-1.14** by [FlyingOnion](https://github.com/FlyingOnion)
 
 ### 第 29 周：2019-05-20 ~ 2019-05-26 - 有效合并 5 篇
 
-- [content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_init_phase_kubeconfig_controller-manager.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_init_phase_kubeconfig_controller-manager.md) **version:release-1.14** by [ChongmingDu](https://github.com/ChongmingDu)
-
 - [content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_init_phase_mark-control-plane.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_init_phase_mark-control-plane.md) **version:release-1.14** by [ChongmingDu](https://github.com/ChongmingDu)
+
+- [content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_init_phase_kubeconfig_controller-manager.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_init_phase_kubeconfig_controller-manager.md) **version:release-1.14** by [ChongmingDu](https://github.com/ChongmingDu)
 
 - [content/zh/docs/reference/access-authn-authz/extensible-admission-controllers.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/reference/access-authn-authz/extensible-admission-controllers.md) **version:release-1.14** by [fatalc](https://github.com/fatalc)
 
