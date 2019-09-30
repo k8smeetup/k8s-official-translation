@@ -32,17 +32,17 @@
 
 - [content/zh/docs/tasks/federation/administer-federation/namespaces.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/tasks/federation/administer-federation/namespaces.md) **version:release-1.14** by [xichengliudui](https://github.com/xichengliudui)
 
-- [content/zh/docs/tasks/federation/administer-federation/configmap.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/tasks/federation/administer-federation/configmap.md) **version:release-1.14** by [MJ-CJM](https://github.com/MJ-CJM)
-
-- [content/zh/docs/tasks/federation/administer-federation/configmap.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/tasks/federation/administer-federation/configmap.md) **version:release-1.14** by [MJ-CJM](https://github.com/MJ-CJM)
-
 - [content/zh/docs/tasks/federation/administer-federation/replicaset.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/tasks/federation/administer-federation/replicaset.md) **version:release-1.14** by [MJ-CJM](https://github.com/MJ-CJM)
+
+- [content/zh/docs/tasks/federation/administer-federation/configmap.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/tasks/federation/administer-federation/configmap.md) **version:release-1.14** by [MJ-CJM](https://github.com/MJ-CJM)
+
+- [content/zh/docs/tasks/federation/administer-federation/configmap.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/tasks/federation/administer-federation/configmap.md) **version:release-1.14** by [MJ-CJM](https://github.com/MJ-CJM)
+
+- [content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_init_phase_certs_front-proxy-client.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_init_phase_certs_front-proxy-client.md) **version:release-1.14** by [xichengliudui](https://github.com/xichengliudui)
 
 - [content/zh/docs/tasks/federation/administer-federation/job.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/tasks/federation/administer-federation/job.md) **version:release-1.14** by [xichengliudui](https://github.com/xichengliudui)
 
 - [content/zh/docs/tasks/federation/administer-federation/namespaces.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/tasks/federation/administer-federation/namespaces.md) **version:release-1.14** by [xichengliudui](https://github.com/xichengliudui)
-
-- [content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_init_phase_certs_front-proxy-client.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_init_phase_certs_front-proxy-client.md) **version:release-1.14** by [xichengliudui](https://github.com/xichengliudui)
 
 ### 第 40 周：2019-08-05 ~ 2019-08-11 - 有效合并 1 篇
 
