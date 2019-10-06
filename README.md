@@ -8,7 +8,7 @@
 
 基于 `KUBECON` 在上海的契机, 多语言版本提上日程，原有的任务领取方式已经不能满足要求，而且`Google 任务表` 领取也不方便，因此目前新的流程应运而生。
 
-经社区成员讨论一致决定基于目前最新的 `release-1.14` 分支作为基准翻译分支，大家提交 `PR` 时,不要选择 `Master` 分支。
+经社区成员讨论一致决定基于目前最新的 `release-1.16` 分支作为基准翻译分支，大家提交 `PR` 时,不要选择 `Master` 分支。
 
 ### 第一阶段：基于 [website](https://github.com/kubernetes/website) 仓库的 `master` 分支进行翻译
 
@@ -18,17 +18,28 @@
 - 成果输出：翻译图表 [DashBoard](https://k8smeetup.github.io/chart)，附每周的翻译[文章汇总](report/contribution-stage1.md)。
 - 任务领取：基于 Google Docs [任务表]((https://docs.google.com/spreadsheets/d/1k49XTmtEkhjeh9M118fwwcXVfHvCe-DCy6sVVRQAxBk/edit#gid=1294143213))协作
 
-### 第二阶段：基于 [website](https://github.com/kubernetes/website) 仓库的 relese-1.1x 分支进行翻译
+### 第二阶段：基于 [website](https://github.com/kubernetes/website) 仓库的 relese-1.14 分支进行翻译
 
 主要的上游工作仓库是 [website](https://github.com/kubernetes/website)
 
-- 时间区间：2018/11/13 - 至今
+- 时间区间：2018/11/13 - 2019/10/1
 - 成果输出：
     - [Merged PR 列表](https://github.com/kubernetes/website/pulls?utf8=%E2%9C%93&q=is%3Apr+is%3Amerged+label%3Alanguage%2Fzh+)
     - 进度展示图 [DashBoard](https://k8smeetup.github.io/k8s-official-translation/index.html)
     - 每周的[翻译文章汇总](report/contribution-stage2.md)
     - 每周的[更新文章汇总](report/contribution-stage2-update.md)
 - 任务领取：全部基于 Github 即有功能实现，通过 [website-tasks](https://github.com/k8smeetup/website-tasks) 仓库实现
+
+### 第三阶段：基于 [website](https://github.com/kubernetes/website) 仓库的 relese-1.16 分支进行翻译
+
+- 时间区间：2019/10/1 - 至今
+- 成果输出：
+    - [Merged PR 列表](https://github.com/kubernetes/website/pulls?utf8=%E2%9C%93&q=is%3Apr+is%3Amerged+label%3Alanguage%2Fzh+)
+    - 进度展示图 [DashBoard](https://k8smeetup.github.io/k8s-official-translation/index2.html)
+    - 每周的[翻译文章汇总](report/contribution-stage3.md)
+    - 每周的[更新文章汇总](report/contribution-stage3-update.md)
+- 任务领取：全部基于 Github 即有功能实现，通过 [website-tasks](https://github.com/k8smeetup/website-tasks) 仓库实现
+
 
 ## Step1. 准备工作
 
@@ -74,10 +85,10 @@
 
 访问[任务列表](https://github.com/k8smeetup/website-tasks/issues)，会看到如下图所示的 Issue 列表：
 
-当前有 1.12、1.14 两个版本的 issue，文档包含标准帮助和博客文档..
+基于 1.16 版本的 issue，文档包含标准帮助和博客文档..
 
-- 搜索 1.14 版本标准文档: `is:open is:issue label:priority/P0 label:version/1.14`  - 建议优先翻译此文档
-- 搜索 1.14 版本博客文档: `is:open is:issue label:priority/P1 label:version/1.14`
+- 搜索 1.16 版本标准文档: `is:open is:issue label:priority/P0 label:version/1.16`  - 建议优先翻译此文档
+- 搜索 1.16 版本博客文档: `is:open is:issue label:priority/P1 label:version/1.16`
 
 ![issue-list](image/web-task-issues-list.png)
 
@@ -90,14 +101,14 @@ Issue 标签目前分为几类：
     - `pushed`：该任务已生成 PR，正在进行 Review。
     - `merged`：该任务相关 PR 已合并，任务完成。
 - 优先级：`priority/P0`、`priority/P1` 等等。
-- 版本标识：`version/1.12`、`version/1.13` 等等。
+- 版本标识：`version/1.16` 等等。
 - 文档类型
     - `doc/accessory`：辅助文档。
     - `doc/core`：核心文档。
 
 可以简单的通过点击标签来进行过滤。或者也可以参考 [github 查询语法](https://help.github.com/articles/searching-issues-and-pull-requests/)，来完成更复杂的查询，下面举两个例子：
 
-- 搜索所有 1.14 版本的待认领任务：`is:open is:issue label:priority/P0 label:version/1.14 label:pending`
+- 搜索所有 1.16 版本的待认领任务：`is:open is:issue label:priority/P0 label:version/1.16 label:pending`
 - 搜索所有指派给 `fleeto` 的未完成任务：`is:open assignee:fleeto`
 
 ### 任务认领
