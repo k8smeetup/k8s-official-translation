@@ -125,6 +125,9 @@ Issue 标签目前分为几类：
 
 在任务相关 PR 完成合并之后，可以在 Issue 中输入指令 `/merged`，Bot 会设置 Issue 状态为 `finished`，并关闭 Issue。
 
+### 本地测试
+
+参考[本地构建文档](local-build.md)
 
 #### 参与翻译前必读 
 
