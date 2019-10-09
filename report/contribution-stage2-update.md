@@ -1,5 +1,9 @@
 # K8SMeetup 中文翻译社区每周文章更新汇编
 
+### 第 48 周：2019-09-30 ~ 2019-10-06 - 有效合并 1 篇
+
+- [content/zh/docs/tutorials/clusters/apparmor.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/tutorials/clusters/apparmor.md) **version:release-1.14** by [zacharysarah](https://github.com/zacharysarah)
+
 ### 第 46 周：2019-09-16 ~ 2019-09-22 - 有效合并 3 篇
 
 - [content/zh/blog/_posts/2018-08-29-kubernetes-testing-ci-automating-contributor-experience.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/blog/_posts/2018-08-29-kubernetes-testing-ci-automating-contributor-experience.md) **version:release-1.14** by [ahanabi](https://github.com/ahanabi)
@@ -32,9 +36,9 @@
 
 - [content/zh/docs/tasks/federation/administer-federation/namespaces.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/tasks/federation/administer-federation/namespaces.md) **version:release-1.14** by [xichengliudui](https://github.com/xichengliudui)
 
-- [content/zh/docs/tasks/federation/administer-federation/replicaset.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/tasks/federation/administer-federation/replicaset.md) **version:release-1.14** by [MJ-CJM](https://github.com/MJ-CJM)
-
 - [content/zh/docs/tasks/federation/administer-federation/configmap.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/tasks/federation/administer-federation/configmap.md) **version:release-1.14** by [MJ-CJM](https://github.com/MJ-CJM)
+
+- [content/zh/docs/tasks/federation/administer-federation/replicaset.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/tasks/federation/administer-federation/replicaset.md) **version:release-1.14** by [MJ-CJM](https://github.com/MJ-CJM)
 
 - [content/zh/docs/tasks/federation/administer-federation/configmap.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/tasks/federation/administer-federation/configmap.md) **version:release-1.14** by [MJ-CJM](https://github.com/MJ-CJM)
 
