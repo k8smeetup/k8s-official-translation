@@ -17,6 +17,10 @@
 - 时间区间：2017/07/17 - 2018/4/15 
 - 成果输出：翻译图表 [DashBoard](https://k8smeetup.github.io/chart)，附每周的翻译[文章汇总](report/contribution-stage1.md)。
 - 任务领取：基于 Google Docs [任务表]((https://docs.google.com/spreadsheets/d/1k49XTmtEkhjeh9M118fwwcXVfHvCe-DCy6sVVRQAxBk/edit#gid=1294143213))协作
+  
+- 此阶段：
+  - 通过 Google 在线 EXCEL 表格实现任务管理
+  - 任务存储到 PGSQL 数据库中
 
 ### 第二阶段：基于 [website](https://github.com/kubernetes/website) 仓库的 relese-1.14 分支进行翻译
 
@@ -30,6 +34,10 @@
     - 每周的[更新文章汇总](report/contribution-stage2-update.md)
 - 任务领取：全部基于 Github 即有功能实现，通过 [website-tasks](https://github.com/k8smeetup/website-tasks) 仓库实现
 
+- 此阶段：
+  - 通过 Github API V3 实现任务管理 - (管理任务是个很消耗时间的工作)
+  - 任务存储到 PGSQL 数据库中
+
 ### 第三阶段：基于 [website](https://github.com/kubernetes/website) 仓库的 relese-1.16 分支进行翻译
 
 - 时间区间：2019/10/1 - 至今
@@ -40,6 +48,9 @@
     - 每周的[更新文章汇总](report/contribution-stage3-update.md)
 - 任务领取：全部基于 Github 即有功能实现，通过 [website-tasks](https://github.com/k8smeetup/website-tasks) 仓库实现
 
+- 此阶段：
+  - 重构代码，通过 Github API V4 实现任务管理(任务创建速度提升了数十个数量级，且不会出现超时问题)
+  - 任务存储到 PGSQL 数据库中
 
 ## Step1. 准备工作
 
