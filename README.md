@@ -32,7 +32,7 @@
     - 进度展示图 [DashBoard](https://k8smeetup.github.io/k8s-official-translation/index.html)
     - 每周的[翻译文章汇总](report/contribution-stage2.md)
     - 每周的[更新文章汇总](report/contribution-stage2-update.md)
-- 任务领取：全部基于 Github 即有功能实现，通过 [website-tasks](https://github.com/k8smeetup/website-tasks) 仓库实现
+- 任务领取：全部基于 Github 即有功能实现，通过 [website-tasks](https://github.com/k8smeetup/website-tasks/issues) 仓库实现
 
 - 此阶段：
   - 通过 Github API V3 实现任务管理 - (管理任务是个很消耗时间的工作)
@@ -46,7 +46,7 @@
     - 进度展示图 [DashBoard](https://k8smeetup.github.io/k8s-official-translation/index2.html)
     - 每周的[翻译文章汇总](report/contribution-stage3.md)
     - 每周的[更新文章汇总](report/contribution-stage3-update.md)
-- 任务领取：全部基于 Github 即有功能实现，通过 [website-tasks](https://github.com/k8smeetup/website-tasks) 仓库实现
+- 任务领取：全部基于 Github 即有功能实现，通过 [website-tasks](https://github.com/k8smeetup/website-tasks/issues) 仓库实现
 
 - 此阶段：
   - 重构代码，通过 Github API V4 实现任务管理(任务创建速度提升了数十个数量级，且不会出现超时问题)
