@@ -47,6 +47,7 @@
     - 每周的[翻译文章汇总](report/contribution-stage3.md)
     - 每周的[更新文章汇总](report/contribution-stage3-update.md)
 - 任务领取：全部基于 Github 即有功能实现，通过 [website-tasks](https://github.com/k8smeetup/website-tasks) 仓库实现
+  - release-1.16 issue task 基于[此 PR 构建](https://github.com/kubernetes/website/pull/16805)
 
 - 此阶段：
   - 重构代码，通过 Github API V4 实现任务管理(任务创建速度提升了数十个数量级，且不会出现超时问题)
@@ -139,6 +140,20 @@ Issue 标签目前分为几类：
 ### 本地测试
 
 参考[本地构建文档](local-build.md)
+
+建议本地构建PR ，没问题在提交，避免 PR 构建失败的问题
+
+切换到 `release-1.16` 分支
+
+ - make docker-image
+ - make docker-serve
+
+
+![](./image/2019-10-15-00-54-07.png)
+
+翻译词汇参考：
+
+![](./image/2019-10-15-00-54-32.png)
 
 #### 参与翻译前必读 
 
