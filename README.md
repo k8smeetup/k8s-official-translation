@@ -208,6 +208,62 @@ Kubernetes 文档由若干 `md` 和 `html` 文档构成，翻译即是将原始 
 - `md` 代码块与代码输出内容也不要翻译
 - 如果是多人合译的文章，需要同步好翻译进度
 
+### 翻译常见问题与注意事项
+**<font color=red>提交 pr 前请本地构建，自查下格式、布局、链接、字体等是否显示正常</font>**
+- [本地构建](https://github.com/kubernetes/website)
+- 表格翻译注意事项<br/>
+    原始英文用符号 `<!-- -->` 注释掉，其中 `<!--`，`-->` 各占一行 每一段英文，对应一段中文，方便其他译者 review 如下所示：
+    推荐格式<br/>
+    ```
+    <td></td><td style="line-height: 130%; word-wrap: break-word;">
+    <!--
+    英文原文
+    -->
+    翻译中文
+    </td>
+    ```
+    不推荐格式<br/>
+    ```
+    <!--<td></td><td style="line-height: 130%; word-wrap: break-word;">
+    Engish content
+    </td>
+    -->
+    <td></td><td style="line-height: 130%; word-wrap: break-word;">中文内容
+    </td>
+    ```
+    具体详情参考案例 [表格翻译](https://github.com/kubernetes/website/pull/16987/files) 第27-94行<br>
+    原文英文注释<br>
+    推荐格式<br/>
+    ```
+    <!--
+    Joins a machine as a control plane instance
+    -->
+    加入计算机作为控制平面实例
+    ```
+    不推荐格式<br/>
+    ```
+    <!-- Joins a machine as a control plane instance -->
+    加入计算机作为控制平面实例
+    ```
+- 带有 {{note}} {{warning}} 等标签翻译注意事项
+    ```
+    {{< warning >}}
+    Ephemeral containers are in early alpha state and are not suitable for production clusters. You should expect the feature not to work in some situations, such as when targeting the namespaces of a container. In accordance with the [Kubernetes Deprecation Policy](/docs/reference/using-api/deprecation-policy/), this alpha feature could change significantly in the future or be removed entirely.
+    {{< /warning >}}
+    ```
+    推荐格式<br/>
+    ```
+    {{< warning >}}
+    <!--
+    Ephemeral containers are in early alpha state and are not suitable for production clusters. You should expect the feature not to work in some situations, such as when targeting the namespaces of a container. In accordance with the [Kubernetes Deprecation Policy](/docs/reference/using-api/deprecation-policy/), this alpha feature could change significantly in the future or be removed entirely.
+    -->
+    临时容器处于早期的 alpha 阶段，不适用于生成环境集群。应该预料到临时容器在某些情况下不起作用，例如在定位容器的名称命名空间。根据 [Kubernetes 弃用政策](/docs/reference/using-api/deprecation-policy/)，该 alpha 功能将来可能发生重大变化或完全删除。
+    {{< /warning >}}
+    ```
+- 代码部署问题 如果发生 deploy/netlify CI 错误，请使用梯子访问链接查看错误原因或者本地构建查看错误。
+- **需要注意 release 1.14 中文翻译的是 release 1.14，release 1.16 中文翻译的是 release 1.16，由于 release 1.14 中文翻译有些文件没有对 release 1.14 英文完全翻译或者翻译格式有些问题，脚本差异化结果仅作参考，以 release 1.16 英文原文为基准重新翻译**
+- 根据 kubernetes 官网建议，请及时关注与更新 pr。
+
 #### 格式化文档：
 
 翻译测试文件 test.md
