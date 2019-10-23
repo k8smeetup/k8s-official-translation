@@ -43,7 +43,7 @@
 - 时间区间：2019/10/1 - 至今
 - 成果输出：
     - [Merged PR 列表](https://github.com/kubernetes/website/pulls?utf8=%E2%9C%93&q=is%3Apr+is%3Amerged+label%3Alanguage%2Fzh+)
-    - 进度展示图 [DashBoard](https://k8smeetup.github.io/k8s-official-translation/index2.html)
+    - 进度展示图 [DashBoard](https://k8smeetup.github.io/k8s-official-translation/index.html)
     - 每周的[翻译文章汇总](report/contribution-stage3.md)
     - 每周的[更新文章汇总](report/contribution-stage3-update.md)
 - 任务领取：全部基于 Github 即有功能实现，通过 [website-tasks](https://github.com/k8smeetup/website-tasks/issues) 仓库实现
