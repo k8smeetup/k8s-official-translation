@@ -34,9 +34,9 @@
 
 - [content/zh/docs/tasks/federation/administer-federation/configmap.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/tasks/federation/administer-federation/configmap.md) **version:release-1.14** by [MJ-CJM](https://github.com/MJ-CJM)
 
-- [content/zh/docs/tasks/federation/administer-federation/replicaset.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/tasks/federation/administer-federation/replicaset.md) **version:release-1.14** by [MJ-CJM](https://github.com/MJ-CJM)
-
 - [content/zh/docs/tasks/federation/administer-federation/configmap.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/tasks/federation/administer-federation/configmap.md) **version:release-1.14** by [MJ-CJM](https://github.com/MJ-CJM)
+
+- [content/zh/docs/tasks/federation/administer-federation/replicaset.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/tasks/federation/administer-federation/replicaset.md) **version:release-1.14** by [MJ-CJM](https://github.com/MJ-CJM)
 
 - [content/zh/docs/tasks/federation/administer-federation/namespaces.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/tasks/federation/administer-federation/namespaces.md) **version:release-1.14** by [xichengliudui](https://github.com/xichengliudui)
 
