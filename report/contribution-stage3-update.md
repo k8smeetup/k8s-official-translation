@@ -116,15 +116,13 @@
 
 - [content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_config_images.md](https://github.com/kubernetes/website/blob/release-1.16/content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_config_images.md) **version:release-1.16** by [tanjunchen](https://github.com/tanjunchen)
 
-- [content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_init_phase_kubeconfig.md](https://github.com/kubernetes/website/blob/release-1.16/content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_init_phase_kubeconfig.md) **version:release-1.16** by [tanjunchen](https://github.com/tanjunchen)
+- [content/zh/docs/tasks/configure-pod-container/assign-cpu-resource.md](https://github.com/kubernetes/website/blob/release-1.16/content/zh/docs/tasks/configure-pod-container/assign-cpu-resource.md) **version:release-1.16** by [heqg](https://github.com/heqg)
 
 - [content/zh/docs/concepts/storage/volume-snapshots.md](https://github.com/kubernetes/website/blob/release-1.16/content/zh/docs/concepts/storage/volume-snapshots.md) **version:release-1.16** by [pandaamanda](https://github.com/pandaamanda)
 
 - [content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_token.md](https://github.com/kubernetes/website/blob/release-1.16/content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_token.md) **version:release-1.16** by [tanjunchen](https://github.com/tanjunchen)
 
 - [content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_reset.md](https://github.com/kubernetes/website/blob/release-1.16/content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_reset.md) **version:release-1.16** by [tanjunchen](https://github.com/tanjunchen)
-
-- [content/zh/docs/tasks/configure-pod-container/assign-cpu-resource.md](https://github.com/kubernetes/website/blob/release-1.16/content/zh/docs/tasks/configure-pod-container/assign-cpu-resource.md) **version:release-1.16** by [heqg](https://github.com/heqg)
 
 - [content/zh/docs/setup/production-environment/tools/kubeadm/troubleshooting-kubeadm.md](https://github.com/kubernetes/website/blob/release-1.16/content/zh/docs/setup/production-environment/tools/kubeadm/troubleshooting-kubeadm.md) **version:release-1.16** by [yuxiaobo96](https://github.com/yuxiaobo96)
 
@@ -133,6 +131,8 @@
 - [content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_join_phase_control-plane-join_update-status.md](https://github.com/kubernetes/website/blob/release-1.16/content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_join_phase_control-plane-join_update-status.md) **version:release-1.16** by [tanjunchen](https://github.com/tanjunchen)
 
 - [content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_init_phase_control-plane_apiserver.md](https://github.com/kubernetes/website/blob/release-1.16/content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_init_phase_control-plane_apiserver.md) **version:release-1.16** by [tanjunchen](https://github.com/tanjunchen)
+
+- [content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_init_phase_kubeconfig.md](https://github.com/kubernetes/website/blob/release-1.16/content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_init_phase_kubeconfig.md) **version:release-1.16** by [tanjunchen](https://github.com/tanjunchen)
 
 - [content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_init_phase_upload-config_kubelet.md](https://github.com/kubernetes/website/blob/release-1.16/content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_init_phase_upload-config_kubelet.md) **version:release-1.16** by [tanjunchen](https://github.com/tanjunchen)
 
@@ -148,8 +148,6 @@
 
 - [content/zh/docs/contribute/participating.md](https://github.com/kubernetes/website/blob/release-1.16/content/zh/docs/contribute/participating.md) **version:release-1.16** by [tanjunchen](https://github.com/tanjunchen)
 
-- [content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_token_create.md](https://github.com/kubernetes/website/blob/release-1.16/content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_token_create.md) **version:release-1.16** by [tanjunchen](https://github.com/tanjunchen)
-
 - [content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_token_generate.md](https://github.com/kubernetes/website/blob/release-1.16/content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_token_generate.md) **version:release-1.16** by [tanjunchen](https://github.com/tanjunchen)
 
 - [content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_token_list.md](https://github.com/kubernetes/website/blob/release-1.16/content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_token_list.md) **version:release-1.16** by [tanjunchen](https://github.com/tanjunchen)
@@ -160,6 +158,8 @@
 
 - [content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_token_delete.md](https://github.com/kubernetes/website/blob/release-1.16/content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_token_delete.md) **version:release-1.16** by [tanjunchen](https://github.com/tanjunchen)
 
+- [content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_token_create.md](https://github.com/kubernetes/website/blob/release-1.16/content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_token_create.md) **version:release-1.16** by [tanjunchen](https://github.com/tanjunchen)
+
 - [content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm.md](https://github.com/kubernetes/website/blob/release-1.16/content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm.md) **version:release-1.16** by [tanjunchen](https://github.com/tanjunchen)
 
 - [content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_alpha.md](https://github.com/kubernetes/website/blob/release-1.16/content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_alpha.md) **version:release-1.16** by [tanjunchen](https://github.com/tanjunchen)
@@ -168,9 +168,11 @@
 
 - [content/zh/docs/concepts/workloads/controllers/jobs-run-completion.md](https://github.com/kubernetes/website/blob/release-1.16/content/zh/docs/concepts/workloads/controllers/jobs-run-completion.md) **version:release-1.16** by [pandaamanda](https://github.com/pandaamanda)
 
-- [content/zh/docs/reference/setup-tools/kubeadm/kubeadm-join.md](https://github.com/kubernetes/website/blob/release-1.16/content/zh/docs/reference/setup-tools/kubeadm/kubeadm-join.md) **version:release-1.16** by [ping035627](https://github.com/ping035627)
+- [content/zh/docs/reference/setup-tools/kubeadm/kubeadm-init.md](https://github.com/kubernetes/website/blob/release-1.16/content/zh/docs/reference/setup-tools/kubeadm/kubeadm-init.md) **version:release-1.16** by [ping035627](https://github.com/ping035627)
 
 - [content/zh/docs/reference/command-line-tools-reference/kube-scheduler.md](https://github.com/kubernetes/website/blob/release-1.16/content/zh/docs/reference/command-line-tools-reference/kube-scheduler.md) **version:release-1.16** by [tanjunchen](https://github.com/tanjunchen)
+
+- [content/zh/docs/reference/setup-tools/kubeadm/kubeadm-join.md](https://github.com/kubernetes/website/blob/release-1.16/content/zh/docs/reference/setup-tools/kubeadm/kubeadm-join.md) **version:release-1.16** by [ping035627](https://github.com/ping035627)
 
 - [content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_join.md](https://github.com/kubernetes/website/blob/release-1.16/content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_join.md) **version:release-1.16** by [ping035627](https://github.com/ping035627)
 
@@ -179,8 +181,6 @@
 - [content/zh/docs/reference/setup-tools/kubeadm/kubeadm-upgrade.md](https://github.com/kubernetes/website/blob/release-1.16/content/zh/docs/reference/setup-tools/kubeadm/kubeadm-upgrade.md) **version:release-1.16** by [tanjunchen](https://github.com/tanjunchen)
 
 - [content/zh/docs/reference/setup-tools/kubeadm/kubeadm-reset.md](https://github.com/kubernetes/website/blob/release-1.16/content/zh/docs/reference/setup-tools/kubeadm/kubeadm-reset.md) **version:release-1.16** by [tanjunchen](https://github.com/tanjunchen)
-
-- [content/zh/docs/reference/setup-tools/kubeadm/kubeadm-init.md](https://github.com/kubernetes/website/blob/release-1.16/content/zh/docs/reference/setup-tools/kubeadm/kubeadm-init.md) **version:release-1.16** by [ping035627](https://github.com/ping035627)
 
 - [content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_join_phase_control-plane-join_all.md](https://github.com/kubernetes/website/blob/release-1.16/content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_join_phase_control-plane-join_all.md) **version:release-1.16** by [Sophy417](https://github.com/Sophy417)
 
@@ -196,8 +196,6 @@
 
 - [content/zh/docs/reference/kubectl/kubectl.md](https://github.com/kubernetes/website/blob/release-1.16/content/zh/docs/reference/kubectl/kubectl.md) **version:release-1.16** by [ping035627](https://github.com/ping035627)
 
-- [content/zh/docs/tasks/debug-application-cluster/resource-usage-monitoring.md](https://github.com/kubernetes/website/blob/release-1.16/content/zh/docs/tasks/debug-application-cluster/resource-usage-monitoring.md) **version:release-1.16** by [zhangx501](https://github.com/zhangx501)
-
 - [content/zh/docs/tasks/access-kubernetes-api/http-proxy-access-api.md](https://github.com/kubernetes/website/blob/release-1.16/content/zh/docs/tasks/access-kubernetes-api/http-proxy-access-api.md) **version:release-1.16** by [zhangx501](https://github.com/zhangx501)
 
 - [content/zh/docs/tasks/administer-cluster/coredns.md](https://github.com/kubernetes/website/blob/release-1.16/content/zh/docs/tasks/administer-cluster/coredns.md) **version:release-1.16** by [zhangx501](https://github.com/zhangx501)
@@ -210,25 +208,11 @@
 
 - [content/zh/docs/tasks/tools/install-kubectl.md](https://github.com/kubernetes/website/blob/release-1.16/content/zh/docs/tasks/tools/install-kubectl.md) **version:release-1.16** by [jiaj12](https://github.com/jiaj12)
 
+- [content/zh/docs/tasks/debug-application-cluster/resource-usage-monitoring.md](https://github.com/kubernetes/website/blob/release-1.16/content/zh/docs/tasks/debug-application-cluster/resource-usage-monitoring.md) **version:release-1.16** by [zhangx501](https://github.com/zhangx501)
+
 - [content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_init_phase_certs_etcd-healthcheck-client.md](https://github.com/kubernetes/website/blob/release-1.16/content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_init_phase_certs_etcd-healthcheck-client.md) **version:release-1.16** by [jiazxjason](https://github.com/jiazxjason)
 
 - [content/zh/docs/tutorials/configuration/configure-redis-using-configmap.md](https://github.com/kubernetes/website/blob/release-1.16/content/zh/docs/tutorials/configuration/configure-redis-using-configmap.md) **version:release-1.16** by [jiaj12](https://github.com/jiaj12)
-
-- [content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_alpha_certs_renew.md](https://github.com/kubernetes/website/blob/release-1.16/content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_alpha_certs_renew.md) **version:release-1.16** by [tanjunchen](https://github.com/tanjunchen)
-
-- [content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_alpha_certs_renew_apiserver.md](https://github.com/kubernetes/website/blob/release-1.16/content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_alpha_certs_renew_apiserver.md) **version:release-1.16** by [tanjunchen](https://github.com/tanjunchen)
-
-- [content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_alpha_certs_renew_apiserver-etcd-client.md](https://github.com/kubernetes/website/blob/release-1.16/content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_alpha_certs_renew_apiserver-etcd-client.md) **version:release-1.16** by [tanjunchen](https://github.com/tanjunchen)
-
-- [content/zh/docs/tasks/configure-pod-container/configure-volume-storage.md](https://github.com/kubernetes/website/blob/release-1.16/content/zh/docs/tasks/configure-pod-container/configure-volume-storage.md) **version:release-1.16** by [zhangx501](https://github.com/zhangx501)
-
-- [content/zh/docs/tasks/configure-pod-container/extended-resource.md](https://github.com/kubernetes/website/blob/release-1.16/content/zh/docs/tasks/configure-pod-container/extended-resource.md) **version:release-1.16** by [zhangx501](https://github.com/zhangx501)
-
-- [content/zh/docs/tasks/configure-pod-container/quality-service-pod.md](https://github.com/kubernetes/website/blob/release-1.16/content/zh/docs/tasks/configure-pod-container/quality-service-pod.md) **version:release-1.16** by [xichengliudui](https://github.com/xichengliudui)
-
-- [content/zh/docs/tasks/configure-pod-container/configure-service-account.md](https://github.com/kubernetes/website/blob/release-1.16/content/zh/docs/tasks/configure-pod-container/configure-service-account.md) **version:release-1.16** by [xichengliudui](https://github.com/xichengliudui)
-
-- [content/zh/docs/tasks/administer-cluster/namespaces.md](https://github.com/kubernetes/website/blob/release-1.16/content/zh/docs/tasks/administer-cluster/namespaces.md) **version:release-1.16** by [xichengliudui](https://github.com/xichengliudui)
 
 - [content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_upgrade.md](https://github.com/kubernetes/website/blob/release-1.16/content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_upgrade.md) **version:release-1.16** by [xichengliudui](https://github.com/xichengliudui)
 
@@ -240,13 +224,23 @@
 
 - [content/zh/docs/user-journeys/users/cluster-operator/intermediate.md](https://github.com/kubernetes/website/blob/release-1.16/content/zh/docs/user-journeys/users/cluster-operator/intermediate.md) **version:release-1.16** by [jiaj12](https://github.com/jiaj12)
 
-- [content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_init_phase_kubeconfig_controller-manager.md](https://github.com/kubernetes/website/blob/release-1.16/content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_init_phase_kubeconfig_controller-manager.md) **version:release-1.16** by [xichengliudui](https://github.com/xichengliudui)
+- [content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_alpha_certs_renew.md](https://github.com/kubernetes/website/blob/release-1.16/content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_alpha_certs_renew.md) **version:release-1.16** by [tanjunchen](https://github.com/tanjunchen)
 
-- [content/zh/docs/reference/glossary/flexvolume.md](https://github.com/kubernetes/website/blob/release-1.16/content/zh/docs/reference/glossary/flexvolume.md) **version:release-1.16** by [tanjunchen](https://github.com/tanjunchen)
+- [content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_alpha_certs_renew_apiserver.md](https://github.com/kubernetes/website/blob/release-1.16/content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_alpha_certs_renew_apiserver.md) **version:release-1.16** by [tanjunchen](https://github.com/tanjunchen)
+
+- [content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_alpha_certs_renew_apiserver-etcd-client.md](https://github.com/kubernetes/website/blob/release-1.16/content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_alpha_certs_renew_apiserver-etcd-client.md) **version:release-1.16** by [tanjunchen](https://github.com/tanjunchen)
+
+- [content/zh/docs/tasks/configure-pod-container/configure-volume-storage.md](https://github.com/kubernetes/website/blob/release-1.16/content/zh/docs/tasks/configure-pod-container/configure-volume-storage.md) **version:release-1.16** by [zhangx501](https://github.com/zhangx501)
+
+- [content/zh/docs/tasks/configure-pod-container/extended-resource.md](https://github.com/kubernetes/website/blob/release-1.16/content/zh/docs/tasks/configure-pod-container/extended-resource.md) **version:release-1.16** by [zhangx501](https://github.com/zhangx501)
 
 - [content/zh/docs/reference/glossary/device-plugin.md](https://github.com/kubernetes/website/blob/release-1.16/content/zh/docs/reference/glossary/device-plugin.md) **version:release-1.16** by [tanjunchen](https://github.com/tanjunchen)
 
 - [content/zh/docs/tasks/configure-pod-container/share-process-namespace.md](https://github.com/kubernetes/website/blob/release-1.16/content/zh/docs/tasks/configure-pod-container/share-process-namespace.md) **version:release-1.16** by [zhangx501](https://github.com/zhangx501)
+
+- [content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_init_phase_kubeconfig_controller-manager.md](https://github.com/kubernetes/website/blob/release-1.16/content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_init_phase_kubeconfig_controller-manager.md) **version:release-1.16** by [xichengliudui](https://github.com/xichengliudui)
+
+- [content/zh/docs/reference/glossary/flexvolume.md](https://github.com/kubernetes/website/blob/release-1.16/content/zh/docs/reference/glossary/flexvolume.md) **version:release-1.16** by [tanjunchen](https://github.com/tanjunchen)
 
 - [content/zh/docs/reference/glossary/cri-o.md](https://github.com/kubernetes/website/blob/release-1.16/content/zh/docs/reference/glossary/cri-o.md) **version:release-1.16** by [tanjunchen](https://github.com/tanjunchen)
 
@@ -254,21 +248,43 @@
 
 - [content/zh/docs/tasks/configure-pod-container/translate-compose-kubernetes.md](https://github.com/kubernetes/website/blob/release-1.16/content/zh/docs/tasks/configure-pod-container/translate-compose-kubernetes.md) **version:release-1.16** by [xichengliudui](https://github.com/xichengliudui)
 
-### 第 1 周：2019-10-07 ~ 2019-10-13 - 有效合并 8 篇
+- [content/zh/docs/tasks/configure-pod-container/quality-service-pod.md](https://github.com/kubernetes/website/blob/release-1.16/content/zh/docs/tasks/configure-pod-container/quality-service-pod.md) **version:release-1.16** by [xichengliudui](https://github.com/xichengliudui)
 
-- [content/zh/docs/reference/glossary/workload.md](https://github.com/kubernetes/website/blob/release-1.16/content/zh/docs/reference/glossary/workload.md) **version:release-1.16** by [tanjunchen](https://github.com/tanjunchen)
+- [content/zh/docs/tasks/configure-pod-container/configure-service-account.md](https://github.com/kubernetes/website/blob/release-1.16/content/zh/docs/tasks/configure-pod-container/configure-service-account.md) **version:release-1.16** by [xichengliudui](https://github.com/xichengliudui)
 
-- [content/zh/docs/reference/kubectl/docker-cli-to-kubectl.md](https://github.com/kubernetes/website/blob/release-1.16/content/zh/docs/reference/kubectl/docker-cli-to-kubectl.md) **version:release-1.16** by [tanjunchen](https://github.com/tanjunchen)
+- [content/zh/docs/tasks/administer-cluster/namespaces.md](https://github.com/kubernetes/website/blob/release-1.16/content/zh/docs/tasks/administer-cluster/namespaces.md) **version:release-1.16** by [xichengliudui](https://github.com/xichengliudui)
 
-- [content/zh/docs/reference/kubectl/jsonpath.md](https://github.com/kubernetes/website/blob/release-1.16/content/zh/docs/reference/kubectl/jsonpath.md) **version:release-1.16** by [tanjunchen](https://github.com/tanjunchen)
+### 第 1 周：2019-10-07 ~ 2019-10-13 - 有效合并 16 篇
+
+- [content/zh/docs/reference/kubectl/overview.md](https://github.com/kubernetes/website/blob/release-1.16/content/zh/docs/reference/kubectl/overview.md) **version:release-1.16** by [tanjunchen](https://github.com/tanjunchen)
 
 - [content/zh/docs/reference/access-authn-authz/webhook.md](https://github.com/kubernetes/website/blob/release-1.16/content/zh/docs/reference/access-authn-authz/webhook.md) **version:release-1.16** by [tanjunchen](https://github.com/tanjunchen)
 
-- [content/zh/docs/reference/kubectl/overview.md](https://github.com/kubernetes/website/blob/release-1.16/content/zh/docs/reference/kubectl/overview.md) **version:release-1.16** by [tanjunchen](https://github.com/tanjunchen)
+- [content/zh/docs/reference/glossary/workload.md](https://github.com/kubernetes/website/blob/release-1.16/content/zh/docs/reference/glossary/workload.md) **version:release-1.16** by [tanjunchen](https://github.com/tanjunchen)
 
 - [content/zh/docs/reference/glossary/kube-proxy.md](https://github.com/kubernetes/website/blob/release-1.16/content/zh/docs/reference/glossary/kube-proxy.md) **version:release-1.16** by [tanjunchen](https://github.com/tanjunchen)
 
 - [content/zh/docs/reference/kubectl/conventions.md](https://github.com/kubernetes/website/blob/release-1.16/content/zh/docs/reference/kubectl/conventions.md) **version:release-1.16** by [tanjunchen](https://github.com/tanjunchen)
 
+- [content/zh/docs/reference/kubectl/jsonpath.md](https://github.com/kubernetes/website/blob/release-1.16/content/zh/docs/reference/kubectl/jsonpath.md) **version:release-1.16** by [tanjunchen](https://github.com/tanjunchen)
+
+- [content/zh/docs/reference/kubectl/docker-cli-to-kubectl.md](https://github.com/kubernetes/website/blob/release-1.16/content/zh/docs/reference/kubectl/docker-cli-to-kubectl.md) **version:release-1.16** by [tanjunchen](https://github.com/tanjunchen)
+
 - [content/zh/docs/reference/kubectl/cheatsheet.md](https://github.com/kubernetes/website/blob/release-1.16/content/zh/docs/reference/kubectl/cheatsheet.md) **version:release-1.16** by [tanjunchen](https://github.com/tanjunchen)
+
+- [content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_init_phase_upload-config_all.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_init_phase_upload-config_all.md) **version:release-1.14** by [zhangx501](https://github.com/zhangx501)
+
+- [content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_join_phase_control-plane-join_mark-control-plane.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_join_phase_control-plane-join_mark-control-plane.md) **version:release-1.14** by [zhangx501](https://github.com/zhangx501)
+
+- [content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_join_phase_control-plane-join_etcd.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_join_phase_control-plane-join_etcd.md) **version:release-1.14** by [zhangx501](https://github.com/zhangx501)
+
+- [content/zh/docs/tasks/configure-pod-container/configure-gmsa.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/tasks/configure-pod-container/configure-gmsa.md) **version:release-1.14** by [Sophy417](https://github.com/Sophy417)
+
+- [content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_init_phase_upload-config_kubeadm.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_init_phase_upload-config_kubeadm.md) **version:release-1.14** by [Sophy417](https://github.com/Sophy417)
+
+- [content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_join_phase.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_join_phase.md) **version:release-1.14** by [Sophy417](https://github.com/Sophy417)
+
+- [content/zh/docs/reference/glossary/workload.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/reference/glossary/workload.md) **version:release-1.14** by [congfairy](https://github.com/congfairy)
+
+- [content/zh/docs/tasks/configure-pod-container/assign-cpu-resource.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/tasks/configure-pod-container/assign-cpu-resource.md) **version:release-1.14** by [yuxiaobo96](https://github.com/yuxiaobo96)
 
