@@ -38,6 +38,10 @@
   - 通过 Github API V3 实现任务管理 - (管理任务是个很消耗时间的工作)
   - 任务存储到 PGSQL 数据库中
 
+#### 201908-09 时间段的翻译进度
+
+- 进度展示图 [DashBoard](https://k8smeetup.github.io/k8s-official-translation/index-201908_09.html)
+
 ### 第三阶段：基于 [website](https://github.com/kubernetes/website) 仓库的 relese-1.16 分支进行翻译
 
 - 时间区间：2019/10/1 - 至今
