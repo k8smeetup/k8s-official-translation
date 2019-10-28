@@ -34,25 +34,31 @@
 
 ### 第 2 周：2019-10-14 ~ 2019-10-20 - 有效合并 11 篇
 
-- [content/zh/docs/concepts/services-networking/dual-stack.md](https://github.com/kubernetes/website/blob/release-1.16/content/zh/docs/concepts/services-networking/dual-stack.md) **version:release-1.16** by [pandaamanda](https://github.com/pandaamanda)
-
 - [content/zh/docs/concepts/storage/volume-pvc-datasource.md](https://github.com/kubernetes/website/blob/release-1.16/content/zh/docs/concepts/storage/volume-pvc-datasource.md) **version:release-1.16** by [pandaamanda](https://github.com/pandaamanda)
+
+- [content/zh/docs/concepts/services-networking/dual-stack.md](https://github.com/kubernetes/website/blob/release-1.16/content/zh/docs/concepts/services-networking/dual-stack.md) **version:release-1.16** by [pandaamanda](https://github.com/pandaamanda)
 
 - [content/zh/docs/tasks/inject-data-application/define-environment-variable-container.md](https://github.com/kubernetes/website/blob/release-1.16/content/zh/docs/tasks/inject-data-application/define-environment-variable-container.md) **version:release-1.16** by [wangyx1992](https://github.com/wangyx1992)
 
-- [content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_upgrade_node_phase.md](https://github.com/kubernetes/website/blob/release-1.16/content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_upgrade_node_phase.md) **version:release-1.16** by [ping035627](https://github.com/ping035627)
+- [content/zh/docs/concepts/workloads/pods/ephemeral-containers.md](https://github.com/kubernetes/website/blob/release-1.16/content/zh/docs/concepts/workloads/pods/ephemeral-containers.md) **version:release-1.16** by [pandaamanda](https://github.com/pandaamanda)
 
 - [content/zh/docs/concepts/workloads/pods/pod-topology-spread-constraints.md](https://github.com/kubernetes/website/blob/release-1.16/content/zh/docs/concepts/workloads/pods/pod-topology-spread-constraints.md) **version:release-1.16** by [pandaamanda](https://github.com/pandaamanda)
 
 - [content/zh/docs/reference/setup-tools/kubeadm/kubeadm-upgrade-phase.md](https://github.com/kubernetes/website/blob/release-1.16/content/zh/docs/reference/setup-tools/kubeadm/kubeadm-upgrade-phase.md) **version:release-1.16** by [ping035627](https://github.com/ping035627)
 
-- [content/zh/docs/concepts/workloads/pods/ephemeral-containers.md](https://github.com/kubernetes/website/blob/release-1.16/content/zh/docs/concepts/workloads/pods/ephemeral-containers.md) **version:release-1.16** by [pandaamanda](https://github.com/pandaamanda)
+- [content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_upgrade_node_phase.md](https://github.com/kubernetes/website/blob/release-1.16/content/zh/docs/reference/setup-tools/kubeadm/generated/kubeadm_upgrade_node_phase.md) **version:release-1.16** by [ping035627](https://github.com/ping035627)
 
-- [content/zh/docs/concepts/configuration/pod-overhead.md](https://github.com/kubernetes/website/blob/release-1.16/content/zh/docs/concepts/configuration/pod-overhead.md) **version:release-1.16** by [ping035627](https://github.com/ping035627)
+- [content/zh/docs/tasks/run-application/rolling-update-replication-controller.md](https://github.com/kubernetes/website/blob/release-1.16/content/zh/docs/tasks/run-application/rolling-update-replication-controller.md) **version:release-1.16** by [ping035627](https://github.com/ping035627)
 
 - [content/zh/docs/setup/independent/create-cluster-kubeadm.md](https://github.com/kubernetes/website/blob/release-1.16/content/zh/docs/setup/independent/create-cluster-kubeadm.md) **version:release-1.16** by [ping035627](https://github.com/ping035627)
 
 - [content/zh/docs/setup/independent/install-kubeadm.md](https://github.com/kubernetes/website/blob/release-1.16/content/zh/docs/setup/independent/install-kubeadm.md) **version:release-1.16** by [ping035627](https://github.com/ping035627)
 
-- [content/zh/docs/tasks/run-application/rolling-update-replication-controller.md](https://github.com/kubernetes/website/blob/release-1.16/content/zh/docs/tasks/run-application/rolling-update-replication-controller.md) **version:release-1.16** by [ping035627](https://github.com/ping035627)
+- [content/zh/docs/concepts/configuration/pod-overhead.md](https://github.com/kubernetes/website/blob/release-1.16/content/zh/docs/concepts/configuration/pod-overhead.md) **version:release-1.16** by [ping035627](https://github.com/ping035627)
+
+### 第 1 周：2019-10-07 ~ 2019-10-13 - 有效合并 2 篇
+
+- [content/zh/docs/reference/glossary/preemption.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/reference/glossary/preemption.md) **version:release-1.14** by [congfairy](https://github.com/congfairy)
+
+- [content/zh/docs/reference/glossary/host-aliases.md](https://github.com/kubernetes/website/blob/release-1.14/content/zh/docs/reference/glossary/host-aliases.md) **version:release-1.14** by [congfairy](https://github.com/congfairy)
 
