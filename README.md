@@ -1,6 +1,6 @@
 # K8SMeetup 翻译流程与翻译校稿规范
 
-> 注：现在要基于 Master 分支提交任务，不在接受子分支的 PR 提交..
+> 注：现在要基于 Master 分支提交任务，不再接受子分支的 PR 提交..
 
 现在基于 [website](https://github.com/kubernetes/website) 仓库的 `Master` 分支进行翻译..
 
