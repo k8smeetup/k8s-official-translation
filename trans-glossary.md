@@ -75,5 +75,7 @@ sorted alphabetically
 - volume, 卷
 - worker node, 工作节点
 - workloads, 工作负载
-
+- owner, 所有者
+- dependent, 附属 或 附属者
+- orphans, 孤立或 孤立的
 
